@@ -1,0 +1,8 @@
+Project Name,Package Name,Type Name,Code Smell
+gs-testing-restdocs,(default package),MavenWrapperDownloader,Unutilized Abstraction
+gs-testing-restdocs,(default package),MavenWrapperDownloader,Unutilized Abstraction
+gs-testing-restdocs,com.example.testingrestdocs,HomeController,Unutilized Abstraction
+gs-testing-restdocs,com.example.testingrestdocs,TestingRestdocsApplicationTests,Unutilized Abstraction
+gs-testing-restdocs,com.example.testingrestdocs,WebLayerTest,Unutilized Abstraction
+gs-testing-restdocs,com.example.testingrestdocs,TestingRestdocsApplication,Unutilized Abstraction
+gs-testing-restdocs,com.example.testingrestdocs,TestingRestdocsApplicationTests,Unutilized Abstraction

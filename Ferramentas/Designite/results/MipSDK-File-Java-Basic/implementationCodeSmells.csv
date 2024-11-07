@@ -1,0 +1,4 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell
+MipSDK-File-Java-Basic,com.microsoft.mipsdksample,Action,CreateFileHandler,Long Statement
+MipSDK-File-Java-Basic,com.microsoft.mipsdksample,AuthDelegateImpl,acquireTokenInteractive,Long Statement
+MipSDK-File-Java-Basic,com.microsoft.mipsdksample,AuthDelegateImpl,acquireTokenInteractive,Long Statement

@@ -1,0 +1,6 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+gs-messaging-rabbitmq,com.example.messagingrabbitmq,MessagingRabbitmqApplication,2,0,6,1,26,6,0,0,0.8333333333333334,3,2
+gs-messaging-rabbitmq,com.example.messagingrabbitmq,Receiver,1,0,2,2,10,2,0,0,0.0,3,0
+gs-messaging-rabbitmq,com.example.messagingrabbitmq,Runner,2,0,2,2,13,2,0,0,0.0,1,2
+gs-messaging-rabbitmq,com.example.messagingrabbitmq,MessagingRabbitmqApplicationTest,3,0,1,1,13,1,0,0,0.0,0,3
+gs-messaging-rabbitmq,com.example.messagingrabbitmq,MessagingRabbitmqApplication,0,0,1,1,5,1,0,0,-1.0,0,0

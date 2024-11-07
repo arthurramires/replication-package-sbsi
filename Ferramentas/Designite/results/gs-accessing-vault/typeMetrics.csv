@@ -1,0 +1,4 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+gs-accessing-vault,hello,Application,1,0,2,2,32,3,0,0,1.0,1,1
+gs-accessing-vault,hello,VaultOperationsTest,3,0,6,4,33,6,0,0,0.5,0,1
+gs-accessing-vault,hello,Credentials,2,0,4,4,16,4,0,0,0.5,1,0

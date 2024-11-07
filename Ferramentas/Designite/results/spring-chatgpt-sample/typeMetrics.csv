@@ -1,0 +1,22 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.cli,AzSearchConfig,3,0,1,1,9,1,0,0,0.0,0,0
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.cli,CliApplication,1,0,2,2,14,3,0,0,1.0,1,2
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.cli,Config,4,0,3,3,16,3,0,0,1.0,0,2
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common,AzureOpenAIClient,4,0,2,2,17,2,0,0,0.0,4,0
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common,ChatPlanner,2,0,1,1,22,3,0,0,0.0,1,3
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common,DocumentIndexPlanner,2,0,1,1,25,3,0,0,0.0,1,5
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common,TextSplitter,6,0,4,2,50,11,0,0,0.0,1,0
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.prompt,PromptTemplate,9,0,1,1,14,1,0,0,0.0,1,0
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.reader,SimpleFolderReader,2,0,2,1,29,4,0,0,1.0,1,0
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,AzureCognitiveSearchVectorStore,1,0,7,7,25,7,0,1,0.2857142857142857,0,1
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,DocEntry,4,0,0,0,6,0,0,0,-1.0,4,0
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,EmbeddingMath,0,0,3,3,27,7,0,0,-1.0,2,1
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,SimpleMemoryVectorStore,5,0,10,9,67,13,0,1,0.2,1,3
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,Similarity,2,0,0,0,4,0,0,0,-1.0,0,0
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,VectorStoreData,1,0,0,0,3,0,0,0,-1.0,1,0
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,VectorStore,0,0,6,0,8,6,2,0,-1.0,4,1
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.webapi,AzSearchConfig,3,0,1,1,9,1,0,0,0.0,0,0
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.webapi,Config,5,0,3,3,17,3,0,0,1.0,0,3
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.webapi,SpringChatgptSampleApplication,0,0,3,3,13,3,0,0,-1.0,1,1
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.webapi.controllers,ChatController,1,0,1,1,6,1,0,0,0.0,0,2
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.webapi.models,ChatCompletionsRequest,1,0,0,0,3,0,0,0,-1.0,1,0

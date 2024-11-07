@@ -1,0 +1,26 @@
+Project Name,Package Name,Type Name,Code Smell
+aws-eks-crac,com.amazon.customerService.config,AppConfig,Unnecessary Abstraction
+aws-eks-crac,com.amazon.customerService.config,AppConfig,Deficient Encapsulation
+aws-eks-crac,com.amazon.customerService.config,AppConfig,Unnecessary Abstraction
+aws-eks-crac,com.amazon.customerService.config,AppConfig,Unutilized Abstraction
+aws-eks-crac,com.amazon.customerService.config,AppConfig,Deficient Encapsulation
+aws-eks-crac,com.amazon.customerService.controller,CustomerController,Unutilized Abstraction
+aws-eks-crac,com.amazon.customerService.controller,CustomerController,Unutilized Abstraction
+aws-eks-crac,com.amazon.customerService,CustomerServiceApplication,Unutilized Abstraction
+aws-eks-crac,com.amazon.customerService.exception,CustomerNotFoundException,Unutilized Abstraction
+aws-eks-crac,com.amazon.customerService.exception,CustomerNotFoundException,Unutilized Abstraction
+aws-eks-crac,com.amazon.customerService.model,Customer,Unutilized Abstraction
+aws-eks-crac,com.amazon.customerService.model.metrics,ContainerMetric,Unutilized Abstraction
+aws-eks-crac,com.amazon.customerService.model.metrics,MetricWrapper,Unutilized Abstraction
+aws-eks-crac,com.amazon.customerService.model.metrics,PodMetric,Unutilized Abstraction
+aws-eks-crac,com.amazon.customerService.model.metrics,TaskMetric,Unutilized Abstraction
+aws-eks-crac,com.amazon.customerService.repository,CustomerRepository,Deficient Encapsulation
+aws-eks-crac,com.amazon.customerService.repository,CustomerRepositoryTest,Unutilized Abstraction
+aws-eks-crac,com.amazon.customerService.repository,CustomerRepository,Unutilized Abstraction
+aws-eks-crac,com.amazon.customerService.repository,CustomerRepository,Deficient Encapsulation
+aws-eks-crac,com.amazon.customerService.repository,CustomerRepositoryTest,Unutilized Abstraction
+aws-eks-crac,com.amazon.customerService.service,CustomerService,Unutilized Abstraction
+aws-eks-crac,com.amazon.customerService.service,EcsMetaDataService,Unutilized Abstraction
+aws-eks-crac,com.amazon.customerService.service,EksMetricsService,Unutilized Abstraction
+aws-eks-crac,com.amazon.customerService.utils,TimingUtils,Unutilized Abstraction
+aws-eks-crac,com.amazon.customerService.utils,TimingUtils,Unutilized Abstraction

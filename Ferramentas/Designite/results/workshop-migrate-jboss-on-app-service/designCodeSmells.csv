@@ -1,0 +1,12 @@
+Project Name,Package Name,Type Name,Code Smell
+workshop-migrate-jboss-on-app-service,com.redhat.coolstore.model,Order,Insufficient Modularization
+workshop-migrate-jboss-on-app-service,com.redhat.coolstore.rest,CartEndpoint,Unutilized Abstraction
+workshop-migrate-jboss-on-app-service,com.redhat.coolstore.rest,OrderEndpoint,Unutilized Abstraction
+workshop-migrate-jboss-on-app-service,com.redhat.coolstore.rest,ProductEndpoint,Unutilized Abstraction
+workshop-migrate-jboss-on-app-service,com.redhat.coolstore.rest,RestApplication,Unnecessary Abstraction
+workshop-migrate-jboss-on-app-service,com.redhat.coolstore.rest,RestApplication,Unutilized Abstraction
+workshop-migrate-jboss-on-app-service,com.redhat.coolstore.utils,DataBaseMigrationStartup,Unutilized Abstraction
+workshop-migrate-jboss-on-app-service,com.redhat.coolstore.utils,Producers,Unutilized Abstraction
+workshop-migrate-jboss-on-app-service,com.redhat.coolstore.utils,StartupListener,Unutilized Abstraction
+workshop-migrate-jboss-on-app-service,weblogic.application,ApplicationLifecycleEvent,Unnecessary Abstraction
+workshop-migrate-jboss-on-app-service,weblogic.application,ApplicationLifecycleListener,Unutilized Abstraction

@@ -1,0 +1,12 @@
+Project Name,Package Name,Type Name,Code Smell
+amazon-kinesis-analytics-beam-taxi-consumer,com.amazonaws.samples.beam.taxi.count,CloudWatchSink,Unutilized Abstraction
+amazon-kinesis-analytics-beam-taxi-consumer,com.amazonaws.samples.beam.taxi.count,DefaultCredentialsProviderClientsProvider,Unutilized Abstraction
+amazon-kinesis-analytics-beam-taxi-consumer,com.amazonaws.samples.beam.taxi.count,KinesisParser,Unutilized Abstraction
+amazon-kinesis-analytics-beam-taxi-consumer,com.amazonaws.samples.beam.taxi.count,S3Parser,Unutilized Abstraction
+amazon-kinesis-analytics-beam-taxi-consumer,com.amazonaws.samples.beam.taxi.count,Metric,Deficient Encapsulation
+amazon-kinesis-analytics-beam-taxi-consumer,com.amazonaws.samples.beam.taxi.count,PartitionByBorough,Unutilized Abstraction
+amazon-kinesis-analytics-beam-taxi-consumer,com.amazonaws.samples.beam.taxi.count,PartitionByBorough,Deficient Encapsulation
+amazon-kinesis-analytics-beam-taxi-consumer,com.amazonaws.samples.beam.taxi.count,TaxiZone,Deficient Encapsulation
+amazon-kinesis-analytics-beam-taxi-consumer,com.amazonaws.samples.beam.taxi.count,TaxiCount,Unutilized Abstraction
+amazon-kinesis-analytics-beam-taxi-consumer,com.amazonaws.samples.beam.taxi.count.kinesis,TripEvent,Deficient Encapsulation
+amazon-kinesis-analytics-beam-taxi-consumer,com.amazonaws.samples.beam.taxi.count.kinesis,WatermarkEvent,Deficient Encapsulation

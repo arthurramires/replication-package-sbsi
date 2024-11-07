@@ -1,0 +1,17 @@
+Project Name,Package Name,Type Name,Code Smell
+ms-identity-docs-code-java,com.contoso.api,ApiController,Unutilized Abstraction
+ms-identity-docs-code-java,com.contoso.api,ApiApplication,Unutilized Abstraction
+ms-identity-docs-code-java,com.contoso.api,ApiController,Unutilized Abstraction
+ms-identity-docs-code-java,com.contoso.oboapi,ApiController,Unutilized Abstraction
+ms-identity-docs-code-java,com.example.msaldemo,ExampleInstrumentedTest,Unutilized Abstraction
+ms-identity-docs-code-java,com.example.msaldemo,MainActivity,Unutilized Abstraction
+ms-identity-docs-code-java,com.example.msaldemo,MainActivity,Broken Hierarchy
+ms-identity-docs-code-java,com.example.msaldemo,MSGraphRequestWrapper,Deficient Encapsulation
+ms-identity-docs-code-java,com.example.msaldemo,OnFragmentInteractionListener,Unnecessary Abstraction
+ms-identity-docs-code-java,com.example.msaldemo,OnFragmentInteractionListener,Unutilized Abstraction
+ms-identity-docs-code-java,com.example.msaldemo,SingleAccountModeFragment,Unutilized Abstraction
+ms-identity-docs-code-java,com.example.msaldemo,SingleAccountModeFragment,Insufficient Modularization
+ms-identity-docs-code-java,com.example.msaldemo,ExampleUnitTest,Unutilized Abstraction
+ms-identity-docs-code-java,com.contoso.cli,App,Unutilized Abstraction
+ms-identity-docs-code-java,com.contoso.webapp,IndexController,Unutilized Abstraction
+ms-identity-docs-code-java,com.contoso.webapp,SecurityConfig,Unutilized Abstraction

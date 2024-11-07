@@ -1,0 +1,14 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC
+gs-async-method,com.example.asyncmethod,AppRunner,AppRunner,3,1,1
+gs-async-method,com.example.asyncmethod,AppRunner,run,11,1,1
+gs-async-method,com.example.asyncmethod,AsyncMethodApplication,main,3,1,1
+gs-async-method,com.example.asyncmethod,AsyncMethodApplication,taskExecutor,9,1,0
+gs-async-method,com.example.asyncmethod,GitHubLookupService,GitHubLookupService,3,1,1
+gs-async-method,com.example.asyncmethod,GitHubLookupService,findUser,7,1,1
+gs-async-method,com.example.asyncmethod,User,getName,3,1,0
+gs-async-method,com.example.asyncmethod,User,setName,3,1,1
+gs-async-method,com.example.asyncmethod,User,getBlog,3,1,0
+gs-async-method,com.example.asyncmethod,User,setBlog,3,1,1
+gs-async-method,com.example.asyncmethod,User,toString,3,1,0
+gs-async-method,com.example.asyncmethod,AsyncMethodApplication,main,3,1,1
+gs-async-method,com.example.asyncmethod,AsyncMethodApplicationTests,contextLoads,2,1,0

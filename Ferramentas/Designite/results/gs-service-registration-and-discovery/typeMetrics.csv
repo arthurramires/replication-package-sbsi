@@ -1,0 +1,9 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+gs-service-registration-and-discovery,com.example.eurekaserver,EurekaServerApplication,0,0,1,1,5,1,0,0,-1.0,1,1
+gs-service-registration-and-discovery,com.example.eurekaserver,EurekaServerApplicationTests,0,0,1,0,4,1,0,0,-1.0,0,0
+gs-service-registration-and-discovery,com.example.servicea.controller,ServiceARestController,0,0,1,1,5,1,0,0,-1.0,0,0
+gs-service-registration-and-discovery,com.example.servicea,ServiceaApplication,0,0,1,1,5,1,0,0,-1.0,1,1
+gs-service-registration-and-discovery,com.example.servicea,ServiceaApplicationTests,0,0,1,0,4,1,0,0,-1.0,0,0
+gs-service-registration-and-discovery,com.example.serviceb.controller,ServiceBRestController,2,0,2,2,13,2,0,0,0.0,0,0
+gs-service-registration-and-discovery,com.example.serviceb,ServicebApplication,0,0,1,1,5,1,0,0,-1.0,1,1
+gs-service-registration-and-discovery,com.example.serviceb,ServicebApplicationTests,0,0,1,0,4,1,0,0,-1.0,0,0

@@ -1,0 +1,8 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC
+gs-spring-data-reactive-redis,com.example.demo,CoffeeConfiguration,redisOperations,6,1,1
+gs-spring-data-reactive-redis,com.example.demo,CoffeeController,CoffeeController,3,1,1
+gs-spring-data-reactive-redis,com.example.demo,CoffeeController,all,3,1,0
+gs-spring-data-reactive-redis,com.example.demo,CoffeeLoader,CoffeeLoader,4,1,2
+gs-spring-data-reactive-redis,com.example.demo,CoffeeLoader,loadData,3,1,0
+gs-spring-data-reactive-redis,com.example.demo,DemoApplication,main,3,1,1
+gs-spring-data-reactive-redis,com.example.demo,DemoApplication,main,3,1,1

@@ -1,0 +1,6 @@
+Project Name,Package Name,Type Name,Code Smell
+gs-securing-web,com.example.securingweb,MvcConfig,Unutilized Abstraction
+gs-securing-web,com.example.securingweb,WebSecurityConfig,Unutilized Abstraction
+gs-securing-web,com.example.securingweb,SecuringWebApplicationTests,Unutilized Abstraction
+gs-securing-web,com.example.securingweb,MvcConfig,Unutilized Abstraction
+gs-securing-web,com.example.securingweb,SecuringWebApplication,Unutilized Abstraction

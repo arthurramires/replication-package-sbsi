@@ -1,0 +1,4 @@
+Project Name,Package Name,Type Name,Code Smell
+gs-accessing-data-jpa,com.example.accessingdatajpa,CustomerRepositoryTests,Unutilized Abstraction
+gs-accessing-data-jpa,com.example.accessingdatajpa,AccessingDataJpaApplication,Unutilized Abstraction
+gs-accessing-data-jpa,com.example.accessingdatajpa,AccessingDataJpaApplicationTests,Unutilized Abstraction

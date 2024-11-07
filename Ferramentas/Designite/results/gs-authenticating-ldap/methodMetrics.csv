@@ -1,0 +1,9 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC
+gs-authenticating-ldap,com.example.authenticatingldap,AuthenticatingLdapApplication,main,3,1,1
+gs-authenticating-ldap,com.example.authenticatingldap,HomeController,index,3,1,0
+gs-authenticating-ldap,com.example.authenticatingldap,WebSecurityConfig,securityFilterChain,4,1,1
+gs-authenticating-ldap,com.example.authenticatingldap,WebSecurityConfig,configure,3,1,1
+gs-authenticating-ldap,com.example.authenticatingldap,AuthenticatingLdapApplicationTests,loginWithValidUserThenAuthenticated,4,1,0
+gs-authenticating-ldap,com.example.authenticatingldap,AuthenticatingLdapApplicationTests,loginWithInvalidUserThenUnauthenticated,4,1,0
+gs-authenticating-ldap,com.example.authenticatingldap,AuthenticatingLdapApplication,main,3,1,1
+gs-authenticating-ldap,com.example.authenticatingldap,HomeController,index,3,1,0

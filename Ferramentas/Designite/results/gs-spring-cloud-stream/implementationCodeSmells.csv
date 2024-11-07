@@ -1,0 +1,6 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell
+gs-spring-cloud-stream,com.example.stream.nameprocessor,NameProcessorApplicationTests,testUsageCostProcessor,Long Statement
+gs-spring-cloud-stream,com.example.stream.nameprocessor,NameProcessorApplicationTests,testUsageCostProcessor,Magic Number
+gs-spring-cloud-stream,com.example.stream.namesink,NameSinkApplicationTests,testNameSink,Long Statement
+gs-spring-cloud-stream,com.example.stream.namesource,NameSourceApplicationTests,testUsageDetailSender,Long Statement
+gs-spring-cloud-stream,com.example.stream.namesource,NameSourceApplicationTests,testUsageDetailSender,Magic Number

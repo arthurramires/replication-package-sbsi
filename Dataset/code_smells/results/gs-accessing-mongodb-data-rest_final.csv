@@ -1,0 +1,38 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell,source_file,MethodName,LOC,CC,PC,NOF,NOPF,NOM,NOPM,WMC,NC,DIT,LCOM,FANIN,FANOUT
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,AccessingMongodbDataRestApplicationTests,shouldCreateEntity,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,AccessingMongodbDataRestApplicationTests,shouldRetrieveEntity,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,AccessingMongodbDataRestApplicationTests,shouldRetrieveEntity,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,AccessingMongodbDataRestApplicationTests,shouldQueryEntity,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,AccessingMongodbDataRestApplicationTests,shouldQueryEntity,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,AccessingMongodbDataRestApplicationTests,shouldUpdateEntity,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,AccessingMongodbDataRestApplicationTests,shouldUpdateEntity,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,AccessingMongodbDataRestApplicationTests,shouldUpdateEntity,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,AccessingMongodbDataRestApplicationTests,shouldPartiallyUpdateEntity,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,AccessingMongodbDataRestApplicationTests,shouldPartiallyUpdateEntity,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,AccessingMongodbDataRestApplicationTests,shouldDeleteEntity,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,AccessingMongodbDataRestApplication,,,methodMetrics.csv,main,3.0,1.0,1.0,,,,,,,,,,
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,Person,,,methodMetrics.csv,getFirstName,3.0,1.0,0.0,,,,,,,,,,
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,Person,,,methodMetrics.csv,setFirstName,3.0,1.0,1.0,,,,,,,,,,
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,Person,,,methodMetrics.csv,getLastName,3.0,1.0,0.0,,,,,,,,,,
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,Person,,,methodMetrics.csv,setLastName,3.0,1.0,1.0,,,,,,,,,,
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,PersonRepository,,,methodMetrics.csv,findByLastName,0.0,1.0,1.0,,,,,,,,,,
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,AccessingMongodbDataRestApplicationTests,,,methodMetrics.csv,deleteAllBeforeTests,3.0,1.0,0.0,,,,,,,,,,
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,AccessingMongodbDataRestApplicationTests,,,methodMetrics.csv,shouldReturnRepositoryIndex,3.0,1.0,0.0,,,,,,,,,,
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,AccessingMongodbDataRestApplicationTests,,,methodMetrics.csv,shouldCreateEntity,3.0,1.0,0.0,,,,,,,,,,
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,AccessingMongodbDataRestApplicationTests,,,methodMetrics.csv,shouldRetrieveEntity,5.0,1.0,0.0,,,,,,,,,,
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,AccessingMongodbDataRestApplicationTests,,,methodMetrics.csv,shouldQueryEntity,4.0,1.0,0.0,,,,,,,,,,
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,AccessingMongodbDataRestApplicationTests,,,methodMetrics.csv,shouldUpdateEntity,6.0,1.0,0.0,,,,,,,,,,
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,AccessingMongodbDataRestApplicationTests,,,methodMetrics.csv,shouldPartiallyUpdateEntity,6.0,1.0,0.0,,,,,,,,,,
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,AccessingMongodbDataRestApplicationTests,,,methodMetrics.csv,shouldDeleteEntity,6.0,1.0,0.0,,,,,,,,,,
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,AccessingMongodbDataRestApplication,,,methodMetrics.csv,main,3.0,1.0,1.0,,,,,,,,,,
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,AccessingMongodbDataRestApplicationTests,,,methodMetrics.csv,contextLoads,2.0,1.0,0.0,,,,,,,,,,
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,AccessingMongodbDataRestApplication,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,2.0,1.0
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,Person,,,typeMetrics.csv,,17.0,,,3.0,0.0,4.0,4.0,4.0,0.0,0.0,0.5,0.0,0.0
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,PersonRepository,,,typeMetrics.csv,,3.0,,,0.0,0.0,1.0,0.0,1.0,0.0,0.0,-1.0,1.0,0.0
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,AccessingMongodbDataRestApplicationTests,,,typeMetrics.csv,,40.0,,,2.0,0.0,8.0,8.0,8.0,0.0,0.0,0.25,0.0,1.0
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,AccessingMongodbDataRestApplication,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,1.0
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,AccessingMongodbDataRestApplicationTests,,,typeMetrics.csv,,4.0,,,0.0,0.0,1.0,0.0,1.0,0.0,0.0,-1.0,0.0,0.0
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,Person,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,AccessingMongodbDataRestApplicationTests,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,AccessingMongodbDataRestApplication,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,AccessingMongodbDataRestApplicationTests,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,

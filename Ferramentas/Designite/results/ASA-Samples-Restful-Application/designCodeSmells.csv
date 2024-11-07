@@ -1,0 +1,8 @@
+Project Name,Package Name,Type Name,Code Smell
+ASA-Samples-Restful-Application,com.microsoft.azure.simpletodo.configuration,OpenApiConfiguration,Unutilized Abstraction
+ASA-Samples-Restful-Application,com.microsoft.azure.simpletodo.configuration,RFC3339DateFormat,Unutilized Abstraction
+ASA-Samples-Restful-Application,com.microsoft.azure.simpletodo.configuration,WebConfiguration,Unutilized Abstraction
+ASA-Samples-Restful-Application,com.microsoft.azure.simpletodo.model,TodoItem,Insufficient Modularization
+ASA-Samples-Restful-Application,com.microsoft.azure.simpletodo.repository,TodoListRepository,Unnecessary Abstraction
+ASA-Samples-Restful-Application,com.microsoft.azure.simpletodo,SimpleTodoApplication,Unutilized Abstraction
+ASA-Samples-Restful-Application,com.microsoft.azure.simpletodo.web,TodoListsController,Unutilized Abstraction

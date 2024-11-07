@@ -1,0 +1,6 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell
+gs-accessing-data-r2dbc,com.example.accessingdatar2dbc,AccessingDataR2dbcApplication,demo,Long Statement
+gs-accessing-data-r2dbc,com.example.accessingdatar2dbc,AccessingDataR2dbcApplication,demo,Magic Number
+gs-accessing-data-r2dbc,com.example.accessingdatar2dbc,AccessingDataR2dbcApplication,demo,Magic Number
+gs-accessing-data-r2dbc,com.example.accessingdatar2dbc,AccessingDataR2dbcApplication,demo,Magic Number
+gs-accessing-data-r2dbc,com.example.accessingdatar2dbc,AccessingDataR2dbcApplication,demo,Magic Number

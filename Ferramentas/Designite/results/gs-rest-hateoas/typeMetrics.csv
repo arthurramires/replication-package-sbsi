@@ -1,0 +1,10 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+gs-rest-hateoas,(default package),MavenWrapperDownloader,5,0,3,1,84,8,0,0,1.0,0,0
+gs-rest-hateoas,(default package),MavenWrapperDownloader,5,0,3,1,84,8,0,0,1.0,0,0
+gs-rest-hateoas,com.example.resthateoas,Greeting,1,0,2,2,9,2,0,0,0.0,1,0
+gs-rest-hateoas,com.example.resthateoas,GreetingController,1,0,1,1,8,1,0,0,0.0,1,2
+gs-rest-hateoas,com.example.resthateoas,RestHateoasApplication,0,0,1,1,5,1,0,0,-1.0,2,1
+gs-rest-hateoas,com.example.resthateoas,GreetingMockMvcTests,1,0,1,1,6,1,0,0,0.0,0,0
+gs-rest-hateoas,com.example.resthateoas,GreetingTraversonIntegrationTests,1,0,1,1,8,1,0,0,0.0,0,0
+gs-rest-hateoas,com.example.resthateoas,RestHateoasApplication,0,0,1,1,5,1,0,0,-1.0,0,1
+gs-rest-hateoas,com.example.resthateoas,RestHateoasApplicationTests,0,0,1,1,4,1,0,0,-1.0,0,0

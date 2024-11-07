@@ -1,0 +1,7 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+gs-securing-web,com.example.securingweb,MvcConfig,0,0,1,1,8,1,0,0,-1.0,0,0
+gs-securing-web,com.example.securingweb,SecuringWebApplication,0,0,1,1,5,1,0,0,-1.0,2,1
+gs-securing-web,com.example.securingweb,WebSecurityConfig,0,0,2,2,10,2,0,0,-1.0,0,0
+gs-securing-web,com.example.securingweb,SecuringWebApplicationTests,1,0,5,5,21,5,0,0,0.0,0,0
+gs-securing-web,com.example.securingweb,MvcConfig,0,0,1,1,8,1,0,0,-1.0,0,0
+gs-securing-web,com.example.securingweb,SecuringWebApplication,0,0,1,1,5,1,0,0,-1.0,0,1

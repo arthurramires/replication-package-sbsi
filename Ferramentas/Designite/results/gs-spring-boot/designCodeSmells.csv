@@ -1,0 +1,6 @@
+Project Name,Package Name,Type Name,Code Smell
+gs-spring-boot,com.example.springboot,HelloController,Unutilized Abstraction
+gs-spring-boot,com.example.springboot,HelloControllerITest,Unutilized Abstraction
+gs-spring-boot,com.example.springboot,HelloControllerTest,Unutilized Abstraction
+gs-spring-boot,com.example.springboot,Application,Unutilized Abstraction
+gs-spring-boot,com.example.springboot,HelloController,Unutilized Abstraction

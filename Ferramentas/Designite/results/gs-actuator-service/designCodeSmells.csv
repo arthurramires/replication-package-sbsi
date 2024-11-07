@@ -1,0 +1,5 @@
+Project Name,Package Name,Type Name,Code Smell
+gs-actuator-service,com.example.actuatorservice,Greeting,Unutilized Abstraction
+gs-actuator-service,com.example.actuatorservice,HelloWorldController,Unutilized Abstraction
+gs-actuator-service,com.example.actuatorservice,HelloWorldApplicationTests,Unutilized Abstraction
+gs-actuator-service,com.example.actuatorservice,ActuatorServiceApplicationTests,Unutilized Abstraction

@@ -1,0 +1,5 @@
+Project Name,Package Name,Type Name,Code Smell
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,Person,Unutilized Abstraction
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,AccessingMongodbDataRestApplicationTests,Unutilized Abstraction
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,AccessingMongodbDataRestApplication,Unutilized Abstraction
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,AccessingMongodbDataRestApplicationTests,Unutilized Abstraction

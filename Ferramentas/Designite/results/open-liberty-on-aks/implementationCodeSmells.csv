@@ -1,0 +1,7 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell
+open-liberty-on-aks,cafe.model,CafeRepository,CafeRepository,Magic Number
+open-liberty-on-aks,cafe.model,CafeRepository,CafeRepository,Magic Number
+open-liberty-on-aks,cafe.model.entity,Coffee,equals,Complex Conditional
+open-liberty-on-aks,cafe.model.entity,Coffee,equals,Complex Conditional
+open-liberty-on-aks,cafe.web.view,Cafe,getAllCoffees,Long Statement
+open-liberty-on-aks,cafe.web.view,Cafe,getAllCoffees,Long Statement

@@ -1,0 +1,188 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell,source_file,MethodName,LOC,CC,PC,NOF,NOPF,NOM,NOPM,WMC,NC,DIT,LCOM,FANIN,FANOUT
+ApplicationInsights-Java-Samples,com.example,ManualTracePropagation,main,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,ManualTracePropagation,sendOneRequest,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,RequestProcessor,doSomethingThatIsAutoInstrumented,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,TrackAdvancedException,main,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,TrackAdvancedException,trackAdvancedException,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,TrackAdvancedException,initOpenTelemetry,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,TrackDependency,main,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,TrackDependency,track,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,TrackException,main,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,TrackException,main,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,TrackLog4j2,main,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,TrackLog4j2,main,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,TrackLog4j2,trackWithSlf4j_2,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,TrackLog4j2,initOpenTelemetry,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,TrackLogback,main,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,TrackLogback,trackWithSlf4j,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,TrackLogback,initOpenTelemetry,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,TrackLog4j2,main,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,TrackLog4j2,initOpenTelemetry,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,Main,main,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,Main,main,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,DemoSpanExporter,export,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,DurationSpanExporter,export,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,DurationSpanExporter,getRequestDurationInSeconds,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,DurationSpanExporter,getRequestDurationInSeconds,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,DemoController,longDuration,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,Application,main,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,TrackCustomException,main,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,TrackCustomException,trackCustomException,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,TrackCustomException,trackCustomException,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,Main,main,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,Main,main,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,Main,main,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,(default package),Micrometer,main,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,(default package),Micrometer,recordTimer,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,(default package),TrackMetric,main,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,(default package),TrackMetric,main,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,(default package),TrackMetric,trackGauge,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,(default package),TrackMetric,trackDoubleHistogramWithCustomDimensions,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,(default package),TrackMetric,trackDoubleHistogramWithCustomDimensions,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,(default package),TrackMetric,trackDoubleHistogramWithCustomDimensions,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,(default package),TrackMetric,trackDoubleHistogramWithCustomDimensions,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,(default package),TrackMetric,trackDoubleHistogramWithCustomDimensions,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,ManualTracePropagation,,,methodMetrics.csv,main,8.0,1.0,1.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,ManualTracePropagation,,,methodMetrics.csv,sendOneRequest,6.0,1.0,1.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,RequestProcessor,,,methodMetrics.csv,RequestProcessor,3.0,1.0,1.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,RequestProcessor,,,methodMetrics.csv,run,12.0,2.0,0.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,RequestProcessor,,,methodMetrics.csv,process,11.0,1.0,1.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,RequestProcessor,,,methodMetrics.csv,handleRequest,3.0,1.0,0.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,RequestProcessor,,,methodMetrics.csv,doSomethingThatIsAutoInstrumented,9.0,2.0,0.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,ExampleApplication,,,methodMetrics.csv,main,3.0,1.0,1.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,ExampleController,,,methodMetrics.csv,root,3.0,1.0,0.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,ExampleWebTelemetryModule,,,methodMetrics.csv,initialize,2.0,1.0,1.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,ExampleWebTelemetryModule,,,methodMetrics.csv,onBeginRequest,4.0,1.0,2.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,ExampleWebTelemetryModule,,,methodMetrics.csv,onEndRequest,2.0,1.0,2.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,ExampleApplication,,,methodMetrics.csv,main,3.0,1.0,1.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,ExampleController,,,methodMetrics.csv,root,3.0,1.0,0.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,ExampleWebTelemetryModule,,,methodMetrics.csv,doFilter,5.0,1.0,3.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,ExampleApplication,,,methodMetrics.csv,main,3.0,1.0,1.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,ExampleController,,,methodMetrics.csv,root,3.0,1.0,0.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,ExampleApplication,,,methodMetrics.csv,main,3.0,1.0,1.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,ExampleController,,,methodMetrics.csv,root,3.0,1.0,0.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,ExampleApplication,,,methodMetrics.csv,main,3.0,1.0,1.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,ExampleController,,,methodMetrics.csv,root,3.0,1.0,0.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,ExampleApplication,,,methodMetrics.csv,main,3.0,1.0,1.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,ExampleController,,,methodMetrics.csv,root,3.0,1.0,0.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,AdvancedException,,,methodMetrics.csv,AdvancedException,3.0,1.0,1.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,AdvancedException,,,methodMetrics.csv,getStackTrace,3.0,1.0,0.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,TrackAdvancedException,,,methodMetrics.csv,main,6.0,1.0,1.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,TrackAdvancedException,,,methodMetrics.csv,trackAdvancedException,9.0,1.0,0.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,TrackAdvancedException,,,methodMetrics.csv,initOpenTelemetry,5.0,1.0,0.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,TrackDependency,,,methodMetrics.csv,main,4.0,1.0,1.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,TrackDependency,,,methodMetrics.csv,track,13.0,1.0,0.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,TrackDependency,,,methodMetrics.csv,initOpenTelemetry,5.0,1.0,0.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,TrackException,,,methodMetrics.csv,main,6.0,1.0,1.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,TrackException,,,methodMetrics.csv,track,13.0,1.0,0.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,TrackException,,,methodMetrics.csv,trackWithLog4j2,3.0,1.0,0.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,TrackException,,,methodMetrics.csv,initOpenTelemetry,5.0,1.0,0.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,TrackLog4j2,,,methodMetrics.csv,main,8.0,1.0,1.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,TrackLog4j2,,,methodMetrics.csv,track,8.0,1.0,0.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,TrackLog4j2,,,methodMetrics.csv,trackWithSlf4j_2,4.0,1.0,0.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,TrackLog4j2,,,methodMetrics.csv,initOpenTelemetry,5.0,1.0,0.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,TrackLog4j2,,,methodMetrics.csv,runWithASpan,15.0,2.0,2.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,TrackLogback,,,methodMetrics.csv,main,6.0,1.0,1.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,TrackLogback,,,methodMetrics.csv,trackWithSlf4j,4.0,1.0,0.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,TrackLogback,,,methodMetrics.csv,initOpenTelemetry,5.0,1.0,0.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,TrackLogback,,,methodMetrics.csv,runWithASpan,15.0,2.0,2.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,TrackLog4j2,,,methodMetrics.csv,main,6.0,1.0,1.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,TrackLog4j2,,,methodMetrics.csv,trackWithSlf4j_1,4.0,1.0,0.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,TrackLog4j2,,,methodMetrics.csv,initOpenTelemetry,5.0,1.0,0.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,TrackLog4j2,,,methodMetrics.csv,runWithASpan,15.0,2.0,2.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,Main,,,methodMetrics.csv,main,12.0,1.0,1.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,DemoAutoConfigurationCustomizerProvider,,,methodMetrics.csv,customize,6.0,1.0,1.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,DemoSpanData,,,methodMetrics.csv,DemoSpanData,4.0,1.0,2.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,DemoSpanData,,,methodMetrics.csv,getAttributes,3.0,1.0,0.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,DemoSpanExporter,,,methodMetrics.csv,DemoSpanExporter,3.0,1.0,1.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,DemoSpanExporter,,,methodMetrics.csv,export,19.0,5.0,1.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,DemoSpanExporter,,,methodMetrics.csv,flush,3.0,1.0,0.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,DemoSpanExporter,,,methodMetrics.csv,shutdown,3.0,1.0,0.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,DurationAutoConfigurationCustomizerProvider,,,methodMetrics.csv,customize,6.0,1.0,1.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,DurationSpanExporter,,,methodMetrics.csv,DurationSpanExporter,3.0,1.0,1.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,DurationSpanExporter,,,methodMetrics.csv,export,10.0,3.0,1.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,DurationSpanExporter,,,methodMetrics.csv,getRequestDurationInSeconds,3.0,1.0,1.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,DurationSpanExporter,,,methodMetrics.csv,flush,3.0,1.0,0.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,DurationSpanExporter,,,methodMetrics.csv,shutdown,3.0,1.0,0.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,DemoApplication,,,methodMetrics.csv,main,3.0,1.0,1.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,DemoController,,,methodMetrics.csv,root,3.0,1.0,0.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,DemoController,,,methodMetrics.csv,longDuration,6.0,1.0,0.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,DemoController,,,methodMetrics.csv,shortDuration,5.0,1.0,0.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,Application,,,methodMetrics.csv,main,13.0,1.0,1.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,TrackCustomException,,,methodMetrics.csv,main,4.0,1.0,1.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,TrackCustomException,,,methodMetrics.csv,trackCustomException,8.0,1.0,0.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,Main,,,methodMetrics.csv,main,11.0,1.0,1.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,MyLogger1,,,methodMetrics.csv,trackWarn,8.0,1.0,0.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,MyLogger2,,,methodMetrics.csv,trackError,8.0,1.0,0.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,(default package),Micrometer,,,methodMetrics.csv,main,6.0,1.0,1.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,(default package),Micrometer,,,methodMetrics.csv,recordTimer,3.0,1.0,0.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,(default package),Micrometer,,,methodMetrics.csv,initOpenTelemetry,5.0,1.0,0.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,(default package),TrackMetric,,,methodMetrics.csv,main,7.0,1.0,1.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,(default package),TrackMetric,,,methodMetrics.csv,trackGauge,4.0,1.0,0.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,(default package),TrackMetric,,,methodMetrics.csv,trackDoubleHistogramWithCustomDimensions,7.0,1.0,0.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,(default package),TrackMetric,,,methodMetrics.csv,initOpenTelemetry,5.0,1.0,0.0,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,ManualTracePropagation,,,typeMetrics.csv,,16.0,,,0.0,0.0,2.0,1.0,2.0,0.0,0.0,-1.0,1.0,2.0
+ApplicationInsights-Java-Samples,com.example,RequestProcessor,,,typeMetrics.csv,,41.0,,,1.0,0.0,5.0,1.0,7.0,0.0,0.0,0.0,2.0,1.0
+ApplicationInsights-Java-Samples,com.example,ExampleApplication,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,6.0,1.0
+ApplicationInsights-Java-Samples,com.example,ExampleController,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,0.0
+ApplicationInsights-Java-Samples,com.example,ExampleWebTelemetryModule,,,typeMetrics.csv,,10.0,,,0.0,0.0,3.0,3.0,3.0,0.0,0.0,-1.0,0.0,0.0
+ApplicationInsights-Java-Samples,com.example,ExampleApplication,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,1.0
+ApplicationInsights-Java-Samples,com.example,ExampleController,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,0.0
+ApplicationInsights-Java-Samples,com.example,ExampleWebTelemetryModule,,,typeMetrics.csv,,7.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,0.0
+ApplicationInsights-Java-Samples,com.example,ExampleApplication,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,1.0
+ApplicationInsights-Java-Samples,com.example,ExampleController,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,0.0
+ApplicationInsights-Java-Samples,com.example,ExampleApplication,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,1.0
+ApplicationInsights-Java-Samples,com.example,ExampleController,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,0.0
+ApplicationInsights-Java-Samples,com.example,ExampleApplication,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,1.0
+ApplicationInsights-Java-Samples,com.example,ExampleController,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,0.0
+ApplicationInsights-Java-Samples,com.example,ExampleApplication,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,1.0
+ApplicationInsights-Java-Samples,com.example,ExampleController,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,0.0
+ApplicationInsights-Java-Samples,com.example,AdvancedException,,,typeMetrics.csv,,12.0,,,1.0,0.0,2.0,2.0,2.0,0.0,0.0,1.0,0.0,0.0
+ApplicationInsights-Java-Samples,com.example,TrackAdvancedException,,,typeMetrics.csv,,24.0,,,2.0,0.0,3.0,1.0,3.0,0.0,0.0,0.0,1.0,1.0
+ApplicationInsights-Java-Samples,com.example,TrackDependency,,,typeMetrics.csv,,27.0,,,3.0,0.0,3.0,1.0,3.0,0.0,0.0,0.6666666666666666,1.0,1.0
+ApplicationInsights-Java-Samples,com.example,TrackException,,,typeMetrics.csv,,33.0,,,4.0,0.0,4.0,1.0,4.0,0.0,0.0,0.5,1.0,1.0
+ApplicationInsights-Java-Samples,com.example,TrackLog4j2,,,typeMetrics.csv,,54.0,,,3.0,0.0,5.0,1.0,6.0,0.0,0.0,0.0,2.0,1.0
+ApplicationInsights-Java-Samples,com.example,TrackLogback,,,typeMetrics.csv,,40.0,,,2.0,0.0,4.0,1.0,5.0,0.0,0.0,0.0,1.0,1.0
+ApplicationInsights-Java-Samples,com.example,TrackLog4j2,,,typeMetrics.csv,,40.0,,,2.0,0.0,4.0,1.0,5.0,0.0,0.0,1.0,0.0,1.0
+ApplicationInsights-Java-Samples,com.example,Main,,,typeMetrics.csv,,14.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,0.0
+ApplicationInsights-Java-Samples,com.example,DemoAutoConfigurationCustomizerProvider,,,typeMetrics.csv,,12.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,0.0
+ApplicationInsights-Java-Samples,com.example,DemoSpanData,,,typeMetrics.csv,,10.0,,,1.0,0.0,2.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0
+ApplicationInsights-Java-Samples,com.example,DemoSpanExporter,,,typeMetrics.csv,,33.0,,,3.0,1.0,4.0,4.0,8.0,0.0,0.0,0.75,0.0,0.0
+ApplicationInsights-Java-Samples,com.example,DurationAutoConfigurationCustomizerProvider,,,typeMetrics.csv,,12.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,0.0
+ApplicationInsights-Java-Samples,com.example,DurationSpanExporter,,,typeMetrics.csv,,25.0,,,1.0,1.0,5.0,4.0,7.0,0.0,0.0,0.6,1.0,1.0
+ApplicationInsights-Java-Samples,com.example,DemoApplication,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,1.0,1.0
+ApplicationInsights-Java-Samples,com.example,DemoController,,,typeMetrics.csv,,16.0,,,0.0,0.0,3.0,3.0,3.0,0.0,0.0,-1.0,0.0,0.0
+ApplicationInsights-Java-Samples,com.example,Application,,,typeMetrics.csv,,16.0,,,1.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+ApplicationInsights-Java-Samples,com.example,TrackCustomException,,,typeMetrics.csv,,14.0,,,0.0,0.0,2.0,1.0,2.0,0.0,0.0,-1.0,1.0,1.0
+ApplicationInsights-Java-Samples,com.example,Main,,,typeMetrics.csv,,13.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,2.0
+ApplicationInsights-Java-Samples,com.example,MyLogger1,,,typeMetrics.csv,,11.0,,,1.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0
+ApplicationInsights-Java-Samples,com.example,MyLogger2,,,typeMetrics.csv,,11.0,,,1.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0
+ApplicationInsights-Java-Samples,(default package),Micrometer,,,typeMetrics.csv,,18.0,,,2.0,0.0,3.0,1.0,3.0,0.0,0.0,1.0,0.0,0.0
+ApplicationInsights-Java-Samples,(default package),TrackMetric,,,typeMetrics.csv,,28.0,,,3.0,0.0,4.0,2.0,4.0,0.0,0.0,0.75,0.0,0.0
+ApplicationInsights-Java-Samples,com.example,ExampleController,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,ExampleWebTelemetryModule,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,ExampleApplication,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,ExampleController,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,ExampleWebTelemetryModule,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,ExampleApplication,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,ExampleController,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,ExampleApplication,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,ExampleController,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,ExampleApplication,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,ExampleController,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,ExampleApplication,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,ExampleController,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,AdvancedException,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,TrackLog4j2,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,Main,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,DemoAutoConfigurationCustomizerProvider,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,DemoSpanData,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,DemoSpanExporter,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,DemoSpanExporter,,Deficient Encapsulation,designCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,DurationAutoConfigurationCustomizerProvider,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,DurationSpanExporter,,Deficient Encapsulation,designCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,DemoController,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,Application,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,com.example,Main,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,(default package),Micrometer,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+ApplicationInsights-Java-Samples,(default package),TrackMetric,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,

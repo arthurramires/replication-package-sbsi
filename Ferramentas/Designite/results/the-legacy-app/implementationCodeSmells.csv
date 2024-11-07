@@ -1,0 +1,14 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell
+the-legacy-app,(default package),MavenWrapperDownloader,main,Empty catch clause
+the-legacy-app,(default package),MavenWrapperDownloader,main,Long Identifier
+the-legacy-app,com.example.legacyapp.services,CustomerRentalHistoryManagerImpl,listAllCharges,Magic Number
+the-legacy-app,com.example.legacyapp.services,CustomerRentalHistoryManagerImpl,convertTheirChargesToOurs,Long Statement
+the-legacy-app,com.example.legacyapp.services,CustomerWithStubRunnerExternalContractsTests,should_return_charge_collection,Magic Number
+the-legacy-app,com.example.legacyapp.services,CustomerWithStubRunnerProxyTests,should_return_charge_collection,Magic Number
+the-legacy-app,com.example.legacyapp.services,CustomerWithStubRunnerTests,should_return_charge_collection,Magic Number
+the-legacy-app,com.example.legacyapp.services,TheStub,charge,Magic Number
+the-legacy-app,com.example.legacyapp.controllers,FraudDetectionImplBaseController,frauds,Long Statement
+the-legacy-app,com.example.proxy,AbstractStubsFromProxy,setup,Long Statement
+the-legacy-app,com.example.proxy,AbstractStubsFromProxy,setup,Magic Number
+the-legacy-app,com.example.proxy,AbstractStubsFromProxy,setup,Magic Number
+the-legacy-app,com.example.proxy,CreateStubsFromProxyTests,should_return_list_of_charges,Magic Number

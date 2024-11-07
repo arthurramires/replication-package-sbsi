@@ -1,0 +1,6 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+gs-accessing-data-neo4j,com.example.accessingdataneo4j,AccessingDataNeo4jApplication,1,0,2,1,34,2,0,0,1.0,2,2
+gs-accessing-data-neo4j,com.example.accessingdataneo4j,Person,3,1,6,5,28,7,0,0,0.3333333333333333,1,1
+gs-accessing-data-neo4j,com.example.accessingdataneo4j,PersonRepository,0,0,2,0,4,2,0,0,-1.0,1,0
+gs-accessing-data-neo4j,com.example.accessingdataneo4j,AccessingDataNeo4jApplication,0,0,1,1,5,1,0,0,-1.0,0,1
+gs-accessing-data-neo4j,com.example.accessingdataneo4j,AccessingDataNeo4jApplicationTests,0,0,1,0,4,1,0,0,-1.0,0,0

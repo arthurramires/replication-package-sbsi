@@ -1,0 +1,4 @@
+Project Name,Package Name,Type Name,Code Smell
+gs-integration,com.example.integration,FlowTests,Unutilized Abstraction
+gs-integration,com.example.integration,IntegrationApplication,Unutilized Abstraction
+gs-integration,com.example.integration,IntegrationApplicationTests,Unutilized Abstraction

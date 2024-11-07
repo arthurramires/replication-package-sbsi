@@ -1,0 +1,16 @@
+Project Name,Package Name,Type Name,Code Smell
+gs-contract-rest,(default package),MavenWrapperDownloader,Unutilized Abstraction
+gs-contract-rest,(default package),MavenWrapperDownloader,Unutilized Abstraction
+gs-contract-rest,(default package),MavenWrapperDownloader,Unutilized Abstraction
+gs-contract-rest,hello,MessageRestController,Unutilized Abstraction
+gs-contract-rest,hello,ContractRestClientApplicationTest,Unutilized Abstraction
+gs-contract-rest,hello,Person,Unutilized Abstraction
+gs-contract-rest,hello,BaseClass,Unutilized Abstraction
+gs-contract-rest,hello,ContractRestClientApplication,Unutilized Abstraction
+gs-contract-rest,hello,MessageRestController,Unutilized Abstraction
+gs-contract-rest,hello,Person,Unutilized Abstraction
+gs-contract-rest,hello,ContractRestClientApplicationTest,Unutilized Abstraction
+gs-contract-rest,hello,ContractRestServiceApplication,Unutilized Abstraction
+gs-contract-rest,hello,Person,Unutilized Abstraction
+gs-contract-rest,hello,PersonRestController,Unutilized Abstraction
+gs-contract-rest,hello,PersonService,Unutilized Abstraction

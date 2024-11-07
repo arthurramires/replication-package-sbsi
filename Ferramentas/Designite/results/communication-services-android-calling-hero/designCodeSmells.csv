@@ -1,0 +1,17 @@
+Project Name,Package Name,Type Name,Code Smell
+communication-services-android-calling-hero,com.azure.samples.communication.calling,AzureCalling,Deficient Encapsulation
+communication-services-android-calling-hero,com.azure.samples.communication.calling.contracts,Constants,Deficient Encapsulation
+communication-services-android-calling-hero,com.azure.samples.communication.calling.contracts,Constants,Broken Modularization
+communication-services-android-calling-hero,com.azure.samples.communication.calling.contracts,SampleErrorMessages,Deficient Encapsulation
+communication-services-android-calling-hero,com.azure.samples.communication.calling.contracts,SampleErrorMessages,Broken Modularization
+communication-services-android-calling-hero,com.azure.samples.communication.calling.externals.authentication,AADAuthHandler,Insufficient Modularization
+communication-services-android-calling-hero,com.azure.samples.communication.calling.views.activities,IntroViewActivity,Unutilized Abstraction
+communication-services-android-calling-hero,com.azure.samples.communication.calling.views.activities,InvitationActivity,Unutilized Abstraction
+communication-services-android-calling-hero,com.azure.samples.communication.calling.views.activities,JoinCallActivity,Unutilized Abstraction
+communication-services-android-calling-hero,com.azure.samples.communication.calling.views.activities,SignInActivity,Unutilized Abstraction
+communication-services-android-calling-hero,com.azure.samples.communication.calling.views.activities,StartCallActivity,Unutilized Abstraction
+communication-services-android-calling-hero,com.azure.samples.communication.calling.views.fragments,AbstractBaseFragment,Unutilized Abstraction
+communication-services-android-calling-hero,com.azure.samples.communication.calling.views.fragments,GroupMeetingFragment,Unutilized Abstraction
+communication-services-android-calling-hero,com.azure.samples.communication.calling.views.fragments,GroupMeetingFragment,Broken Hierarchy
+communication-services-android-calling-hero,com.azure.samples.communication.calling.views.fragments,TeamsMeetingFragment,Unutilized Abstraction
+communication-services-android-calling-hero,com.azure.samples.communication.calling.views.fragments,TeamsMeetingFragment,Broken Hierarchy

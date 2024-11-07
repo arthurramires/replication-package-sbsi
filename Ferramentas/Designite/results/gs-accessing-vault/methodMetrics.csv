@@ -1,0 +1,13 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC
+gs-accessing-vault,hello,Application,main,3,1,1
+gs-accessing-vault,hello,Application,run,26,2,1
+gs-accessing-vault,hello,VaultOperationsTest,readShouldRetrieveVaultData,4,1,0
+gs-accessing-vault,hello,VaultOperationsTest,writeShouldStoreVaultData,10,1,0
+gs-accessing-vault,hello,VaultOperationsTest,getUsername,3,1,0
+gs-accessing-vault,hello,VaultOperationsTest,setUsername,3,1,1
+gs-accessing-vault,hello,VaultOperationsTest,getPassword,3,1,0
+gs-accessing-vault,hello,VaultOperationsTest,setPassword,3,1,1
+gs-accessing-vault,hello,Credentials,getUsername,3,1,0
+gs-accessing-vault,hello,Credentials,setUsername,3,1,1
+gs-accessing-vault,hello,Credentials,getPassword,3,1,0
+gs-accessing-vault,hello,Credentials,setPassword,3,1,1

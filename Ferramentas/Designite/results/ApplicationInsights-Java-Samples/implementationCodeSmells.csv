@@ -1,0 +1,44 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell
+ApplicationInsights-Java-Samples,com.example,ManualTracePropagation,main,Magic Number
+ApplicationInsights-Java-Samples,com.example,ManualTracePropagation,sendOneRequest,Long Statement
+ApplicationInsights-Java-Samples,com.example,RequestProcessor,doSomethingThatIsAutoInstrumented,Magic Number
+ApplicationInsights-Java-Samples,com.example,TrackAdvancedException,main,Magic Number
+ApplicationInsights-Java-Samples,com.example,TrackAdvancedException,trackAdvancedException,Long Statement
+ApplicationInsights-Java-Samples,com.example,TrackAdvancedException,initOpenTelemetry,Long Statement
+ApplicationInsights-Java-Samples,com.example,TrackDependency,main,Magic Number
+ApplicationInsights-Java-Samples,com.example,TrackDependency,track,Long Statement
+ApplicationInsights-Java-Samples,com.example,TrackException,main,Magic Number
+ApplicationInsights-Java-Samples,com.example,TrackException,main,Magic Number
+ApplicationInsights-Java-Samples,com.example,TrackLog4j2,main,Magic Number
+ApplicationInsights-Java-Samples,com.example,TrackLog4j2,main,Magic Number
+ApplicationInsights-Java-Samples,com.example,TrackLog4j2,trackWithSlf4j_2,Long Statement
+ApplicationInsights-Java-Samples,com.example,TrackLog4j2,initOpenTelemetry,Long Statement
+ApplicationInsights-Java-Samples,com.example,TrackLogback,main,Magic Number
+ApplicationInsights-Java-Samples,com.example,TrackLogback,trackWithSlf4j,Long Statement
+ApplicationInsights-Java-Samples,com.example,TrackLogback,initOpenTelemetry,Long Statement
+ApplicationInsights-Java-Samples,com.example,TrackLog4j2,main,Magic Number
+ApplicationInsights-Java-Samples,com.example,TrackLog4j2,initOpenTelemetry,Long Statement
+ApplicationInsights-Java-Samples,com.example,Main,main,Long Statement
+ApplicationInsights-Java-Samples,com.example,Main,main,Magic Number
+ApplicationInsights-Java-Samples,com.example,DemoSpanExporter,export,Long Statement
+ApplicationInsights-Java-Samples,com.example,DurationSpanExporter,export,Magic Number
+ApplicationInsights-Java-Samples,com.example,DurationSpanExporter,getRequestDurationInSeconds,Long Statement
+ApplicationInsights-Java-Samples,com.example,DurationSpanExporter,getRequestDurationInSeconds,Magic Number
+ApplicationInsights-Java-Samples,com.example,DemoController,longDuration,Magic Number
+ApplicationInsights-Java-Samples,com.example,Application,main,Magic Number
+ApplicationInsights-Java-Samples,com.example,TrackCustomException,main,Magic Number
+ApplicationInsights-Java-Samples,com.example,TrackCustomException,trackCustomException,Long Statement
+ApplicationInsights-Java-Samples,com.example,TrackCustomException,trackCustomException,Long Statement
+ApplicationInsights-Java-Samples,com.example,Main,main,Magic Number
+ApplicationInsights-Java-Samples,com.example,Main,main,Magic Number
+ApplicationInsights-Java-Samples,com.example,Main,main,Magic Number
+ApplicationInsights-Java-Samples,(default package),Micrometer,main,Magic Number
+ApplicationInsights-Java-Samples,(default package),Micrometer,recordTimer,Magic Number
+ApplicationInsights-Java-Samples,(default package),TrackMetric,main,Magic Number
+ApplicationInsights-Java-Samples,(default package),TrackMetric,main,Magic Number
+ApplicationInsights-Java-Samples,(default package),TrackMetric,trackGauge,Magic Number
+ApplicationInsights-Java-Samples,(default package),TrackMetric,trackDoubleHistogramWithCustomDimensions,Long Statement
+ApplicationInsights-Java-Samples,(default package),TrackMetric,trackDoubleHistogramWithCustomDimensions,Magic Number
+ApplicationInsights-Java-Samples,(default package),TrackMetric,trackDoubleHistogramWithCustomDimensions,Magic Number
+ApplicationInsights-Java-Samples,(default package),TrackMetric,trackDoubleHistogramWithCustomDimensions,Magic Number
+ApplicationInsights-Java-Samples,(default package),TrackMetric,trackDoubleHistogramWithCustomDimensions,Magic Number

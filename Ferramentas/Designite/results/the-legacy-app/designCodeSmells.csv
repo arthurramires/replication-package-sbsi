@@ -1,0 +1,18 @@
+Project Name,Package Name,Type Name,Code Smell
+the-legacy-app,(default package),MavenWrapperDownloader,Unutilized Abstraction
+the-legacy-app,com.example.legacyapp.dto,Charge,Unnecessary Abstraction
+the-legacy-app,com.example.legacyapp.dto,Charges,Unnecessary Abstraction
+the-legacy-app,com.example.legacyapp.services,CustomerRentalHistoryManagerImpl,Unutilized Abstraction
+the-legacy-app,com.example.legacyapp.services,Config,Unutilized Abstraction
+the-legacy-app,com.example.legacyapp.services,CustomerWithStubRunnerExternalContractsTests,Unutilized Abstraction
+the-legacy-app,com.example.legacyapp.services,Config,Unutilized Abstraction
+the-legacy-app,com.example.legacyapp.services,CustomerWithStubRunnerTests,Unutilized Abstraction
+the-legacy-app,com.example.legacyapp.services,OnlineModeTests,Unutilized Abstraction
+the-legacy-app,com.example.legacyapp.services,TheStub,Unutilized Abstraction
+the-legacy-app,com.example.legacyapp.controllers,FraudResponse,Unnecessary Abstraction
+the-legacy-app,com.example.legacyapp.controllers,FraudResponse,Unutilized Abstraction
+the-legacy-app,com.example.legacyapp.controllers,BaseClass,Unutilized Abstraction
+the-legacy-app,com.example.contracts,BaseClass,Unutilized Abstraction
+the-legacy-app,com.example.proxy,Config,Unutilized Abstraction
+the-legacy-app,com.example.proxy,CreateStubsFromProxyTests,Unutilized Abstraction
+the-legacy-app,com.example.proxy,CreateStubsFromProxyTests,Broken Hierarchy

@@ -1,0 +1,8 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+amazon-devops-guru-connector-servicenow,aws.devopsguru.partner.servicenow,AlertType,1,0,15,15,138,47,0,0,0.0,2,3
+amazon-devops-guru-connector-servicenow,aws.devopsguru.partner.servicenow,InsightHandler,0,0,2,2,54,12,0,0,-1.0,1,2
+amazon-devops-guru-connector-servicenow,aws.devopsguru.partner.servicenow,ServiceNowConnector,4,3,17,11,258,30,0,0,0.17647058823529413,4,4
+amazon-devops-guru-connector-servicenow,aws.devopsguru.partner.servicenow.model,Incident,13,0,0,0,15,0,0,0,-1.0,4,0
+amazon-devops-guru-connector-servicenow,aws.devopsguru.partner.servicenow.model,ServiceNowResult,1,0,0,0,3,0,0,0,-1.0,1,1
+amazon-devops-guru-connector-servicenow,aws.devopsguru.partner.servicenow.model,ServiceNowResults,1,0,0,0,3,0,0,0,-1.0,1,1
+amazon-devops-guru-connector-servicenow,aws.devopsguru.servicenow,NewInsightHandlerTest,0,0,1,1,6,1,0,0,-1.0,0,2

@@ -1,0 +1,12 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC,source_file,NOF,NOPF,NOM,NOPM,WMC,NC,DIT,LCOM,FANIN,FANOUT,Code Smell
+gs-integration,com.example.integration,IntegrationApplication,main,6.0,1.0,1.0,methodMetrics.csv,,,,,,,,,,,
+gs-integration,com.example.integration,FlowTests,test,16.0,1.0,0.0,methodMetrics.csv,,,,,,,,,,,
+gs-integration,com.example.integration,IntegrationApplication,main,3.0,1.0,1.0,methodMetrics.csv,,,,,,,,,,,
+gs-integration,com.example.integration,IntegrationApplicationTests,contextLoads,2.0,1.0,0.0,methodMetrics.csv,,,,,,,,,,,
+gs-integration,com.example.integration,IntegrationApplication,,8.0,,,typeMetrics.csv,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,1.0,0.0,
+gs-integration,com.example.integration,FlowTests,,20.0,,,typeMetrics.csv,2.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+gs-integration,com.example.integration,IntegrationApplication,,5.0,,,typeMetrics.csv,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,1.0,
+gs-integration,com.example.integration,IntegrationApplicationTests,,4.0,,,typeMetrics.csv,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,0.0,
+gs-integration,com.example.integration,FlowTests,,,,,designCodeSmells.csv,,,,,,,,,,,Unutilized Abstraction
+gs-integration,com.example.integration,IntegrationApplication,,,,,designCodeSmells.csv,,,,,,,,,,,Unutilized Abstraction
+gs-integration,com.example.integration,IntegrationApplicationTests,,,,,designCodeSmells.csv,,,,,,,,,,,Unutilized Abstraction

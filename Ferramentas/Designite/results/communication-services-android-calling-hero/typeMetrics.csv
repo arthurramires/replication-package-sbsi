@@ -1,0 +1,20 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+communication-services-android-calling-hero,com.azure.samples.communication.calling,AzureCalling,5,1,6,5,29,6,0,0,0.0,2,4
+communication-services-android-calling-hero,com.azure.samples.communication.calling.contracts,Constants,11,11,0,0,13,0,0,0,-1.0,7,0
+communication-services-android-calling-hero,com.azure.samples.communication.calling.contracts,SampleErrorMessages,9,9,0,0,11,0,0,0,-1.0,5,0
+communication-services-android-calling-hero,com.azure.samples.communication.calling.externals.authentication,AADAuthHandler,4,0,28,23,168,38,0,0,0.14285714285714285,3,2
+communication-services-android-calling-hero,com.azure.samples.communication.calling.externals.authentication,AuthenticationToken,1,0,2,2,9,2,0,0,0.0,1,0
+communication-services-android-calling-hero,com.azure.samples.communication.calling.externals.authentication,UserProfile,6,0,12,12,44,12,0,0,0.5,1,0
+communication-services-android-calling-hero,com.azure.samples.communication.calling.externals.calling,CallingContext,4,0,6,6,32,6,0,0,0.0,4,0
+communication-services-android-calling-hero,com.azure.samples.communication.calling.externals.calling,TokenService,4,0,4,3,44,6,0,0,0.5,1,0
+communication-services-android-calling-hero,com.azure.samples.communication.calling.utilities,AppSettings,10,0,9,9,49,9,0,0,0.0,8,2
+communication-services-android-calling-hero,com.azure.samples.communication.calling.utilities,MSGraphRequestWrapper,1,0,2,2,29,3,0,0,1.0,1,0
+communication-services-android-calling-hero,com.azure.samples.communication.calling.views.activities,IntroViewActivity,10,0,7,1,92,14,0,0,0.5714285714285714,0,3
+communication-services-android-calling-hero,com.azure.samples.communication.calling.views.activities,InvitationActivity,9,0,7,2,74,12,0,0,0.2857142857142857,0,5
+communication-services-android-calling-hero,com.azure.samples.communication.calling.views.activities,JoinCallActivity,4,0,10,4,71,15,0,0,0.4,0,2
+communication-services-android-calling-hero,com.azure.samples.communication.calling.views.activities,SignInActivity,6,0,9,1,80,16,0,0,0.2222222222222222,0,3
+communication-services-android-calling-hero,com.azure.samples.communication.calling.views.activities,StartCallActivity,5,0,4,1,51,9,0,0,0.5,0,3
+communication-services-android-calling-hero,com.azure.samples.communication.calling.views.components,ErrorInfoBar,1,0,3,2,26,5,0,0,0.0,1,0
+communication-services-android-calling-hero,com.azure.samples.communication.calling.views.fragments,AbstractBaseFragment,1,0,3,1,22,6,2,0,0.6666666666666666,0,2
+communication-services-android-calling-hero,com.azure.samples.communication.calling.views.fragments,GroupMeetingFragment,3,0,4,2,65,10,0,1,0.5,1,5
+communication-services-android-calling-hero,com.azure.samples.communication.calling.views.fragments,TeamsMeetingFragment,4,0,4,2,60,10,0,1,0.5,1,5

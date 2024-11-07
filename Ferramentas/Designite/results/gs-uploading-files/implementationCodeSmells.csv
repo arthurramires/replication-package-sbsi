@@ -1,0 +1,9 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell
+gs-uploading-files,com.example.uploadingfiles,FileUploadController,listUploadedFiles,Long Statement
+gs-uploading-files,com.example.uploadingfiles,FileUploadController,serveFile,Long Statement
+gs-uploading-files,com.example.uploadingfiles,FileUploadIntegrationTests,shouldDownloadFile,Long Statement
+gs-uploading-files,com.example.uploadingfiles,FileUploadIntegrationTests,shouldDownloadFile,Magic Number
+gs-uploading-files,com.example.uploadingfiles,FileUploadTests,shouldListAllFiles,Long Statement
+gs-uploading-files,com.example.uploadingfiles,FileUploadTests,shouldSaveUploadedFile,Long Statement
+gs-uploading-files,com.example.uploadingfiles.storage,FileSystemStorageService,loadAll,Long Statement
+gs-uploading-files,com.example.uploadingfiles.storage,FileSystemStorageService,loadAll,Long Statement

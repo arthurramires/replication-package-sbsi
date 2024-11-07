@@ -1,0 +1,13 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC
+gs-producing-web-service,com.example.producingwebservice,CountryEndpoint,CountryEndpoint,3,1,1
+gs-producing-web-service,com.example.producingwebservice,CountryEndpoint,getCountry,5,1,1
+gs-producing-web-service,com.example.producingwebservice,CountryRepository,initData,20,1,0
+gs-producing-web-service,com.example.producingwebservice,CountryRepository,findCountry,4,1,1
+gs-producing-web-service,com.example.producingwebservice,ProducingWebServiceApplication,main,3,1,1
+gs-producing-web-service,com.example.producingwebservice,WebServiceConfig,messageDispatcherServlet,6,1,1
+gs-producing-web-service,com.example.producingwebservice,WebServiceConfig,defaultWsdl11Definition,8,1,1
+gs-producing-web-service,com.example.producingwebservice,WebServiceConfig,countriesSchema,3,1,0
+gs-producing-web-service,com.example.producingwebservice,ProducingWebServiceApplicationIntegrationTests,init,4,1,0
+gs-producing-web-service,com.example.producingwebservice,ProducingWebServiceApplicationIntegrationTests,testSendAndReceive,6,1,0
+gs-producing-web-service,com.example.producingwebservice,ProducingWebServiceApplication,main,3,1,1
+gs-producing-web-service,com.example.producingwebservice,ProducingWebServiceApplicationTests,contextLoads,2,1,0

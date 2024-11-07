@@ -1,0 +1,15 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+msk-config-providers,com.amazonaws.kafka.config.providers.common,AwsServiceConfigProvider,3,0,11,7,77,19,0,0,0.36363636363636365,0,1
+msk-config-providers,com.amazonaws.kafka.config.providers.common,CommonConfigUtils,5,3,1,0,19,1,0,0,0.0,4,0
+msk-config-providers,com.amazonaws.kafka.config.providers,S3ImportConfig,2,1,2,1,10,2,0,0,0.0,2,2
+msk-config-providers,com.amazonaws.kafka.config.providers,S3ImportConfigProvider,3,0,9,5,80,14,0,0,0.2222222222222222,1,2
+msk-config-providers,com.amazonaws.kafka.config.providers,SecretsManagerConfig,4,3,2,1,12,2,0,0,0.0,2,2
+msk-config-providers,com.amazonaws.kafka.config.providers,SecretsManagerConfigProvider,5,0,7,5,99,14,1,0,0.2857142857142857,0,1
+msk-config-providers,com.amazonaws.kafka.config.providers,SsmParamStoreConfig,4,3,2,1,12,2,0,0,0.0,2,2
+msk-config-providers,com.amazonaws.kafka.config.providers,SsmParamStoreConfigProvider,4,0,6,4,73,11,1,0,0.3333333333333333,0,1
+msk-config-providers,com.amazonaws.kafka.config.providers,MockedSecretsManagerConfigProvider,0,0,3,0,17,3,0,1,-1.0,0,0
+msk-config-providers,com.amazonaws.kafka.config.providers,MockedSsmParamStoreConfigProvider,0,0,3,0,18,3,0,1,-1.0,0,0
+msk-config-providers,com.amazonaws.kafka.config.providers,SecretsManagerConfigProviderTest,3,0,9,9,63,9,0,0,0.2222222222222222,0,1
+msk-config-providers,com.amazonaws.kafka.config.providers,CustomConfig,2,0,1,1,7,1,0,0,0.0,2,0
+msk-config-providers,com.amazonaws.kafka.config.providers,SsmParamStoreConfigProviderTest,3,0,4,4,34,4,0,0,0.5,0,1
+msk-config-providers,com.amazonaws.kafka.config.providers,CustomConfig,2,0,1,1,7,1,0,0,0.0,0,0

@@ -1,0 +1,4 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+aws-lambda-java-workshop,com.unicorn.location,UnicornLocation,3,0,6,6,23,6,0,0,0.5,1,0
+aws-lambda-java-workshop,com.unicorn.location,UnicornPostLocationHandler,2,0,3,2,27,3,0,0,0.0,0,1
+aws-lambda-java-workshop,com.unicorn.location,UnicornPostLocationHandler,0,0,1,1,5,1,0,0,-1.0,0,0

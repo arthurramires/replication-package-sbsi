@@ -1,0 +1,23 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell,source_file,MethodName,LOC,CC,PC,NOF,NOPF,NOM,NOPM,WMC,NC,DIT,LCOM,FANIN,FANOUT
+aws-lambda-java-workshop,com.unicorn.location,UnicornPostLocationHandler,UnicornPostLocationHandler,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+aws-lambda-java-workshop,com.unicorn.location,UnicornPostLocationHandler,handleRequest,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+aws-lambda-java-workshop,com.unicorn.location,UnicornPostLocationHandler,handleRequest,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+aws-lambda-java-workshop,com.unicorn.location,UnicornPostLocationHandler,handleRequest,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+aws-lambda-java-workshop,com.unicorn.location,UnicornPostLocationHandler,createLocationItem,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+aws-lambda-java-workshop,com.unicorn.location,UnicornPostLocationHandler,handleRequest,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+aws-lambda-java-workshop,com.unicorn.location,UnicornPostLocationHandler,handleRequest,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+aws-lambda-java-workshop,com.unicorn.location,UnicornLocation,,,methodMetrics.csv,getUnicornName,3.0,1.0,0.0,,,,,,,,,,
+aws-lambda-java-workshop,com.unicorn.location,UnicornLocation,,,methodMetrics.csv,setUnicornName,3.0,1.0,1.0,,,,,,,,,,
+aws-lambda-java-workshop,com.unicorn.location,UnicornLocation,,,methodMetrics.csv,getLongitude,3.0,1.0,0.0,,,,,,,,,,
+aws-lambda-java-workshop,com.unicorn.location,UnicornLocation,,,methodMetrics.csv,setLongitude,3.0,1.0,1.0,,,,,,,,,,
+aws-lambda-java-workshop,com.unicorn.location,UnicornLocation,,,methodMetrics.csv,getLatitude,3.0,1.0,0.0,,,,,,,,,,
+aws-lambda-java-workshop,com.unicorn.location,UnicornLocation,,,methodMetrics.csv,setLatitude,3.0,1.0,1.0,,,,,,,,,,
+aws-lambda-java-workshop,com.unicorn.location,UnicornPostLocationHandler,,,methodMetrics.csv,UnicornPostLocationHandler,3.0,1.0,0.0,,,,,,,,,,
+aws-lambda-java-workshop,com.unicorn.location,UnicornPostLocationHandler,,,methodMetrics.csv,handleRequest,11.0,1.0,2.0,,,,,,,,,,
+aws-lambda-java-workshop,com.unicorn.location,UnicornPostLocationHandler,,,methodMetrics.csv,createLocationItem,9.0,1.0,1.0,,,,,,,,,,
+aws-lambda-java-workshop,com.unicorn.location,UnicornPostLocationHandler,,,methodMetrics.csv,handleRequest,3.0,1.0,2.0,,,,,,,,,,
+aws-lambda-java-workshop,com.unicorn.location,UnicornLocation,,,typeMetrics.csv,,23.0,,,3.0,0.0,6.0,6.0,6.0,0.0,0.0,0.5,1.0,0.0
+aws-lambda-java-workshop,com.unicorn.location,UnicornPostLocationHandler,,,typeMetrics.csv,,27.0,,,2.0,0.0,3.0,2.0,3.0,0.0,0.0,0.0,0.0,1.0
+aws-lambda-java-workshop,com.unicorn.location,UnicornPostLocationHandler,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,0.0
+aws-lambda-java-workshop,com.unicorn.location,UnicornPostLocationHandler,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+aws-lambda-java-workshop,com.unicorn.location,UnicornPostLocationHandler,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,

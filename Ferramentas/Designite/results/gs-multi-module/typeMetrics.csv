@@ -1,0 +1,11 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+gs-multi-module,com.example.multimodule.application,DemoApplication,1,0,3,3,12,3,0,0,0.6666666666666666,1,2
+gs-multi-module,com.example.multimodule.application,DemoApplicationTest,1,0,1,1,6,1,0,0,0.0,0,1
+gs-multi-module,com.example.multimodule.service,MyService,1,0,2,2,9,2,0,0,0.0,3,1
+gs-multi-module,com.example.multimodule.service,ServiceProperties,1,0,2,2,12,2,0,0,0.0,1,0
+gs-multi-module,com.example.multimodule.service,MyServiceTest,1,0,1,1,8,1,0,0,0.0,0,1
+gs-multi-module,com.example.multimodule.service,TestConfiguration,0,0,0,0,2,0,0,0,-1.0,0,0
+gs-multi-module,com.example.multimoduleapplication,MultiModuleApplication,0,0,1,1,5,1,0,0,-1.0,1,1
+gs-multi-module,com.example.multimoduleapplication,MultiModuleApplicationTests,0,0,1,0,4,1,0,0,-1.0,0,0
+gs-multi-module,com.example.multimodulelibrary,MultiModuleLibraryApplication,0,0,1,1,5,1,0,0,-1.0,1,1
+gs-multi-module,com.example.multimodulelibrary,MultiModuleLibraryApplicationTests,0,0,1,0,4,1,0,0,-1.0,0,0

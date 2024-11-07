@@ -1,0 +1,17 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell,source_file,MethodName,LOC,CC,PC,NOF,NOPF,NOM,NOPM,WMC,NC,DIT,LCOM,FANIN,FANOUT
+graceful-shutdown-with-aws-lambda,helloworld,App,run,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+graceful-shutdown-with-aws-lambda,helloworld,App,handleRequest,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+graceful-shutdown-with-aws-lambda,helloworld,App,handleRequest,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+graceful-shutdown-with-aws-lambda,helloworld,AppTest,successfulResponse,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+graceful-shutdown-with-aws-lambda,helloworld,App,,,methodMetrics.csv,run,12.0,1.0,0.0,,,,,,,,,,
+graceful-shutdown-with-aws-lambda,helloworld,App,,,methodMetrics.csv,handleRequest,13.0,1.0,2.0,,,,,,,,,,
+graceful-shutdown-with-aws-lambda,helloworld,App,,,methodMetrics.csv,getPageContents,6.0,1.0,1.0,,,,,,,,,,
+graceful-shutdown-with-aws-lambda,helloworld,GatewayResponse,,,methodMetrics.csv,GatewayResponse,5.0,1.0,3.0,,,,,,,,,,
+graceful-shutdown-with-aws-lambda,helloworld,GatewayResponse,,,methodMetrics.csv,getBody,3.0,1.0,0.0,,,,,,,,,,
+graceful-shutdown-with-aws-lambda,helloworld,GatewayResponse,,,methodMetrics.csv,getHeaders,3.0,1.0,0.0,,,,,,,,,,
+graceful-shutdown-with-aws-lambda,helloworld,GatewayResponse,,,methodMetrics.csv,getStatusCode,3.0,1.0,0.0,,,,,,,,,,
+graceful-shutdown-with-aws-lambda,helloworld,AppTest,,,methodMetrics.csv,successfulResponse,11.0,1.0,0.0,,,,,,,,,,
+graceful-shutdown-with-aws-lambda,helloworld,App,,,typeMetrics.csv,,41.0,,,0.0,0.0,3.0,2.0,3.0,0.0,0.0,-1.0,1.0,0.0
+graceful-shutdown-with-aws-lambda,helloworld,GatewayResponse,,,typeMetrics.csv,,22.0,,,3.0,0.0,4.0,4.0,4.0,0.0,0.0,0.0,1.0,0.0
+graceful-shutdown-with-aws-lambda,helloworld,AppTest,,,typeMetrics.csv,,13.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,2.0
+graceful-shutdown-with-aws-lambda,helloworld,AppTest,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,

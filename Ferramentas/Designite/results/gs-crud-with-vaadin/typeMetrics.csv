@@ -1,0 +1,15 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+gs-crud-with-vaadin,com.example.crudwithvaadin,CrudWithVaadinApplication,1,0,2,2,33,4,0,0,1.0,2,2
+gs-crud-with-vaadin,com.example.crudwithvaadin,Customer,3,0,8,7,29,8,0,0,0.25,2,0
+gs-crud-with-vaadin,com.example.crudwithvaadin,CustomerEditor,10,0,6,3,62,8,0,0,0.3333333333333333,3,3
+gs-crud-with-vaadin,com.example.crudwithvaadin,ChangeHandler,0,0,1,0,3,1,0,0,-1.0,1,0
+gs-crud-with-vaadin,com.example.crudwithvaadin,CustomerRepository,0,0,1,0,3,1,0,0,-1.0,8,0
+gs-crud-with-vaadin,com.example.crudwithvaadin,MainView,5,0,2,1,41,3,0,0,0.0,1,2
+gs-crud-with-vaadin,com.example.crudwithvaadin,CrudWithVaadinApplicationTests,1,0,2,2,9,2,0,0,0.0,0,1
+gs-crud-with-vaadin,com.example.crudwithvaadin,CustomerEditorTests,5,0,6,3,31,6,0,0,0.0,0,2
+gs-crud-with-vaadin,com.example.crudwithvaadin,MainViewTests,5,0,9,7,55,9,0,0,0.0,1,5
+gs-crud-with-vaadin,com.example.crudwithvaadin,Config,1,0,1,1,10,1,0,0,0.0,0,1
+gs-crud-with-vaadin,com.example.crudwithvaadin,CrudWithVaadinApplication,1,0,2,2,33,4,0,0,1.0,0,2
+gs-crud-with-vaadin,com.example.crudwithvaadin,Customer,3,0,8,7,29,8,0,0,0.25,0,0
+gs-crud-with-vaadin,com.example.crudwithvaadin,CustomerRepository,0,0,1,0,3,1,0,0,-1.0,0,0
+gs-crud-with-vaadin,com.example.crudwithvaadin,MainView,0,0,1,1,5,1,0,0,-1.0,0,0

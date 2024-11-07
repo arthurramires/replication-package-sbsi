@@ -1,0 +1,12 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC
+aws-amplify-example-recipe-app-react-native,com.dlbamplify,ReactNativeFlipper,initializeFlipper,37,3,2
+aws-amplify-example-recipe-app-react-native,com.dlbamplify,ReactNativeFlipper,apply,3,1,1
+aws-amplify-example-recipe-app-react-native,com.dlbamplify,ReactNativeFlipper,onReactContextInitialized,9,1,1
+aws-amplify-example-recipe-app-react-native,com.dlbamplify,ReactNativeFlipper,run,3,1,0
+aws-amplify-example-recipe-app-react-native,com.dlbamplify,MainActivity,getMainComponentName,3,1,0
+aws-amplify-example-recipe-app-react-native,com.dlbamplify,MainApplication,getUseDeveloperSupport,3,1,0
+aws-amplify-example-recipe-app-react-native,com.dlbamplify,MainApplication,getPackages,4,1,0
+aws-amplify-example-recipe-app-react-native,com.dlbamplify,MainApplication,getJSMainModuleName,3,1,0
+aws-amplify-example-recipe-app-react-native,com.dlbamplify,MainApplication,getReactNativeHost,3,1,0
+aws-amplify-example-recipe-app-react-native,com.dlbamplify,MainApplication,onCreate,5,1,0
+aws-amplify-example-recipe-app-react-native,com.dlbamplify,MainApplication,initializeFlipper,20,2,2

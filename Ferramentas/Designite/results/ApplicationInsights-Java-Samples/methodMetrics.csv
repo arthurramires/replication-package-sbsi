@@ -1,0 +1,80 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC
+ApplicationInsights-Java-Samples,com.example,ManualTracePropagation,main,8,1,1
+ApplicationInsights-Java-Samples,com.example,ManualTracePropagation,sendOneRequest,6,1,1
+ApplicationInsights-Java-Samples,com.example,RequestProcessor,RequestProcessor,3,1,1
+ApplicationInsights-Java-Samples,com.example,RequestProcessor,run,12,2,0
+ApplicationInsights-Java-Samples,com.example,RequestProcessor,process,11,1,1
+ApplicationInsights-Java-Samples,com.example,RequestProcessor,handleRequest,3,1,0
+ApplicationInsights-Java-Samples,com.example,RequestProcessor,doSomethingThatIsAutoInstrumented,9,2,0
+ApplicationInsights-Java-Samples,com.example,ExampleApplication,main,3,1,1
+ApplicationInsights-Java-Samples,com.example,ExampleController,root,3,1,0
+ApplicationInsights-Java-Samples,com.example,ExampleWebTelemetryModule,initialize,2,1,1
+ApplicationInsights-Java-Samples,com.example,ExampleWebTelemetryModule,onBeginRequest,4,1,2
+ApplicationInsights-Java-Samples,com.example,ExampleWebTelemetryModule,onEndRequest,2,1,2
+ApplicationInsights-Java-Samples,com.example,ExampleApplication,main,3,1,1
+ApplicationInsights-Java-Samples,com.example,ExampleController,root,3,1,0
+ApplicationInsights-Java-Samples,com.example,ExampleWebTelemetryModule,doFilter,5,1,3
+ApplicationInsights-Java-Samples,com.example,ExampleApplication,main,3,1,1
+ApplicationInsights-Java-Samples,com.example,ExampleController,root,3,1,0
+ApplicationInsights-Java-Samples,com.example,ExampleApplication,main,3,1,1
+ApplicationInsights-Java-Samples,com.example,ExampleController,root,3,1,0
+ApplicationInsights-Java-Samples,com.example,ExampleApplication,main,3,1,1
+ApplicationInsights-Java-Samples,com.example,ExampleController,root,3,1,0
+ApplicationInsights-Java-Samples,com.example,ExampleApplication,main,3,1,1
+ApplicationInsights-Java-Samples,com.example,ExampleController,root,3,1,0
+ApplicationInsights-Java-Samples,com.example,AdvancedException,AdvancedException,3,1,1
+ApplicationInsights-Java-Samples,com.example,AdvancedException,getStackTrace,3,1,0
+ApplicationInsights-Java-Samples,com.example,TrackAdvancedException,main,6,1,1
+ApplicationInsights-Java-Samples,com.example,TrackAdvancedException,trackAdvancedException,9,1,0
+ApplicationInsights-Java-Samples,com.example,TrackAdvancedException,initOpenTelemetry,5,1,0
+ApplicationInsights-Java-Samples,com.example,TrackDependency,main,4,1,1
+ApplicationInsights-Java-Samples,com.example,TrackDependency,track,13,1,0
+ApplicationInsights-Java-Samples,com.example,TrackDependency,initOpenTelemetry,5,1,0
+ApplicationInsights-Java-Samples,com.example,TrackException,main,6,1,1
+ApplicationInsights-Java-Samples,com.example,TrackException,track,13,1,0
+ApplicationInsights-Java-Samples,com.example,TrackException,trackWithLog4j2,3,1,0
+ApplicationInsights-Java-Samples,com.example,TrackException,initOpenTelemetry,5,1,0
+ApplicationInsights-Java-Samples,com.example,TrackLog4j2,main,8,1,1
+ApplicationInsights-Java-Samples,com.example,TrackLog4j2,track,8,1,0
+ApplicationInsights-Java-Samples,com.example,TrackLog4j2,trackWithSlf4j_2,4,1,0
+ApplicationInsights-Java-Samples,com.example,TrackLog4j2,initOpenTelemetry,5,1,0
+ApplicationInsights-Java-Samples,com.example,TrackLog4j2,runWithASpan,15,2,2
+ApplicationInsights-Java-Samples,com.example,TrackLogback,main,6,1,1
+ApplicationInsights-Java-Samples,com.example,TrackLogback,trackWithSlf4j,4,1,0
+ApplicationInsights-Java-Samples,com.example,TrackLogback,initOpenTelemetry,5,1,0
+ApplicationInsights-Java-Samples,com.example,TrackLogback,runWithASpan,15,2,2
+ApplicationInsights-Java-Samples,com.example,TrackLog4j2,main,6,1,1
+ApplicationInsights-Java-Samples,com.example,TrackLog4j2,trackWithSlf4j_1,4,1,0
+ApplicationInsights-Java-Samples,com.example,TrackLog4j2,initOpenTelemetry,5,1,0
+ApplicationInsights-Java-Samples,com.example,TrackLog4j2,runWithASpan,15,2,2
+ApplicationInsights-Java-Samples,com.example,Main,main,12,1,1
+ApplicationInsights-Java-Samples,com.example,DemoAutoConfigurationCustomizerProvider,customize,6,1,1
+ApplicationInsights-Java-Samples,com.example,DemoSpanData,DemoSpanData,4,1,2
+ApplicationInsights-Java-Samples,com.example,DemoSpanData,getAttributes,3,1,0
+ApplicationInsights-Java-Samples,com.example,DemoSpanExporter,DemoSpanExporter,3,1,1
+ApplicationInsights-Java-Samples,com.example,DemoSpanExporter,export,19,5,1
+ApplicationInsights-Java-Samples,com.example,DemoSpanExporter,flush,3,1,0
+ApplicationInsights-Java-Samples,com.example,DemoSpanExporter,shutdown,3,1,0
+ApplicationInsights-Java-Samples,com.example,DurationAutoConfigurationCustomizerProvider,customize,6,1,1
+ApplicationInsights-Java-Samples,com.example,DurationSpanExporter,DurationSpanExporter,3,1,1
+ApplicationInsights-Java-Samples,com.example,DurationSpanExporter,export,10,3,1
+ApplicationInsights-Java-Samples,com.example,DurationSpanExporter,getRequestDurationInSeconds,3,1,1
+ApplicationInsights-Java-Samples,com.example,DurationSpanExporter,flush,3,1,0
+ApplicationInsights-Java-Samples,com.example,DurationSpanExporter,shutdown,3,1,0
+ApplicationInsights-Java-Samples,com.example,DemoApplication,main,3,1,1
+ApplicationInsights-Java-Samples,com.example,DemoController,root,3,1,0
+ApplicationInsights-Java-Samples,com.example,DemoController,longDuration,6,1,0
+ApplicationInsights-Java-Samples,com.example,DemoController,shortDuration,5,1,0
+ApplicationInsights-Java-Samples,com.example,Application,main,13,1,1
+ApplicationInsights-Java-Samples,com.example,TrackCustomException,main,4,1,1
+ApplicationInsights-Java-Samples,com.example,TrackCustomException,trackCustomException,8,1,0
+ApplicationInsights-Java-Samples,com.example,Main,main,11,1,1
+ApplicationInsights-Java-Samples,com.example,MyLogger1,trackWarn,8,1,0
+ApplicationInsights-Java-Samples,com.example,MyLogger2,trackError,8,1,0
+ApplicationInsights-Java-Samples,(default package),Micrometer,main,6,1,1
+ApplicationInsights-Java-Samples,(default package),Micrometer,recordTimer,3,1,0
+ApplicationInsights-Java-Samples,(default package),Micrometer,initOpenTelemetry,5,1,0
+ApplicationInsights-Java-Samples,(default package),TrackMetric,main,7,1,1
+ApplicationInsights-Java-Samples,(default package),TrackMetric,trackGauge,4,1,0
+ApplicationInsights-Java-Samples,(default package),TrackMetric,trackDoubleHistogramWithCustomDimensions,7,1,0
+ApplicationInsights-Java-Samples,(default package),TrackMetric,initOpenTelemetry,5,1,0

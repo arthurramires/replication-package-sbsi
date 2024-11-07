@@ -1,0 +1,7 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell
+gs-batch-processing,com.example.batchprocessing,BatchConfiguration,reader,Long Statement
+gs-batch-processing,com.example.batchprocessing,BatchConfiguration,writer,Long Statement
+gs-batch-processing,com.example.batchprocessing,BatchConfiguration,step1,Long Parameter List
+gs-batch-processing,com.example.batchprocessing,BatchConfiguration,step1,Long Statement
+gs-batch-processing,com.example.batchprocessing,BatchConfiguration,step1,Magic Number
+gs-batch-processing,com.example.batchprocessing,JobCompletionNotificationListener,afterJob,Long Statement

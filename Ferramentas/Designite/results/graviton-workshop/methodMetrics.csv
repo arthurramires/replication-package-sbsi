@@ -1,0 +1,12 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC
+graviton-workshop,com.company.example.web.bookshop,VertxBookShopREST,start,13,1,0
+graviton-workshop,com.company.example.web.bookshop,VertxBookShopREST,handleGetBook,16,3,1
+graviton-workshop,com.company.example.web.bookshop,VertxBookShopREST,handleGetCart,16,3,1
+graviton-workshop,com.company.example.web.bookshop,VertxBookShopREST,handleAddBook,17,3,1
+graviton-workshop,com.company.example.web.bookshop,VertxBookShopREST,handleAddCart,17,3,1
+graviton-workshop,com.company.example.web.bookshop,VertxBookShopREST,handleListBooks,5,1,1
+graviton-workshop,com.company.example.web.bookshop,VertxBookShopREST,handleListCarts,5,1,1
+graviton-workshop,com.company.example.web.bookshop,VertxBookShopREST,handleListCartItems,22,4,1
+graviton-workshop,com.company.example.web.bookshop,VertxBookShopREST,addBook,3,1,1
+graviton-workshop,com.company.example.web.bookshop,VertxBookShopREST,addCart,3,1,1
+graviton-workshop,com.company.example.web.bookshop,VertxBookShopREST,initializeData,14,1,0

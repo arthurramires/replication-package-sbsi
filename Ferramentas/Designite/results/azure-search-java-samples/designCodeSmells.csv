@@ -1,0 +1,5 @@
+Project Name,Package Name,Type Name,Code Smell
+azure-search-java-samples,azure.search.sample,Address,Unnecessary Abstraction
+azure-search-java-samples,azure.search.sample,Address,Deficient Encapsulation
+azure-search-java-samples,azure.search.sample,Address,Broken Modularization
+azure-search-java-samples,azure.search.sample,Hotel,Deficient Encapsulation

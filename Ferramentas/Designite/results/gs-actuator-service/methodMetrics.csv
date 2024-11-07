@@ -1,0 +1,10 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC
+gs-actuator-service,com.example.actuatorservice,Greeting,Greeting,4,1,2
+gs-actuator-service,com.example.actuatorservice,Greeting,getId,3,1,0
+gs-actuator-service,com.example.actuatorservice,Greeting,getContent,3,1,0
+gs-actuator-service,com.example.actuatorservice,HelloWorldApplication,main,3,1,1
+gs-actuator-service,com.example.actuatorservice,HelloWorldController,sayHello,3,1,1
+gs-actuator-service,com.example.actuatorservice,HelloWorldApplicationTests,shouldReturn200WhenSendingRequestToController,4,1,0
+gs-actuator-service,com.example.actuatorservice,HelloWorldApplicationTests,shouldReturn200WhenSendingRequestToManagementEndpoint,4,1,0
+gs-actuator-service,com.example.actuatorservice,ActuatorServiceApplication,main,3,1,1
+gs-actuator-service,com.example.actuatorservice,ActuatorServiceApplicationTests,contextLoads,2,1,0

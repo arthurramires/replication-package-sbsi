@@ -1,0 +1,96 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell,source_file,MethodName,LOC,CC,PC,NOF,NOPF,NOM,NOPM,WMC,NC,DIT,LCOM,FANIN,FANOUT
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.cli,AzSearchConfig,vectorStore,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.cli,Config,azureOpenAIClient,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common,ChatPlanner,chat,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common,ChatPlanner,chat,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common,TextSplitter,split,Complex Method,implementationCodeSmells.csv,,,,,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common,TextSplitter,split,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,AzureCognitiveSearchVectorStore,searchTopKNearest,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,AzureCognitiveSearchVectorStore,searchTopKNearest,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,AzureCognitiveSearchVectorStore,searchTopKNearest,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,SimpleMemoryVectorStore,searchTopKNearest,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,SimpleMemoryVectorStore,searchTopKNearest,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.webapi,AzSearchConfig,vectorStore,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.cli,AzSearchConfig,,,methodMetrics.csv,vectorStore,4.0,1.0,0.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.cli,CliApplication,,,methodMetrics.csv,main,3.0,1.0,1.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.cli,CliApplication,,,methodMetrics.csv,run,8.0,2.0,1.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.cli,Config,,,methodMetrics.csv,planner,3.0,1.0,2.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.cli,Config,,,methodMetrics.csv,azureOpenAIClient,4.0,1.0,0.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.cli,Config,,,methodMetrics.csv,vectorStore,3.0,1.0,0.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common,AzureOpenAIClient,,,methodMetrics.csv,getEmbeddings,5.0,1.0,1.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common,AzureOpenAIClient,,,methodMetrics.csv,getChatCompletions,6.0,1.0,1.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common,ChatPlanner,,,methodMetrics.csv,chat,18.0,3.0,1.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common,DocumentIndexPlanner,,,methodMetrics.csv,buildFromFolder,21.0,3.0,1.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common,TextSplitter,,,methodMetrics.csv,split,3.0,1.0,1.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common,TextSplitter,,,methodMetrics.csv,split,33.0,8.0,2.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common,TextSplitter,,,methodMetrics.csv,getEncodedTokens,3.0,1.0,1.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common,TextSplitter,,,methodMetrics.csv,decodeTokens,3.0,1.0,1.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.prompt,PromptTemplate,,,methodMetrics.csv,formatWithContext,4.0,1.0,2.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.reader,SimpleFolderReader,,,methodMetrics.csv,run,16.0,2.0,1.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.reader,SimpleFolderReader,,,methodMetrics.csv,getFileExtension,9.0,2.0,1.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,AzureCognitiveSearchVectorStore,,,methodMetrics.csv,AzureCognitiveSearchVectorStore,3.0,1.0,1.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,AzureCognitiveSearchVectorStore,,,methodMetrics.csv,saveDocument,3.0,1.0,1.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,AzureCognitiveSearchVectorStore,,,methodMetrics.csv,getDocument,3.0,1.0,1.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,AzureCognitiveSearchVectorStore,,,methodMetrics.csv,removeDocument,3.0,1.0,1.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,AzureCognitiveSearchVectorStore,,,methodMetrics.csv,searchTopKNearest,3.0,1.0,2.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,AzureCognitiveSearchVectorStore,,,methodMetrics.csv,searchTopKNearest,5.0,1.0,3.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,AzureCognitiveSearchVectorStore,,,methodMetrics.csv,persist,2.0,1.0,0.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,EmbeddingMath,,,methodMetrics.csv,cosineSimilarity,12.0,3.0,2.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,EmbeddingMath,,,methodMetrics.csv,dotProduct,10.0,3.0,2.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,EmbeddingMath,,,methodMetrics.csv,norm,3.0,1.0,1.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,SimpleMemoryVectorStore,,,methodMetrics.csv,SimpleMemoryVectorStore,3.0,1.0,0.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,SimpleMemoryVectorStore,,,methodMetrics.csv,SimpleMemoryVectorStore,7.0,2.0,1.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,SimpleMemoryVectorStore,,,methodMetrics.csv,SimpleMemoryVectorStore,7.0,2.0,2.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,SimpleMemoryVectorStore,,,methodMetrics.csv,saveDocument,3.0,1.0,1.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,SimpleMemoryVectorStore,,,methodMetrics.csv,getDocument,3.0,1.0,1.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,SimpleMemoryVectorStore,,,methodMetrics.csv,removeDocument,3.0,1.0,1.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,SimpleMemoryVectorStore,,,methodMetrics.csv,searchTopKNearest,3.0,1.0,2.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,SimpleMemoryVectorStore,,,methodMetrics.csv,searchTopKNearest,5.0,1.0,3.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,SimpleMemoryVectorStore,,,methodMetrics.csv,persist,12.0,2.0,0.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,SimpleMemoryVectorStore,,,methodMetrics.csv,loadFromJsonFile,10.0,1.0,1.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,VectorStore,,,methodMetrics.csv,saveDocument,0.0,1.0,1.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,VectorStore,,,methodMetrics.csv,getDocument,0.0,1.0,1.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,VectorStore,,,methodMetrics.csv,removeDocument,0.0,1.0,1.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,VectorStore,,,methodMetrics.csv,searchTopKNearest,0.0,1.0,2.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,VectorStore,,,methodMetrics.csv,searchTopKNearest,0.0,1.0,3.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,VectorStore,,,methodMetrics.csv,persist,0.0,1.0,0.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.webapi,AzSearchConfig,,,methodMetrics.csv,vectorStore,4.0,1.0,0.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.webapi,Config,,,methodMetrics.csv,planner,3.0,1.0,2.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.webapi,Config,,,methodMetrics.csv,azureOpenAIClient,4.0,1.0,0.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.webapi,Config,,,methodMetrics.csv,vectorStore,3.0,1.0,0.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.webapi,SpringChatgptSampleApplication,,,methodMetrics.csv,main,3.0,1.0,1.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.webapi,SpringChatgptSampleApplication,,,methodMetrics.csv,corsConfigurer,8.0,1.0,0.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.webapi,SpringChatgptSampleApplication,,,methodMetrics.csv,addCorsMappings,3.0,1.0,1.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.webapi.controllers,ChatController,,,methodMetrics.csv,chatCompletion,3.0,1.0,1.0,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.cli,AzSearchConfig,,,typeMetrics.csv,,9.0,,,3.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.cli,CliApplication,,,typeMetrics.csv,,14.0,,,1.0,0.0,2.0,2.0,3.0,0.0,0.0,1.0,1.0,2.0
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.cli,Config,,,typeMetrics.csv,,16.0,,,4.0,0.0,3.0,3.0,3.0,0.0,0.0,1.0,0.0,2.0
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common,AzureOpenAIClient,,,typeMetrics.csv,,17.0,,,4.0,0.0,2.0,2.0,2.0,0.0,0.0,0.0,4.0,0.0
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common,ChatPlanner,,,typeMetrics.csv,,22.0,,,2.0,0.0,1.0,1.0,3.0,0.0,0.0,0.0,1.0,3.0
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common,DocumentIndexPlanner,,,typeMetrics.csv,,25.0,,,2.0,0.0,1.0,1.0,3.0,0.0,0.0,0.0,1.0,5.0
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common,TextSplitter,,,typeMetrics.csv,,50.0,,,6.0,0.0,4.0,2.0,11.0,0.0,0.0,0.0,1.0,0.0
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.prompt,PromptTemplate,,,typeMetrics.csv,,14.0,,,9.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.reader,SimpleFolderReader,,,typeMetrics.csv,,29.0,,,2.0,0.0,2.0,1.0,4.0,0.0,0.0,1.0,1.0,0.0
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,AzureCognitiveSearchVectorStore,,,typeMetrics.csv,,25.0,,,1.0,0.0,7.0,7.0,7.0,0.0,1.0,0.2857142857142857,0.0,1.0
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,DocEntry,,,typeMetrics.csv,,6.0,,,4.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.0,4.0,0.0
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,EmbeddingMath,,,typeMetrics.csv,,27.0,,,0.0,0.0,3.0,3.0,7.0,0.0,0.0,-1.0,2.0,1.0
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,SimpleMemoryVectorStore,,,typeMetrics.csv,,67.0,,,5.0,0.0,10.0,9.0,13.0,0.0,1.0,0.2,1.0,3.0
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,Similarity,,,typeMetrics.csv,,4.0,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.0,0.0,0.0
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,VectorStoreData,,,typeMetrics.csv,,3.0,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.0,1.0,0.0
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,VectorStore,,,typeMetrics.csv,,8.0,,,0.0,0.0,6.0,0.0,6.0,2.0,0.0,-1.0,4.0,1.0
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.webapi,AzSearchConfig,,,typeMetrics.csv,,9.0,,,3.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.webapi,Config,,,typeMetrics.csv,,17.0,,,5.0,0.0,3.0,3.0,3.0,0.0,0.0,1.0,0.0,3.0
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.webapi,SpringChatgptSampleApplication,,,typeMetrics.csv,,13.0,,,0.0,0.0,3.0,3.0,3.0,0.0,0.0,-1.0,1.0,1.0
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.webapi.controllers,ChatController,,,typeMetrics.csv,,6.0,,,1.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.webapi.models,ChatCompletionsRequest,,,typeMetrics.csv,,3.0,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.0,1.0,0.0
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.cli,AzSearchConfig,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.cli,Config,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,AzureCognitiveSearchVectorStore,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,DocEntry,,Unnecessary Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,Similarity,,Unnecessary Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,Similarity,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,VectorStoreData,,Unnecessary Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.webapi,AzSearchConfig,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.webapi,Config,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.webapi.controllers,ChatController,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.webapi.models,ChatCompletionsRequest,,Unnecessary Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,

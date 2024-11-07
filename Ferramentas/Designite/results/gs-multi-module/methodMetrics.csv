@@ -1,0 +1,14 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC
+gs-multi-module,com.example.multimodule.application,DemoApplication,DemoApplication,3,1,1
+gs-multi-module,com.example.multimodule.application,DemoApplication,home,3,1,0
+gs-multi-module,com.example.multimodule.application,DemoApplication,main,3,1,1
+gs-multi-module,com.example.multimodule.application,DemoApplicationTest,contextLoads,3,1,0
+gs-multi-module,com.example.multimodule.service,MyService,MyService,3,1,1
+gs-multi-module,com.example.multimodule.service,MyService,message,3,1,0
+gs-multi-module,com.example.multimodule.service,ServiceProperties,getMessage,3,1,0
+gs-multi-module,com.example.multimodule.service,ServiceProperties,setMessage,3,1,1
+gs-multi-module,com.example.multimodule.service,MyServiceTest,contextLoads,3,1,0
+gs-multi-module,com.example.multimoduleapplication,MultiModuleApplication,main,3,1,1
+gs-multi-module,com.example.multimoduleapplication,MultiModuleApplicationTests,contextLoads,2,1,0
+gs-multi-module,com.example.multimodulelibrary,MultiModuleLibraryApplication,main,3,1,1
+gs-multi-module,com.example.multimodulelibrary,MultiModuleLibraryApplicationTests,contextLoads,2,1,0

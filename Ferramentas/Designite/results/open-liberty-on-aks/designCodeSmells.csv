@@ -1,0 +1,7 @@
+Project Name,Package Name,Type Name,Code Smell
+open-liberty-on-aks,cafe.model,CafeRepository,Unutilized Abstraction
+open-liberty-on-aks,cafe.model.entity,Coffee,Unutilized Abstraction
+open-liberty-on-aks,cafe.web.rest,CafeResource,Unutilized Abstraction
+open-liberty-on-aks,cafe.web.rest,CafeResource,Unutilized Abstraction
+open-liberty-on-aks,cafe.web.view,Cafe,Unutilized Abstraction
+open-liberty-on-aks,cafe.web.view,Cafe,Unutilized Abstraction

@@ -1,0 +1,10 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC
+gs-centralized-configuration,com.example.configurationclient,ConfigurationClientApplication,main,3,1,1
+gs-centralized-configuration,com.example.configurationclient,MessageRestController,getMessage,3,1,0
+gs-centralized-configuration,com.example.configurationclient,ConfigurationClientApplicationTest,contextLoads,7,1,0
+gs-centralized-configuration,com.example.configurationservice,ConfigurationServiceApplication,main,3,1,1
+gs-centralized-configuration,com.example.configurationservice,ConfigurationServiceApplicationTest,contextLoads,3,1,0
+gs-centralized-configuration,com.example.centralizedconfigurationclient,CentralizedConfigurationClientApplication,main,3,1,1
+gs-centralized-configuration,com.example.centralizedconfigurationclient,CentralizedConfigurationClientApplicationTests,contextLoads,2,1,0
+gs-centralized-configuration,com.example.centralizedconfigurationservice,CentralizedConfigurationServiceApplication,main,3,1,1
+gs-centralized-configuration,com.example.centralizedconfigurationservice,CentralizedConfigurationServiceApplicationTests,contextLoads,2,1,0

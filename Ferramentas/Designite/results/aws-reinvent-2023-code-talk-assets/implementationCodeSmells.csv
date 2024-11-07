@@ -1,0 +1,29 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell
+aws-reinvent-2023-code-talk-assets,org.example,DataStreamJob,main,Long Identifier
+aws-reinvent-2023-code-talk-assets,org.example,DataStreamJob,main,Long Statement
+aws-reinvent-2023-code-talk-assets,org.example,DataStreamJob,main,Long Statement
+aws-reinvent-2023-code-talk-assets,org.example,DataStreamJob,main,Long Statement
+aws-reinvent-2023-code-talk-assets,org.example,DataStreamJob,main,Long Statement
+aws-reinvent-2023-code-talk-assets,org.example,DataStreamJob,main,Long Statement
+aws-reinvent-2023-code-talk-assets,org.example,DataStreamJob,main,Long Statement
+aws-reinvent-2023-code-talk-assets,org.example,DataStreamJob,main,Long Statement
+aws-reinvent-2023-code-talk-assets,org.example,DataStreamJob,main,Long Statement
+aws-reinvent-2023-code-talk-assets,org.example,DataStreamJob,main,Long Statement
+aws-reinvent-2023-code-talk-assets,org.example,DataStreamJob,main,Long Statement
+aws-reinvent-2023-code-talk-assets,org.example,DataStreamJob,main,Long Statement
+aws-reinvent-2023-code-talk-assets,org.example,DataStreamJob,main,Long Statement
+aws-reinvent-2023-code-talk-assets,org.example,DataStreamJob,main,Long Statement
+aws-reinvent-2023-code-talk-assets,org.example,DataStreamJob,main,Long Statement
+aws-reinvent-2023-code-talk-assets,org.example,DataStreamJob,main,Long Statement
+aws-reinvent-2023-code-talk-assets,org.example,DataStreamJob,main,Long Statement
+aws-reinvent-2023-code-talk-assets,org.example,DataStreamJob,main,Magic Number
+aws-reinvent-2023-code-talk-assets,org.example,DataStreamJob,main,Magic Number
+aws-reinvent-2023-code-talk-assets,org.example,DataStreamJob,main,Magic Number
+aws-reinvent-2023-code-talk-assets,org.example,DataStreamJob,main,Magic Number
+aws-reinvent-2023-code-talk-assets,org.example,DataStreamJob,main,Magic Number
+aws-reinvent-2023-code-talk-assets,org.example,DataStreamJob,main,Magic Number
+aws-reinvent-2023-code-talk-assets,org.example,DataStreamJob,main,Magic Number
+aws-reinvent-2023-code-talk-assets,org.example,DataStreamJob,main,Magic Number
+aws-reinvent-2023-code-talk-assets,org.example,DataStreamJob,main,Magic Number
+aws-reinvent-2023-code-talk-assets,org.example.types,CornerSpeed,CornerSpeed,Long Parameter List
+aws-reinvent-2023-code-talk-assets,org.example.types,CornerSpeed,toString,Long Statement

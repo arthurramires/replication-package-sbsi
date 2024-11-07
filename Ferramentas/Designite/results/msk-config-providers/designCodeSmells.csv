@@ -1,0 +1,13 @@
+Project Name,Package Name,Type Name,Code Smell
+msk-config-providers,com.amazonaws.kafka.config.providers.common,AwsServiceConfigProvider,Unutilized Abstraction
+msk-config-providers,com.amazonaws.kafka.config.providers.common,CommonConfigUtils,Deficient Encapsulation
+msk-config-providers,com.amazonaws.kafka.config.providers,S3ImportConfig,Deficient Encapsulation
+msk-config-providers,com.amazonaws.kafka.config.providers,SecretsManagerConfig,Deficient Encapsulation
+msk-config-providers,com.amazonaws.kafka.config.providers,SecretsManagerConfigProvider,Unutilized Abstraction
+msk-config-providers,com.amazonaws.kafka.config.providers,SsmParamStoreConfig,Deficient Encapsulation
+msk-config-providers,com.amazonaws.kafka.config.providers,SsmParamStoreConfigProvider,Unutilized Abstraction
+msk-config-providers,com.amazonaws.kafka.config.providers,MockedSecretsManagerConfigProvider,Unutilized Abstraction
+msk-config-providers,com.amazonaws.kafka.config.providers,MockedSsmParamStoreConfigProvider,Unutilized Abstraction
+msk-config-providers,com.amazonaws.kafka.config.providers,SecretsManagerConfigProviderTest,Unutilized Abstraction
+msk-config-providers,com.amazonaws.kafka.config.providers,SsmParamStoreConfigProviderTest,Unutilized Abstraction
+msk-config-providers,com.amazonaws.kafka.config.providers,CustomConfig,Unutilized Abstraction

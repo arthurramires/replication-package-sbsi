@@ -1,0 +1,12 @@
+Project Name,Package Name,Type Name,Code Smell
+sleuth-documentation-apps,com.example.presentationservice,PresentationController,Unutilized Abstraction
+sleuth-documentation-apps,com.example.presentationservice,PresentationServiceApplicationTests,Unutilized Abstraction
+sleuth-documentation-apps,io.spring.cloud.sleuth.docs.service1,Application,Unutilized Abstraction
+sleuth-documentation-apps,io.spring.cloud.sleuth.docs.service1,Service1Controller,Unutilized Abstraction
+sleuth-documentation-apps,io.spring.cloud.sleuth.docs.service2,Application,Unutilized Abstraction
+sleuth-documentation-apps,io.spring.cloud.sleuth.docs.service2,Service2Controller,Unutilized Abstraction
+sleuth-documentation-apps,io.spring.cloud.sleuth.docs.service3,Application,Unutilized Abstraction
+sleuth-documentation-apps,io.spring.cloud.sleuth.docs.service3,Service3Controller,Unutilized Abstraction
+sleuth-documentation-apps,io.spring.cloud.sleuth.docs.service4,Application,Unutilized Abstraction
+sleuth-documentation-apps,io.spring.cloud.sleuth.docs.service4,Service4Controller,Unutilized Abstraction
+sleuth-documentation-apps,io.spring.cloud.samples.docs.zipkin,Application,Unutilized Abstraction

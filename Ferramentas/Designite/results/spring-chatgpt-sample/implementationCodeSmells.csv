@@ -1,0 +1,13 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.cli,AzSearchConfig,vectorStore,Long Statement
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.cli,Config,azureOpenAIClient,Long Statement
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common,ChatPlanner,chat,Magic Number
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common,ChatPlanner,chat,Magic Number
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common,TextSplitter,split,Complex Method
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common,TextSplitter,split,Long Statement
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,AzureCognitiveSearchVectorStore,searchTopKNearest,Long Statement
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,AzureCognitiveSearchVectorStore,searchTopKNearest,Long Statement
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,AzureCognitiveSearchVectorStore,searchTopKNearest,Long Statement
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,SimpleMemoryVectorStore,searchTopKNearest,Long Statement
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,SimpleMemoryVectorStore,searchTopKNearest,Long Statement
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.webapi,AzSearchConfig,vectorStore,Long Statement

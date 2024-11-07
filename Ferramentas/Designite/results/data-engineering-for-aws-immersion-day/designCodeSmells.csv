@@ -1,0 +1,6 @@
+Project Name,Package Name,Type Name,Code Smell
+data-engineering-for-aws-immersion-day,software.amazon.flink.example,DataSerializationSchema,Unutilized Abstraction
+data-engineering-for-aws-immersion-day,software.amazon.flink.example.operator,InputDataMapper,Unnecessary Abstraction
+data-engineering-for-aws-immersion-day,software.amazon.flink.example.operator,RandomCutForestOperator,Deficient Encapsulation
+data-engineering-for-aws-immersion-day,software.amazon.flink.example.operator,RandomCutForestOperatorBuilder,Unutilized Abstraction
+data-engineering-for-aws-immersion-day,software.amazon.flink.example.operator,ResultMapper,Unnecessary Abstraction

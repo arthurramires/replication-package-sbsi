@@ -1,0 +1,19 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell
+amazon-kinesis-analytics-beam-taxi-consumer,com.amazonaws.samples.beam.taxi.count,CloudWatchSink,process,Long Statement
+amazon-kinesis-analytics-beam-taxi-consumer,com.amazonaws.samples.beam.taxi.count,CloudWatchSink,process,Long Statement
+amazon-kinesis-analytics-beam-taxi-consumer,com.amazonaws.samples.beam.taxi.count,CloudWatchSink,apply,Long Statement
+amazon-kinesis-analytics-beam-taxi-consumer,com.amazonaws.samples.beam.taxi.count,PartitionByBorough,setup,Long Statement
+amazon-kinesis-analytics-beam-taxi-consumer,com.amazonaws.samples.beam.taxi.count,TaxiCount,main,Long Statement
+amazon-kinesis-analytics-beam-taxi-consumer,com.amazonaws.samples.beam.taxi.count,TaxiCount,main,Long Statement
+amazon-kinesis-analytics-beam-taxi-consumer,com.amazonaws.samples.beam.taxi.count,TaxiCount,main,Long Statement
+amazon-kinesis-analytics-beam-taxi-consumer,com.amazonaws.samples.beam.taxi.count,TaxiCount,main,Long Statement
+amazon-kinesis-analytics-beam-taxi-consumer,com.amazonaws.samples.beam.taxi.count,TaxiCount,main,Long Statement
+amazon-kinesis-analytics-beam-taxi-consumer,com.amazonaws.samples.beam.taxi.count,TaxiCount,main,Long Statement
+amazon-kinesis-analytics-beam-taxi-consumer,com.amazonaws.samples.beam.taxi.count,TaxiCount,main,Long Statement
+amazon-kinesis-analytics-beam-taxi-consumer,com.amazonaws.samples.beam.taxi.count,TaxiCount,main,Magic Number
+amazon-kinesis-analytics-beam-taxi-consumer,com.amazonaws.samples.beam.taxi.count,TaxiCount,main,Magic Number
+amazon-kinesis-analytics-beam-taxi-consumer,com.amazonaws.samples.beam.taxi.count,TaxiCount,main,Magic Number
+amazon-kinesis-analytics-beam-taxi-consumer,com.amazonaws.samples.beam.taxi.count,TaxiCount,main,Magic Number
+amazon-kinesis-analytics-beam-taxi-consumer,com.amazonaws.samples.beam.taxi.count,TaxiCount,main,Missing default
+amazon-kinesis-analytics-beam-taxi-consumer,com.amazonaws.samples.beam.taxi.count,TaxiCountOptions,argsFromKinesisApplicationProperties,Long Statement
+amazon-kinesis-analytics-beam-taxi-consumer,com.amazonaws.samples.beam.taxi.count.kinesis,Event,parseEvent,Missing default

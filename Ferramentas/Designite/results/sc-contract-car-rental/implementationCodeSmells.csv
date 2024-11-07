@@ -1,0 +1,33 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell
+sc-contract-car-rental,(default package),MavenWrapperDownloader,main,Empty catch clause
+sc-contract-car-rental,(default package),MavenWrapperDownloader,main,Long Identifier
+sc-contract-car-rental,(default package),MavenWrapperDownloader,main,Empty catch clause
+sc-contract-car-rental,(default package),MavenWrapperDownloader,main,Long Identifier
+sc-contract-car-rental,(default package),MavenWrapperDownloader,main,Empty catch clause
+sc-contract-car-rental,(default package),MavenWrapperDownloader,main,Long Identifier
+sc-contract-car-rental,com.example.carrental,CallingStubInEurekaTests,should_retrieve_list_of_frauds_from_stub_via_discovery,Long Statement
+sc-contract-car-rental,com.example.carrental,CallingStubInEurekaTests,should_retrieve_list_of_frauds_from_stub_via_discovery,Long Statement
+sc-contract-car-rental,com.example.carrental,CallingStubInEurekaTests,should_retrieve_list_of_frauds_from_stub_via_discovery,Magic Number
+sc-contract-car-rental,com.example.carrental,CallingStubInEurekaTests,should_retrieve_list_of_frauds_from_stub_via_discovery,Magic Number
+sc-contract-car-rental,com.example.carrental,CallingStubInEurekaTests,should_retrieve_list_of_frauds_from_stub_via_discovery,Magic Number
+sc-contract-car-rental,com.example.carrental,FraudTests,should_retrieve_list_of_frauds_from_stub_via_discovery,Long Statement
+sc-contract-car-rental,com.example.carrental,FraudTests,should_retrieve_list_of_frauds_from_stub_via_discovery,Long Statement
+sc-contract-car-rental,com.example.carrental,FraudTests,should_retrieve_list_of_frauds_from_stub_via_discovery,Magic Number
+sc-contract-car-rental,com.example.carrental,FraudTests,should_retrieve_list_of_frauds_from_stub_via_discovery,Magic Number
+sc-contract-car-rental,com.example.carrental,FraudTests,should_retrieve_list_of_frauds_from_stub_via_discovery,Magic Number
+sc-contract-car-rental,com.example.carrental,ManualTests,should_fail_for_fraud,Long Statement
+sc-contract-car-rental,com.example.carrental,ManualTests,should_fail_for_fraud,Magic Number
+sc-contract-car-rental,com.example.carrental,ManualTests,should_pass_for_non_fraud,Long Statement
+sc-contract-car-rental,com.example.carrental,ManualTests,should_pass_for_non_fraud,Magic Number
+sc-contract-car-rental,com.example.carrental,RentACarTests,should_retrieve_list_of_frauds,Long Statement
+sc-contract-car-rental,com.example.carrental,RentACarTests,should_retrieve_list_of_frauds,Long Statement
+sc-contract-car-rental,com.example.carrental,RentACarTests,should_retrieve_list_of_frauds,Magic Number
+sc-contract-car-rental,com.example.carrental,RentACarTests,should_retrieve_list_of_frauds,Magic Number
+sc-contract-car-rental,com.example.carrental,RentACarTests,should_fail_to_reach_fraud,Empty catch clause
+sc-contract-car-rental,com.example.carrental,RentACarTests,should_fail_to_reach_fraud,Long Statement
+sc-contract-car-rental,com.example.carrental,RentACarTests,should_retrieve_list_of_frauds_from_stub,Long Statement
+sc-contract-car-rental,com.example.carrental,RentACarTests,should_retrieve_list_of_frauds_from_stub,Magic Number
+sc-contract-car-rental,com.example.carrental,RentACarTests,should_trigger_a_message,Long Statement
+sc-contract-car-rental,com.example.carrental,RentACarTests,should_trigger_a_message,Magic Number
+sc-contract-car-rental,com.example.frauddetection,FraudController,frauds,Magic Number
+sc-contract-car-rental,com.example.frauddetection,FraudControllerTests,should_accept_a_post_message,Long Statement

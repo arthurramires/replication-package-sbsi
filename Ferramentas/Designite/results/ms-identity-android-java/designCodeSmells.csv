@@ -1,0 +1,12 @@
+Project Name,Package Name,Type Name,Code Smell
+ms-identity-android-java,com.azuresamples.msalandroidapp,B2CConfiguration,Deficient Encapsulation
+ms-identity-android-java,com.azuresamples.msalandroidapp,B2CModeFragment,Unutilized Abstraction
+ms-identity-android-java,com.azuresamples.msalandroidapp,CIAMModeFragment,Unutilized Abstraction
+ms-identity-android-java,com.azuresamples.msalandroidapp,MainActivity,Unutilized Abstraction
+ms-identity-android-java,com.azuresamples.msalandroidapp,MainActivity,Broken Hierarchy
+ms-identity-android-java,com.azuresamples.msalandroidapp,MSGraphRequestWrapper,Deficient Encapsulation
+ms-identity-android-java,com.azuresamples.msalandroidapp,MultipleAccountModeFragment,Unutilized Abstraction
+ms-identity-android-java,com.azuresamples.msalandroidapp,OnFragmentInteractionListener,Unnecessary Abstraction
+ms-identity-android-java,com.azuresamples.msalandroidapp,OnFragmentInteractionListener,Unutilized Abstraction
+ms-identity-android-java,com.azuresamples.msalandroidapp,SingleAccountModeFragment,Unutilized Abstraction
+ms-identity-android-java,com.azuresamples.msalandroidapp,SingleAccountModeFragment,Insufficient Modularization

@@ -1,0 +1,38 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell
+azure-functions-samples-java,com.azfs,Function,run,Long Statement
+azure-functions-samples-java,com.azfs,Function,run,Long Statement
+azure-functions-samples-java,com.function,DistributedTracingFunction,jdbcAndCosmosOutput,Long Statement
+azure-functions-samples-java,com.functions,BlobTriggerFunction,BlobTriggerToBlobTest,Long Parameter List
+azure-functions-samples-java,com.functions,BlobTriggerFunction,BlobTriggerToBlobTest,Long Statement
+azure-functions-samples-java,com.functions,CosmosDBTriggerFunction,CosmosDBInputId,Long Statement
+azure-functions-samples-java,com.functions,CosmosDBTriggerFunction,CosmosDBInputIdPOJO,Long Statement
+azure-functions-samples-java,com.functions,CosmosDBTriggerFunction,CosmosDBInputQueryPOJOArray,Long Statement
+azure-functions-samples-java,com.functions,CosmosDBTriggerFunction,CosmosDBInputQueryPOJOArray,Magic Number
+azure-functions-samples-java,com.functions,CosmosDBTriggerFunction,CosmosDBInputQueryPOJOList,Long Statement
+azure-functions-samples-java,com.functions,CosmosDBTriggerFunction,CosmosDBInputQueryPOJOList,Magic Number
+azure-functions-samples-java,com.functions,CosmosDBTriggerFunction,CosmosDBInputQuery,Long Statement
+azure-functions-samples-java,com.functions,CosmosDBTriggerFunction,CosmosDBInputQuery,Magic Number
+azure-functions-samples-java,com.functions,CosmosDBTriggerFunction,CosmosTriggerAndOutput,Magic Number
+azure-functions-samples-java,com.functions,CosmosDBTriggerFunction,CosmosTriggerAndOutput,Magic Number
+azure-functions-samples-java,com.functions,EventHubTriggerFunction,EventHubTriggerCardinalityOneEventMetadata,Long Parameter List
+azure-functions-samples-java,com.functions,EventHubTriggerFunction,EventHubTriggerCardinalityManyEventMetadata,Long Parameter List
+azure-functions-samples-java,com.functions,EventHubTriggerFunction,EventHubTriggerAndOutputString,Long Statement
+azure-functions-samples-java,com.functions,Function,run,Long Statement
+azure-functions-samples-java,com.functions,Function,HttpExampleRetry,Long Statement
+azure-functions-samples-java,com.functions,Function,HttpExampleRetry,Magic Number
+azure-functions-samples-java,com.functions,Function,HttpExampleRetry,Magic Number
+azure-functions-samples-java,com.functions,QueueTriggerFunction,QueueOutputPOJOList,Long Statement
+azure-functions-samples-java,com.functions,QueueTriggerFunction,QueueTriggerMetadata,Long Statement
+azure-functions-samples-java,com.functions,TableFunction,tableOutputJava,Long Statement
+azure-functions-samples-java,com.functions,EventHubTriggerFunctionTest,testEventHubTriggerAndOutputJSONJava,Magic Number
+azure-functions-samples-java,com.functions,EventHubTriggerFunctionTest,testEventHubTriggerAndOutputStringJava,Long Statement
+azure-functions-samples-java,com.functions,EventHubTriggerFunctionTest,testEventHubTriggerAndOutputStringJava,Magic Number
+azure-functions-samples-java,com.functions,EventHubTriggerFunctionTest,testEventHubTriggerAndOutputStringJava,Magic Number
+azure-functions-samples-java,com.functions,EventHubTriggerFunctionTest,testEventHubTriggerAndOutputStringJava,Magic Number
+azure-functions-samples-java,com.functions,EventHubTriggerFunctionTest,testEventHubTriggerAndOutputStringJava,Magic Number
+azure-functions-samples-java,com.functions,EventHubTriggerFunctionTest,testEventHubTriggerAndOutputBinaryCardinalityManyListBinaryJava,Long Statement
+azure-functions-samples-java,com.functions,EventHubTriggerFunctionTest,testEventHubTriggerAndOutputBinaryCardinalityManyArrayBinaryJava,Long Statement
+azure-functions-samples-java,com.functions,EventHubTriggerFunctionTest,testEventHubTriggerAndOutputBinaryCardinalityManyArrayBinaryJava,Magic Number
+azure-functions-samples-java,com.functions,EventHubTriggerFunctionTest,testEventHubTriggerAndOutputBinaryCardinalityManyArrayBinaryJava,Magic Number
+azure-functions-samples-java,example.hello,HelloHandler,execute,Long Statement
+azure-functions-samples-java,example.hello,HelloHandler,execute,Long Statement

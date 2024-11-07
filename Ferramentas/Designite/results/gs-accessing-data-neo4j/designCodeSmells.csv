@@ -1,0 +1,4 @@
+Project Name,Package Name,Type Name,Code Smell
+gs-accessing-data-neo4j,com.example.accessingdataneo4j,Person,Deficient Encapsulation
+gs-accessing-data-neo4j,com.example.accessingdataneo4j,AccessingDataNeo4jApplication,Unutilized Abstraction
+gs-accessing-data-neo4j,com.example.accessingdataneo4j,AccessingDataNeo4jApplicationTests,Unutilized Abstraction

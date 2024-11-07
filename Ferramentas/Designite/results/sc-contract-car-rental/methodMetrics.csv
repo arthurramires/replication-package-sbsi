@@ -1,0 +1,48 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC
+sc-contract-car-rental,(default package),MavenWrapperDownloader,main,46,5,1
+sc-contract-car-rental,(default package),MavenWrapperDownloader,downloadFileFromURL,19,2,2
+sc-contract-car-rental,(default package),MavenWrapperDownloader,getPasswordAuthentication,3,1,0
+sc-contract-car-rental,(default package),MavenWrapperDownloader,main,46,5,1
+sc-contract-car-rental,(default package),MavenWrapperDownloader,downloadFileFromURL,9,1,2
+sc-contract-car-rental,(default package),MavenWrapperDownloader,main,46,5,1
+sc-contract-car-rental,(default package),MavenWrapperDownloader,downloadFileFromURL,9,1,2
+sc-contract-car-rental,com.example.carrental,CarRentalApplication,main,3,1,1
+sc-contract-car-rental,com.example.carrental,CarRentalApplication,restTemplate,3,1,0
+sc-contract-car-rental,com.example.carrental,FraudListener,fraud,4,1,1
+sc-contract-car-rental,com.example.carrental,FraudListener,accept,3,1,1
+sc-contract-car-rental,com.example.carrental,Fraud,Fraud,3,1,1
+sc-contract-car-rental,com.example.carrental,Fraud,Fraud,2,1,0
+sc-contract-car-rental,com.example.carrental,Fraud,toString,3,1,0
+sc-contract-car-rental,com.example.carrental,Fraud,getName,3,1,0
+sc-contract-car-rental,com.example.carrental,Fraud,setName,3,1,1
+sc-contract-car-rental,com.example.carrental,CarRentalController,CarRentalController,3,1,1
+sc-contract-car-rental,com.example.carrental,CarRentalController,rent,7,2,1
+sc-contract-car-rental,com.example.carrental,ClientRequest,ClientRequest,3,1,1
+sc-contract-car-rental,com.example.carrental,ClientRequest,ClientRequest,2,1,0
+sc-contract-car-rental,com.example.carrental,ClientRequest,getName,3,1,0
+sc-contract-car-rental,com.example.carrental,ClientRequest,setName,3,1,1
+sc-contract-car-rental,com.example.carrental,CallingStubInEurekaTests,setup,3,1,1
+sc-contract-car-rental,com.example.carrental,CallingStubInEurekaTests,should_retrieve_list_of_frauds_from_stub_via_discovery,14,1,0
+sc-contract-car-rental,com.example.carrental,CarRentalApplicationTests,contextLoads,2,1,0
+sc-contract-car-rental,com.example.carrental,FraudTests,setup,3,1,1
+sc-contract-car-rental,com.example.carrental,FraudTests,setup,3,1,0
+sc-contract-car-rental,com.example.carrental,FraudTests,should_store_info_about_fraud,5,1,0
+sc-contract-car-rental,com.example.carrental,FraudTests,should_retrieve_list_of_frauds_from_stub_via_discovery,14,1,0
+sc-contract-car-rental,com.example.carrental,ManualTests,should_fail_for_fraud,3,1,0
+sc-contract-car-rental,com.example.carrental,ManualTests,should_pass_for_non_fraud,3,1,0
+sc-contract-car-rental,com.example.carrental,RentACarTests,should_retrieve_list_of_frauds,6,1,0
+sc-contract-car-rental,com.example.carrental,RentACarTests,should_fail_to_reach_fraud,8,1,0
+sc-contract-car-rental,com.example.carrental,RentACarTests,should_retrieve_list_of_frauds_from_stub,5,1,0
+sc-contract-car-rental,com.example.carrental,RentACarTests,should_trigger_a_message,4,1,0
+sc-contract-car-rental,com.example.eureka,EurekaApplication,main,3,1,1
+sc-contract-car-rental,com.example.frauddetection,FraudController,frauds,3,1,0
+sc-contract-car-rental,com.example.frauddetection,FraudController,FraudController,3,1,1
+sc-contract-car-rental,com.example.frauddetection,FraudController,message,3,1,0
+sc-contract-car-rental,com.example.frauddetection,Fraud,Fraud,3,1,1
+sc-contract-car-rental,com.example.frauddetection,Fraud,getSurname,3,1,0
+sc-contract-car-rental,com.example.frauddetection,Fraud,setSurname,3,1,1
+sc-contract-car-rental,com.example.frauddetection,FraudDetectionApplication,main,3,1,1
+sc-contract-car-rental,com.example.frauddetection,BaseClass,setup,3,1,0
+sc-contract-car-rental,com.example.frauddetection,BaseClass,triggerMethod,3,1,0
+sc-contract-car-rental,com.example.frauddetection,FraudControllerTests,should_accept_a_post_message,3,1,0
+sc-contract-car-rental,com.example.frauddetection,FraudDetectionApplicationTests,contextLoads,2,1,0

@@ -1,0 +1,5 @@
+Project Name,Package Name,Type Name,Code Smell
+amazon-translate-pdf,com.amazon.textract.pdf,FontInfo,Unnecessary Abstraction
+amazon-translate-pdf,com.amazon.textract.pdf,TextLine,Unutilized Abstraction
+amazon-translate-pdf,com.amazon.textract.pdf,TextLine,Deficient Encapsulation
+amazon-translate-pdf,(default package),Demo,Unutilized Abstraction

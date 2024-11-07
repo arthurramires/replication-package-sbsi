@@ -1,0 +1,6 @@
+Project Name,Package Name,Type Name,Code Smell
+engineering-quickstarts-for-serverless-and-container-applications,com.scale_aws,Builder,Unutilized Abstraction
+engineering-quickstarts-for-serverless-and-container-applications,com.scale_aws,StreamLambdaHandler,Unutilized Abstraction
+engineering-quickstarts-for-serverless-and-container-applications,com.scale_aws.hello_world_controller,HelloWorldController,Unutilized Abstraction
+engineering-quickstarts-for-serverless-and-container-applications,com.scale_aws.hello_world_model,Error,Unutilized Abstraction
+engineering-quickstarts-for-serverless-and-container-applications,com.scale_aws.test,HelloWorldControllerTest,Unutilized Abstraction

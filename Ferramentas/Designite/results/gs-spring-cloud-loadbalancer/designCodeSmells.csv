@@ -1,0 +1,8 @@
+Project Name,Package Name,Type Name,Code Smell
+gs-spring-cloud-loadbalancer,(default package),MavenWrapperDownloader,Unutilized Abstraction
+gs-spring-cloud-loadbalancer,(default package),MavenWrapperDownloader,Unutilized Abstraction
+gs-spring-cloud-loadbalancer,hello,SayHelloApplicationTests,Unutilized Abstraction
+gs-spring-cloud-loadbalancer,hello,SayHelloConfiguration,Unutilized Abstraction
+gs-spring-cloud-loadbalancer,hello,DemoServiceInstanceListSuppler,Unutilized Abstraction
+gs-spring-cloud-loadbalancer,hello,WebClientConfig,Unutilized Abstraction
+gs-spring-cloud-loadbalancer,hello,UserApplicationTests,Unutilized Abstraction

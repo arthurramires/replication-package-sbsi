@@ -1,0 +1,14 @@
+Project Name,Package Name,Type Name,Code Smell
+quarkus-azure,io.quarkus.sample,IndexResource,Unutilized Abstraction
+quarkus-azure,io.quarkus.sample,TodoResource,Unutilized Abstraction
+quarkus-azure,io.quarkus.sample,TodoResourceTest,Unutilized Abstraction
+quarkus-azure,io.quarkus.sample,IndexResource,Unutilized Abstraction
+quarkus-azure,io.quarkus.sample,Todo,Unutilized Abstraction
+quarkus-azure,io.quarkus.sample,TodoRepository,Unutilized Abstraction
+quarkus-azure,io.quarkus.sample,TodoResource,Unutilized Abstraction
+quarkus-azure,io.quarkus.sample,TodoResourceTest,Unutilized Abstraction
+quarkus-azure,(default package),MavenWrapperDownloader,Unutilized Abstraction
+quarkus-azure,com.example,ProfilePage,Unutilized Abstraction
+quarkus-azure,com.example,WelcomePage,Unutilized Abstraction
+quarkus-azure,io.quarkus,GreetingFunction,Unutilized Abstraction
+quarkus-azure,io.quarkus,GreetingTest,Unutilized Abstraction

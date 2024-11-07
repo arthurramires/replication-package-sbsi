@@ -1,0 +1,21 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell
+aws-eks-crac,com.amazon.customerService.controller,CustomerController,loadCustomers,Magic Number
+aws-eks-crac,com.amazon.customerService.controller,CustomerController,loadCustomers,Magic Number
+aws-eks-crac,com.amazon.customerService.model,Customer,toString,Long Statement
+aws-eks-crac,com.amazon.customerService.model,Customer,toString,Long Statement
+aws-eks-crac,com.amazon.customerService.model.metrics,MetricWrapper,MetricWrapper,Long Parameter List
+aws-eks-crac,com.amazon.customerService.model.metrics,TaskMetric,toString,Long Statement
+aws-eks-crac,com.amazon.customerService.model.metrics,MetricWrapper,MetricWrapper,Long Parameter List
+aws-eks-crac,com.amazon.customerService.model.metrics,TaskMetric,toString,Long Statement
+aws-eks-crac,com.amazon.customerService.repository,CustomerRepository,save,Long Statement
+aws-eks-crac,com.amazon.customerService.repository,CustomerRepositoryTest,testRead,Magic Number
+aws-eks-crac,com.amazon.customerService.repository,CustomerRepositoryTest,testUpdate,Magic Number
+aws-eks-crac,com.amazon.customerService.repository,CustomerRepositoryTest,testDelete,Magic Number
+aws-eks-crac,com.amazon.customerService.repository,CustomerRepository,save,Long Statement
+aws-eks-crac,com.amazon.customerService.repository,CustomerRepositoryTest,testRead,Magic Number
+aws-eks-crac,com.amazon.customerService.repository,CustomerRepositoryTest,testUpdate,Magic Number
+aws-eks-crac,com.amazon.customerService.repository,CustomerRepositoryTest,testDelete,Magic Number
+aws-eks-crac,com.amazon.customerService.service,CustomerService,loadCustomerData,Magic Number
+aws-eks-crac,com.amazon.customerService.service,CustomerService,loadCustomerData,Magic Number
+aws-eks-crac,com.amazon.customerService.service,CustomerService,loadCustomerData,Magic Number
+aws-eks-crac,com.amazon.customerService.service,CustomerService,loadCustomerData,Magic Number

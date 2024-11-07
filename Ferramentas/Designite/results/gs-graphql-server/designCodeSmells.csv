@@ -1,0 +1,6 @@
+Project Name,Package Name,Type Name,Code Smell
+gs-graphql-server,com.example.graphqlserver,BookController,Unutilized Abstraction
+gs-graphql-server,com.example.graphqlserver,BookControllerTests,Unutilized Abstraction
+gs-graphql-server,com.example.graphqlserver,GraphqlServerApplicationTests,Unutilized Abstraction
+gs-graphql-server,com.example.graphqlserver,GraphqlServerApplication,Unutilized Abstraction
+gs-graphql-server,com.example.graphqlserver,GraphqlServerApplicationTests,Unutilized Abstraction

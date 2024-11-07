@@ -1,0 +1,18 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell
+tut-rest,payroll,Employee,equals,Long Statement
+tut-rest,payroll,Employee,toString,Long Statement
+tut-rest,payroll,EmployeeController,all,Long Statement
+tut-rest,payroll,EmployeeModelAssembler,toModel,Long Statement
+tut-rest,payroll,Employee,equals,Long Statement
+tut-rest,payroll,Employee,toString,Long Statement
+tut-rest,payroll,EmployeeController,all,Long Statement
+tut-rest,payroll,EmployeeModelAssembler,toModel,Long Statement
+tut-rest,payroll,Order,equals,Long Statement
+tut-rest,payroll,OrderController,newOrder,Long Statement
+tut-rest,payroll,OrderController,cancel,Long Statement
+tut-rest,payroll,OrderController,complete,Long Statement
+tut-rest,payroll,OrderModelAssembler,toModel,Long Statement
+tut-rest,payroll,Employee,equals,Long Statement
+tut-rest,payroll,Employee,equals,Long Statement
+tut-rest,payroll,EmployeeController,all,Long Statement
+tut-rest,payroll,EmployeeController,one,Long Statement

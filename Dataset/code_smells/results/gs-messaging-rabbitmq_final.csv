@@ -1,0 +1,23 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell,source_file,MethodName,LOC,CC,PC,NOF,NOPF,NOM,NOPM,WMC,NC,DIT,LCOM,FANIN,FANOUT
+gs-messaging-rabbitmq,com.example.messagingrabbitmq,Runner,run,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-messaging-rabbitmq,com.example.messagingrabbitmq,MessagingRabbitmqApplicationTest,test,Empty catch clause,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-messaging-rabbitmq,com.example.messagingrabbitmq,MessagingRabbitmqApplicationTest,test,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-messaging-rabbitmq,com.example.messagingrabbitmq,MessagingRabbitmqApplication,,,methodMetrics.csv,queue,3.0,1.0,0.0,,,,,,,,,,
+gs-messaging-rabbitmq,com.example.messagingrabbitmq,MessagingRabbitmqApplication,,,methodMetrics.csv,exchange,3.0,1.0,0.0,,,,,,,,,,
+gs-messaging-rabbitmq,com.example.messagingrabbitmq,MessagingRabbitmqApplication,,,methodMetrics.csv,binding,3.0,1.0,2.0,,,,,,,,,,
+gs-messaging-rabbitmq,com.example.messagingrabbitmq,MessagingRabbitmqApplication,,,methodMetrics.csv,container,7.0,1.0,2.0,,,,,,,,,,
+gs-messaging-rabbitmq,com.example.messagingrabbitmq,MessagingRabbitmqApplication,,,methodMetrics.csv,listenerAdapter,3.0,1.0,1.0,,,,,,,,,,
+gs-messaging-rabbitmq,com.example.messagingrabbitmq,MessagingRabbitmqApplication,,,methodMetrics.csv,main,3.0,1.0,1.0,,,,,,,,,,
+gs-messaging-rabbitmq,com.example.messagingrabbitmq,Receiver,,,methodMetrics.csv,receiveMessage,4.0,1.0,1.0,,,,,,,,,,
+gs-messaging-rabbitmq,com.example.messagingrabbitmq,Receiver,,,methodMetrics.csv,getLatch,3.0,1.0,0.0,,,,,,,,,,
+gs-messaging-rabbitmq,com.example.messagingrabbitmq,Runner,,,methodMetrics.csv,Runner,4.0,1.0,2.0,,,,,,,,,,
+gs-messaging-rabbitmq,com.example.messagingrabbitmq,Runner,,,methodMetrics.csv,run,5.0,1.0,1.0,,,,,,,,,,
+gs-messaging-rabbitmq,com.example.messagingrabbitmq,MessagingRabbitmqApplicationTest,,,methodMetrics.csv,test,8.0,1.0,0.0,,,,,,,,,,
+gs-messaging-rabbitmq,com.example.messagingrabbitmq,MessagingRabbitmqApplication,,,methodMetrics.csv,main,3.0,1.0,1.0,,,,,,,,,,
+gs-messaging-rabbitmq,com.example.messagingrabbitmq,MessagingRabbitmqApplication,,,typeMetrics.csv,,26.0,,,2.0,0.0,6.0,1.0,6.0,0.0,0.0,0.8333333333333334,3.0,2.0
+gs-messaging-rabbitmq,com.example.messagingrabbitmq,Receiver,,,typeMetrics.csv,,10.0,,,1.0,0.0,2.0,2.0,2.0,0.0,0.0,0.0,3.0,0.0
+gs-messaging-rabbitmq,com.example.messagingrabbitmq,Runner,,,typeMetrics.csv,,13.0,,,2.0,0.0,2.0,2.0,2.0,0.0,0.0,0.0,1.0,2.0
+gs-messaging-rabbitmq,com.example.messagingrabbitmq,MessagingRabbitmqApplicationTest,,,typeMetrics.csv,,13.0,,,3.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0
+gs-messaging-rabbitmq,com.example.messagingrabbitmq,MessagingRabbitmqApplication,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,0.0
+gs-messaging-rabbitmq,com.example.messagingrabbitmq,MessagingRabbitmqApplicationTest,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-messaging-rabbitmq,com.example.messagingrabbitmq,MessagingRabbitmqApplication,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,

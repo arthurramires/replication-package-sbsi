@@ -1,0 +1,12 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+gs-testing-web,com.example.testingweb,GreetingController,1,0,2,2,9,2,0,0,0.0,0,1
+gs-testing-web,com.example.testingweb,GreetingService,0,0,1,1,5,1,0,0,-1.0,2,0
+gs-testing-web,com.example.testingweb,HomeController,0,0,1,1,5,1,0,0,-1.0,1,0
+gs-testing-web,com.example.testingweb,TestingWebApplication,0,0,1,1,5,1,0,0,-1.0,2,1
+gs-testing-web,com.example.testingweb,HttpRequestTest,2,0,1,0,7,1,0,0,0.0,0,0
+gs-testing-web,com.example.testingweb,SmokeTest,1,0,1,0,6,1,0,0,0.0,0,1
+gs-testing-web,com.example.testingweb,TestingWebApplicationTest,1,0,1,0,6,1,0,0,0.0,0,0
+gs-testing-web,com.example.testingweb,WebLayerTest,1,0,1,0,6,1,0,0,0.0,0,0
+gs-testing-web,com.example.testingweb,WebMockTest,2,0,1,0,8,1,0,0,0.0,0,1
+gs-testing-web,com.example.testingweb,TestingWebApplication,0,0,1,1,5,1,0,0,-1.0,0,1
+gs-testing-web,com.example.testingweb,TestingWebApplicationTests,0,0,1,0,4,1,0,0,-1.0,0,0

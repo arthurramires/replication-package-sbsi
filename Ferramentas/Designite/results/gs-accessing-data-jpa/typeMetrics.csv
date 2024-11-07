@@ -1,0 +1,7 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+gs-accessing-data-jpa,com.example.accessingdatajpa,AccessingDataJpaApplication,1,0,2,2,35,2,0,0,1.0,2,2
+gs-accessing-data-jpa,com.example.accessingdatajpa,Customer,3,0,6,5,23,6,0,0,0.3333333333333333,1,0
+gs-accessing-data-jpa,com.example.accessingdatajpa,CustomerRepository,0,0,2,0,4,2,0,0,-1.0,2,0
+gs-accessing-data-jpa,com.example.accessingdatajpa,CustomerRepositoryTests,2,0,1,1,10,1,0,0,0.0,0,2
+gs-accessing-data-jpa,com.example.accessingdatajpa,AccessingDataJpaApplication,0,0,1,1,5,1,0,0,-1.0,0,1
+gs-accessing-data-jpa,com.example.accessingdatajpa,AccessingDataJpaApplicationTests,0,0,1,0,4,1,0,0,-1.0,0,0

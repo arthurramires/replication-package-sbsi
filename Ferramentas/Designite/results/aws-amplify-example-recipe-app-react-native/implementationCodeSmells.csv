@@ -1,0 +1,2 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell
+aws-amplify-example-recipe-app-react-native,com.dlbamplify,MainApplication,initializeFlipper,Long Statement

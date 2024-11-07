@@ -1,0 +1,10 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+reactive-refarch-cloudformation,(default package),MavenWrapperDownloader,5,0,3,1,84,8,0,0,1.0,0,0
+reactive-refarch-cloudformation,com.amazon.exceptions,KinesisException,0,0,5,4,17,5,0,0,-1.0,0,0
+reactive-refarch-cloudformation,com.amazon.util,Constants,14,14,0,0,16,0,0,0,-1.0,3,0
+reactive-refarch-cloudformation,com.amazon.verticles,CacheVerticle,4,0,5,1,65,7,0,0,0.0,0,2
+reactive-refarch-cloudformation,com.amazon.verticles,HttpVerticle,3,0,8,2,101,14,0,0,0.375,0,2
+reactive-refarch-cloudformation,com.amazon.verticles,KinesisVerticle,4,0,5,2,87,10,0,0,0.4,0,1
+reactive-refarch-cloudformation,com.amazon.verticles,RedisVerticle,3,0,7,2,88,9,0,0,0.0,1,3
+reactive-refarch-cloudformation,com.amazon,VertxResource,2,0,2,2,17,2,0,0,1.0,1,1
+reactive-refarch-cloudformation,com.amazon.vo,TrackingMessage,8,0,21,21,82,23,0,0,0.09523809523809523,5,1

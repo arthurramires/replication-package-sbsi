@@ -1,0 +1,25 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell,source_file,MethodName,LOC,CC,PC,NOF,NOPF,NOM,NOPM,WMC,NC,DIT,LCOM,FANIN,FANOUT
+gs-accessing-data-mongodb,com.example.accessingdatamongodb,CustomerRepositoryTests,findsByExample,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-accessing-data-mongodb,com.example.accessingdatamongodb,AccessingDataMongodbApplication,,,methodMetrics.csv,main,3.0,1.0,1.0,,,,,,,,,,
+gs-accessing-data-mongodb,com.example.accessingdatamongodb,AccessingDataMongodbApplication,,,methodMetrics.csv,run,19.0,3.0,1.0,,,,,,,,,,
+gs-accessing-data-mongodb,com.example.accessingdatamongodb,Customer,,,methodMetrics.csv,Customer,2.0,1.0,0.0,,,,,,,,,,
+gs-accessing-data-mongodb,com.example.accessingdatamongodb,Customer,,,methodMetrics.csv,Customer,4.0,1.0,2.0,,,,,,,,,,
+gs-accessing-data-mongodb,com.example.accessingdatamongodb,Customer,,,methodMetrics.csv,toString,3.0,1.0,0.0,,,,,,,,,,
+gs-accessing-data-mongodb,com.example.accessingdatamongodb,CustomerRepository,,,methodMetrics.csv,findByFirstName,0.0,1.0,1.0,,,,,,,,,,
+gs-accessing-data-mongodb,com.example.accessingdatamongodb,CustomerRepository,,,methodMetrics.csv,findByLastName,0.0,1.0,1.0,,,,,,,,,,
+gs-accessing-data-mongodb,com.example.accessingdatamongodb,CustomerRepositoryTests,,,methodMetrics.csv,setUp,6.0,1.0,0.0,,,,,,,,,,
+gs-accessing-data-mongodb,com.example.accessingdatamongodb,CustomerRepositoryTests,,,methodMetrics.csv,setsIdOnSave,4.0,1.0,0.0,,,,,,,,,,
+gs-accessing-data-mongodb,com.example.accessingdatamongodb,CustomerRepositoryTests,,,methodMetrics.csv,findsByLastName,4.0,1.0,0.0,,,,,,,,,,
+gs-accessing-data-mongodb,com.example.accessingdatamongodb,CustomerRepositoryTests,,,methodMetrics.csv,findsByExample,5.0,1.0,0.0,,,,,,,,,,
+gs-accessing-data-mongodb,com.example.accessingdatamongodb,AccessingDataMongodbApplication,,,methodMetrics.csv,main,3.0,1.0,1.0,,,,,,,,,,
+gs-accessing-data-mongodb,com.example.accessingdatamongodb,AccessingDataMongodbApplicationTests,,,methodMetrics.csv,contextLoads,2.0,1.0,0.0,,,,,,,,,,
+gs-accessing-data-mongodb,com.example.accessingdatamongodb,AccessingDataMongodbApplication,,,typeMetrics.csv,,25.0,,,1.0,0.0,2.0,2.0,4.0,0.0,0.0,1.0,2.0,2.0
+gs-accessing-data-mongodb,com.example.accessingdatamongodb,Customer,,,typeMetrics.csv,,14.0,,,3.0,3.0,3.0,3.0,3.0,0.0,0.0,0.6666666666666666,1.0,0.0
+gs-accessing-data-mongodb,com.example.accessingdatamongodb,CustomerRepository,,,typeMetrics.csv,,4.0,,,0.0,0.0,2.0,2.0,2.0,0.0,0.0,-1.0,2.0,0.0
+gs-accessing-data-mongodb,com.example.accessingdatamongodb,CustomerRepositoryTests,,,typeMetrics.csv,,24.0,,,5.0,0.0,4.0,4.0,4.0,0.0,0.0,0.0,0.0,2.0
+gs-accessing-data-mongodb,com.example.accessingdatamongodb,AccessingDataMongodbApplication,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,1.0
+gs-accessing-data-mongodb,com.example.accessingdatamongodb,AccessingDataMongodbApplicationTests,,,typeMetrics.csv,,4.0,,,0.0,0.0,1.0,0.0,1.0,0.0,0.0,-1.0,0.0,0.0
+gs-accessing-data-mongodb,com.example.accessingdatamongodb,Customer,,Deficient Encapsulation,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-accessing-data-mongodb,com.example.accessingdatamongodb,CustomerRepositoryTests,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-accessing-data-mongodb,com.example.accessingdatamongodb,AccessingDataMongodbApplication,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-accessing-data-mongodb,com.example.accessingdatamongodb,AccessingDataMongodbApplicationTests,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,

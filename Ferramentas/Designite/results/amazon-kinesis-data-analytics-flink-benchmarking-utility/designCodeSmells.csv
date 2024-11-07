@@ -1,0 +1,5 @@
+Project Name,Package Name,Type Name,Code Smell
+amazon-kinesis-data-analytics-flink-benchmarking-utility,com.amazonaws.kda.flink.benchmarking.model,BenchmarkingSpecs,Insufficient Modularization
+amazon-kinesis-data-analytics-flink-benchmarking-utility,com.amazonaws.kda.flink.benchmarking.model,ChildJob,Unutilized Abstraction
+amazon-kinesis-data-analytics-flink-benchmarking-utility,com.amazonaws.kda.flink.benchmarking.model,Event,Insufficient Modularization
+amazon-kinesis-data-analytics-flink-benchmarking-utility,com.amazonaws.kda.benchmarking.util,GetSampleData,Unutilized Abstraction

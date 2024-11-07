@@ -1,0 +1,33 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell,source_file,MethodName,LOC,CC,PC,NOF,NOPF,NOM,NOPM,WMC,NC,DIT,LCOM,FANIN,FANOUT
+gs-spring-cloud-stream,com.example.stream.nameprocessor,NameProcessorApplicationTests,testUsageCostProcessor,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-spring-cloud-stream,com.example.stream.nameprocessor,NameProcessorApplicationTests,testUsageCostProcessor,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-spring-cloud-stream,com.example.stream.namesink,NameSinkApplicationTests,testNameSink,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-spring-cloud-stream,com.example.stream.namesource,NameSourceApplicationTests,testUsageDetailSender,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-spring-cloud-stream,com.example.stream.namesource,NameSourceApplicationTests,testUsageDetailSender,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-spring-cloud-stream,com.example.stream.nameprocessor,NameProcessorApplication,,,methodMetrics.csv,main,3.0,1.0,1.0,,,,,,,,,,
+gs-spring-cloud-stream,com.example.stream.nameprocessor,NameProcessorConfiguration,,,methodMetrics.csv,processName,3.0,1.0,0.0,,,,,,,,,,
+gs-spring-cloud-stream,com.example.stream.nameprocessor,NameProcessorApplicationTests,,,methodMetrics.csv,contextLoads,2.0,1.0,0.0,,,,,,,,,,
+gs-spring-cloud-stream,com.example.stream.nameprocessor,NameProcessorApplicationTests,,,methodMetrics.csv,testUsageCostProcessor,17.0,1.0,0.0,,,,,,,,,,
+gs-spring-cloud-stream,com.example.stream.namesink,NameSinkApplication,,,methodMetrics.csv,main,3.0,1.0,1.0,,,,,,,,,,
+gs-spring-cloud-stream,com.example.stream.namesink,NameSinkConfiguration,,,methodMetrics.csv,nameSink,7.0,1.0,0.0,,,,,,,,,,
+gs-spring-cloud-stream,com.example.stream.namesink,NameSinkApplicationTests,,,methodMetrics.csv,contextLoads,2.0,1.0,0.0,,,,,,,,,,
+gs-spring-cloud-stream,com.example.stream.namesink,NameSinkApplicationTests,,,methodMetrics.csv,testNameSink,14.0,1.0,1.0,,,,,,,,,,
+gs-spring-cloud-stream,com.example.stream.namesource,NameSourceApplication,,,methodMetrics.csv,main,3.0,1.0,1.0,,,,,,,,,,
+gs-spring-cloud-stream,com.example.stream.namesource,NameSourceConfiguration,,,methodMetrics.csv,supplyName,3.0,1.0,0.0,,,,,,,,,,
+gs-spring-cloud-stream,com.example.stream.namesource,NameSourceApplicationTests,,,methodMetrics.csv,contextLoads,2.0,1.0,0.0,,,,,,,,,,
+gs-spring-cloud-stream,com.example.stream.namesource,NameSourceApplicationTests,,,methodMetrics.csv,testUsageDetailSender,9.0,1.0,0.0,,,,,,,,,,
+gs-spring-cloud-stream,com.example.stream.nameprocessor,NameProcessorApplication,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,2.0,1.0
+gs-spring-cloud-stream,com.example.stream.nameprocessor,NameProcessorConfiguration,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,0.0
+gs-spring-cloud-stream,com.example.stream.nameprocessor,NameProcessorApplicationTests,,,typeMetrics.csv,,21.0,,,0.0,0.0,2.0,1.0,2.0,0.0,0.0,-1.0,0.0,1.0
+gs-spring-cloud-stream,com.example.stream.namesink,NameSinkApplication,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,2.0,1.0
+gs-spring-cloud-stream,com.example.stream.namesink,NameSinkConfiguration,,,typeMetrics.csv,,9.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,0.0
+gs-spring-cloud-stream,com.example.stream.namesink,NameSinkApplicationTests,,,typeMetrics.csv,,18.0,,,0.0,0.0,2.0,1.0,2.0,0.0,0.0,-1.0,0.0,1.0
+gs-spring-cloud-stream,com.example.stream.namesource,NameSourceApplication,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,2.0,1.0
+gs-spring-cloud-stream,com.example.stream.namesource,NameSourceConfiguration,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,0.0
+gs-spring-cloud-stream,com.example.stream.namesource,NameSourceApplicationTests,,,typeMetrics.csv,,13.0,,,0.0,0.0,2.0,1.0,2.0,0.0,0.0,-1.0,0.0,1.0
+gs-spring-cloud-stream,com.example.stream.nameprocessor,NameProcessorConfiguration,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-spring-cloud-stream,com.example.stream.nameprocessor,NameProcessorApplicationTests,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-spring-cloud-stream,com.example.stream.namesink,NameSinkConfiguration,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-spring-cloud-stream,com.example.stream.namesink,NameSinkApplicationTests,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-spring-cloud-stream,com.example.stream.namesource,NameSourceConfiguration,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-spring-cloud-stream,com.example.stream.namesource,NameSourceApplicationTests,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,

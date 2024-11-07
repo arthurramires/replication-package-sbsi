@@ -1,0 +1,22 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell,source_file,MethodName,LOC,CC,PC,NOF,NOPF,NOM,NOPM,WMC,NC,DIT,LCOM,FANIN,FANOUT
+gs-authenticating-ldap,com.example.authenticatingldap,WebSecurityConfig,securityFilterChain,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-authenticating-ldap,com.example.authenticatingldap,WebSecurityConfig,configure,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-authenticating-ldap,com.example.authenticatingldap,AuthenticatingLdapApplication,,,methodMetrics.csv,main,3.0,1.0,1.0,,,,,,,,,,
+gs-authenticating-ldap,com.example.authenticatingldap,HomeController,,,methodMetrics.csv,index,3.0,1.0,0.0,,,,,,,,,,
+gs-authenticating-ldap,com.example.authenticatingldap,WebSecurityConfig,,,methodMetrics.csv,securityFilterChain,4.0,1.0,1.0,,,,,,,,,,
+gs-authenticating-ldap,com.example.authenticatingldap,WebSecurityConfig,,,methodMetrics.csv,configure,3.0,1.0,1.0,,,,,,,,,,
+gs-authenticating-ldap,com.example.authenticatingldap,AuthenticatingLdapApplicationTests,,,methodMetrics.csv,loginWithValidUserThenAuthenticated,4.0,1.0,0.0,,,,,,,,,,
+gs-authenticating-ldap,com.example.authenticatingldap,AuthenticatingLdapApplicationTests,,,methodMetrics.csv,loginWithInvalidUserThenUnauthenticated,4.0,1.0,0.0,,,,,,,,,,
+gs-authenticating-ldap,com.example.authenticatingldap,AuthenticatingLdapApplication,,,methodMetrics.csv,main,3.0,1.0,1.0,,,,,,,,,,
+gs-authenticating-ldap,com.example.authenticatingldap,HomeController,,,methodMetrics.csv,index,3.0,1.0,0.0,,,,,,,,,,
+gs-authenticating-ldap,com.example.authenticatingldap,AuthenticatingLdapApplication,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,2.0,1.0
+gs-authenticating-ldap,com.example.authenticatingldap,HomeController,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,0.0
+gs-authenticating-ldap,com.example.authenticatingldap,WebSecurityConfig,,,typeMetrics.csv,,9.0,,,0.0,0.0,2.0,2.0,2.0,0.0,0.0,-1.0,0.0,0.0
+gs-authenticating-ldap,com.example.authenticatingldap,AuthenticatingLdapApplicationTests,,,typeMetrics.csv,,14.0,,,1.0,0.0,2.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0
+gs-authenticating-ldap,com.example.authenticatingldap,AuthenticatingLdapApplication,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,1.0
+gs-authenticating-ldap,com.example.authenticatingldap,HomeController,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,0.0
+gs-authenticating-ldap,com.example.authenticatingldap,HomeController,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-authenticating-ldap,com.example.authenticatingldap,WebSecurityConfig,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-authenticating-ldap,com.example.authenticatingldap,AuthenticatingLdapApplicationTests,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-authenticating-ldap,com.example.authenticatingldap,AuthenticatingLdapApplication,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-authenticating-ldap,com.example.authenticatingldap,HomeController,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,

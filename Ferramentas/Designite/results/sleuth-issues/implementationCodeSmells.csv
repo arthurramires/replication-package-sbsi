@@ -1,0 +1,64 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell
+sleuth-issues,com.bracso.test.sleuth.webclient,Employee,firstEmployee,Magic Number
+sleuth-issues,com.bracso.test.sleuth.webclient,Employee,secondEmployee,Magic Number
+sleuth-issues,com.bracso.test.sleuth.webclient,Employee,thirdEmployee,Magic Number
+sleuth-issues,com.bracso.test.sleuth.webclient,Employee,newEmployee,Magic Number
+sleuth-issues,com.bracso.test.sleuth.webclient,Employee,hashCode,Magic Number
+sleuth-issues,com.bracso.test.sleuth.webclient,Employee,hashCode,Magic Number
+sleuth-issues,com.bracso.test.sleuth.webclient,SleuthTest,testWebClient,Long Statement
+sleuth-issues,(default package),MavenWrapperDownloader,main,Empty catch clause
+sleuth-issues,(default package),MavenWrapperDownloader,main,Long Identifier
+sleuth-issues,(default package),MavenWrapperDownloader,main,Empty catch clause
+sleuth-issues,(default package),MavenWrapperDownloader,main,Long Identifier
+sleuth-issues,(default package),MavenWrapperDownloader,main,Empty catch clause
+sleuth-issues,(default package),MavenWrapperDownloader,main,Long Identifier
+sleuth-issues,(default package),MavenWrapperDownloader,main,Empty catch clause
+sleuth-issues,(default package),MavenWrapperDownloader,main,Long Identifier
+sleuth-issues,(default package),MavenWrapperDownloader,main,Empty catch clause
+sleuth-issues,(default package),MavenWrapperDownloader,main,Long Identifier
+sleuth-issues,com.example.demo,DemoApplicationTests,thenAllPostWebClientSpansAreEqualToFirstSpanInTheController,Long Statement
+sleuth-issues,com.example.demo,DemoApplicationTests,thenAllWebClientSpansHaveSameParentId,Long Statement
+sleuth-issues,com.example.demo,DemoApplicationTests,service,Magic Number
+sleuth-issues,com.example.demo,DemoApplicationTests,service,Long Statement
+sleuth-issues,com.example.demo,Issue1990ApplicationTests,contextLoads,Long Statement
+sleuth-issues,com.example.demo,IssueIT,should_propagate_trace_id,Long Statement
+sleuth-issues,com.example.demo,IssueIT,traceIdFromString,Long Statement
+sleuth-issues,com.thagul.testcbr4j.controller,MainController,test,Magic Number
+sleuth-issues,com.example.w3c,Issue1900Application,invoke,Long Statement
+sleuth-issues,com.example.w3c,Issue1900Application,invokeRemote,Long Statement
+sleuth-issues,com.example.w3c,DefaultService,invoke,Long Statement
+sleuth-issues,com.example.w3c,DefaultService,invokeRemote,Long Statement
+sleuth-issues,com.example.w3c,Issue1900ApplicationTests,contextLoads,Magic Number
+sleuth-issues,com.example.w3c,Issue1900ApplicationTests,spanAndTraceMatched,Magic Number
+sleuth-issues,com.example.w3c,WebController,preference,Long Statement
+sleuth-issues,com.example.w3c.test,Issue2001ApplicationIT,shouldReadW3cTraceStateAndBaggage,Long Statement
+sleuth-issues,com.example.w3c.test,Issue2001ApplicationIT,shouldReadW3cTraceStateAndBaggage,Long Statement
+sleuth-issues,com.example.w3c.test,Issue2001ApplicationIT,testWebController,Magic Number
+sleuth-issues,com.example.w3c.test,Config,testWebController,Magic Number
+sleuth-issues,com.github.jntakpe.sleuthkafka,SleuthKafkaApplication,reactor,Long Statement
+sleuth-issues,com.github.jntakpe.sleuthkafka,SleuthKafkaApplication,reactor,Long Statement
+sleuth-issues,com.github.jntakpe.sleuthkafka,SleuthKafkaApplication,reactor,Magic Number
+sleuth-issues,com.github.jntakpe.sleuthkafka,SleuthKafkaApplication,template,Long Statement
+sleuth-issues,com.github.jntakpe.sleuthkafka,SleuthKafkaApplication,template,Magic Number
+sleuth-issues,com.github.jntakpe.sleuthkafka,KafkaResource,reactor,Long Statement
+sleuth-issues,com.github.jntakpe.sleuthkafka,KafkaResource,reactor,Long Statement
+sleuth-issues,com.github.jntakpe.sleuthkafka,KafkaResource,reactor,Magic Number
+sleuth-issues,com.github.jntakpe.sleuthkafka,KafkaResource,template,Long Statement
+sleuth-issues,com.github.jntakpe.sleuthkafka,KafkaResource,template,Magic Number
+sleuth-issues,com.github.jntakpe.sleuthkafka,IssueIT,should_propagate_trace_id,Long Statement
+sleuth-issues,com.github.goober.sleuthbug,BriefUserResponse,hashCode,Magic Number
+sleuth-issues,com.github.goober.sleuthbug,BriefUserResponse,hashCode,Magic Number
+sleuth-issues,com.github.goober.sleuthbug,SleuthBugApplication,getUsers,Long Statement
+sleuth-issues,com.github.goober.sleuthbug,User,hashCode,Magic Number
+sleuth-issues,com.github.goober.sleuthbug,User,hashCode,Magic Number
+sleuth-issues,com.github.goober.sleuthbug,UserDetails,hashCode,Magic Number
+sleuth-issues,com.github.goober.sleuthbug,UserDetails,hashCode,Magic Number
+sleuth-issues,com.github.goober.sleuthbug,UserDetails,hashCode,Magic Number
+sleuth-issues,com.github.goober.sleuthbug,UserResponse,hashCode,Magic Number
+sleuth-issues,com.github.goober.sleuthbug,UserResponse,hashCode,Magic Number
+sleuth-issues,com.github.goober.sleuthbug,UserResponse,build,Missing default
+sleuth-issues,com.github.goober.sleuthbug,UserResponseBuilder,build,Missing default
+sleuth-issues,com.github.goober.sleuthbug,UserService,findUsers,Long Statement
+sleuth-issues,com.github.goober.sleuthbug,IssueIT,should_propagate_trace_id,Long Statement
+sleuth-issues,com.github.goober.sleuthbug,IssueIT,should_propagate_trace_id,Long Statement
+sleuth-issues,com.github.goober.sleuthbug,IssueIT,should_propagate_trace_id,Magic Number

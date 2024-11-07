@@ -1,0 +1,17 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell,source_file,MethodName,LOC,CC,PC,NOF,NOPF,NOM,NOPM,WMC,NC,DIT,LCOM,FANIN,FANOUT
+gs-consuming-web-service,com.example.consumingwebservice,CountryClient,getCountry,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-consuming-web-service,com.example.consumingwebservice,ConsumingWebServiceApplication,,,methodMetrics.csv,main,3.0,1.0,1.0,,,,,,,,,,
+gs-consuming-web-service,com.example.consumingwebservice,ConsumingWebServiceApplication,,,methodMetrics.csv,lookup,11.0,2.0,1.0,,,,,,,,,,
+gs-consuming-web-service,com.example.consumingwebservice,CountryClient,,,methodMetrics.csv,getCountry,7.0,1.0,1.0,,,,,,,,,,
+gs-consuming-web-service,com.example.consumingwebservice,CountryConfiguration,,,methodMetrics.csv,marshaller,5.0,1.0,0.0,,,,,,,,,,
+gs-consuming-web-service,com.example.consumingwebservice,CountryConfiguration,,,methodMetrics.csv,countryClient,7.0,1.0,1.0,,,,,,,,,,
+gs-consuming-web-service,com.example.consumingwebservice,ConsumingWebServiceApplication,,,methodMetrics.csv,main,3.0,1.0,1.0,,,,,,,,,,
+gs-consuming-web-service,com.example.consumingwebservice,ConsumingWebServiceApplicationTests,,,methodMetrics.csv,contextLoads,2.0,1.0,0.0,,,,,,,,,,
+gs-consuming-web-service,com.example.consumingwebservice,ConsumingWebServiceApplication,,,typeMetrics.csv,,16.0,,,0.0,0.0,2.0,1.0,3.0,0.0,0.0,-1.0,2.0,2.0
+gs-consuming-web-service,com.example.consumingwebservice,CountryClient,,,typeMetrics.csv,,10.0,,,1.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0
+gs-consuming-web-service,com.example.consumingwebservice,CountryConfiguration,,,typeMetrics.csv,,14.0,,,0.0,0.0,2.0,2.0,2.0,0.0,0.0,-1.0,0.0,1.0
+gs-consuming-web-service,com.example.consumingwebservice,ConsumingWebServiceApplication,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,1.0
+gs-consuming-web-service,com.example.consumingwebservice,ConsumingWebServiceApplicationTests,,,typeMetrics.csv,,4.0,,,0.0,0.0,1.0,0.0,1.0,0.0,0.0,-1.0,0.0,0.0
+gs-consuming-web-service,com.example.consumingwebservice,CountryConfiguration,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-consuming-web-service,com.example.consumingwebservice,ConsumingWebServiceApplication,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-consuming-web-service,com.example.consumingwebservice,ConsumingWebServiceApplicationTests,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,

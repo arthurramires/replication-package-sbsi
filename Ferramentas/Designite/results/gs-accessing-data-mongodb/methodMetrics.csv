@@ -1,0 +1,14 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC
+gs-accessing-data-mongodb,com.example.accessingdatamongodb,AccessingDataMongodbApplication,main,3,1,1
+gs-accessing-data-mongodb,com.example.accessingdatamongodb,AccessingDataMongodbApplication,run,19,3,1
+gs-accessing-data-mongodb,com.example.accessingdatamongodb,Customer,Customer,2,1,0
+gs-accessing-data-mongodb,com.example.accessingdatamongodb,Customer,Customer,4,1,2
+gs-accessing-data-mongodb,com.example.accessingdatamongodb,Customer,toString,3,1,0
+gs-accessing-data-mongodb,com.example.accessingdatamongodb,CustomerRepository,findByFirstName,0,1,1
+gs-accessing-data-mongodb,com.example.accessingdatamongodb,CustomerRepository,findByLastName,0,1,1
+gs-accessing-data-mongodb,com.example.accessingdatamongodb,CustomerRepositoryTests,setUp,6,1,0
+gs-accessing-data-mongodb,com.example.accessingdatamongodb,CustomerRepositoryTests,setsIdOnSave,4,1,0
+gs-accessing-data-mongodb,com.example.accessingdatamongodb,CustomerRepositoryTests,findsByLastName,4,1,0
+gs-accessing-data-mongodb,com.example.accessingdatamongodb,CustomerRepositoryTests,findsByExample,5,1,0
+gs-accessing-data-mongodb,com.example.accessingdatamongodb,AccessingDataMongodbApplication,main,3,1,1
+gs-accessing-data-mongodb,com.example.accessingdatamongodb,AccessingDataMongodbApplicationTests,contextLoads,2,1,0

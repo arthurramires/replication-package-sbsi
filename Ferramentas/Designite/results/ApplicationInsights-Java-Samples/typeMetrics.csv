@@ -1,0 +1,39 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+ApplicationInsights-Java-Samples,com.example,ManualTracePropagation,0,0,2,1,16,2,0,0,-1.0,1,2
+ApplicationInsights-Java-Samples,com.example,RequestProcessor,1,0,5,1,41,7,0,0,0.0,2,1
+ApplicationInsights-Java-Samples,com.example,ExampleApplication,0,0,1,1,5,1,0,0,-1.0,6,1
+ApplicationInsights-Java-Samples,com.example,ExampleController,0,0,1,1,5,1,0,0,-1.0,0,0
+ApplicationInsights-Java-Samples,com.example,ExampleWebTelemetryModule,0,0,3,3,10,3,0,0,-1.0,0,0
+ApplicationInsights-Java-Samples,com.example,ExampleApplication,0,0,1,1,5,1,0,0,-1.0,0,1
+ApplicationInsights-Java-Samples,com.example,ExampleController,0,0,1,1,5,1,0,0,-1.0,0,0
+ApplicationInsights-Java-Samples,com.example,ExampleWebTelemetryModule,0,0,1,1,7,1,0,0,-1.0,0,0
+ApplicationInsights-Java-Samples,com.example,ExampleApplication,0,0,1,1,5,1,0,0,-1.0,0,1
+ApplicationInsights-Java-Samples,com.example,ExampleController,0,0,1,1,5,1,0,0,-1.0,0,0
+ApplicationInsights-Java-Samples,com.example,ExampleApplication,0,0,1,1,5,1,0,0,-1.0,0,1
+ApplicationInsights-Java-Samples,com.example,ExampleController,0,0,1,1,5,1,0,0,-1.0,0,0
+ApplicationInsights-Java-Samples,com.example,ExampleApplication,0,0,1,1,5,1,0,0,-1.0,0,1
+ApplicationInsights-Java-Samples,com.example,ExampleController,0,0,1,1,5,1,0,0,-1.0,0,0
+ApplicationInsights-Java-Samples,com.example,ExampleApplication,0,0,1,1,5,1,0,0,-1.0,0,1
+ApplicationInsights-Java-Samples,com.example,ExampleController,0,0,1,1,5,1,0,0,-1.0,0,0
+ApplicationInsights-Java-Samples,com.example,AdvancedException,1,0,2,2,12,2,0,0,1.0,0,0
+ApplicationInsights-Java-Samples,com.example,TrackAdvancedException,2,0,3,1,24,3,0,0,0.0,1,1
+ApplicationInsights-Java-Samples,com.example,TrackDependency,3,0,3,1,27,3,0,0,0.6666666666666666,1,1
+ApplicationInsights-Java-Samples,com.example,TrackException,4,0,4,1,33,4,0,0,0.5,1,1
+ApplicationInsights-Java-Samples,com.example,TrackLog4j2,3,0,5,1,54,6,0,0,0.0,2,1
+ApplicationInsights-Java-Samples,com.example,TrackLogback,2,0,4,1,40,5,0,0,0.0,1,1
+ApplicationInsights-Java-Samples,com.example,TrackLog4j2,2,0,4,1,40,5,0,0,1.0,0,1
+ApplicationInsights-Java-Samples,com.example,Main,0,0,1,1,14,1,0,0,-1.0,0,0
+ApplicationInsights-Java-Samples,com.example,DemoAutoConfigurationCustomizerProvider,0,0,1,1,12,1,0,0,-1.0,0,0
+ApplicationInsights-Java-Samples,com.example,DemoSpanData,1,0,2,2,10,2,0,0,0.0,0,0
+ApplicationInsights-Java-Samples,com.example,DemoSpanExporter,3,1,4,4,33,8,0,0,0.75,0,0
+ApplicationInsights-Java-Samples,com.example,DurationAutoConfigurationCustomizerProvider,0,0,1,1,12,1,0,0,-1.0,0,0
+ApplicationInsights-Java-Samples,com.example,DurationSpanExporter,1,1,5,4,25,7,0,0,0.6,1,1
+ApplicationInsights-Java-Samples,com.example,DemoApplication,0,0,1,1,5,1,0,0,-1.0,1,1
+ApplicationInsights-Java-Samples,com.example,DemoController,0,0,3,3,16,3,0,0,-1.0,0,0
+ApplicationInsights-Java-Samples,com.example,Application,1,0,1,1,16,1,0,0,0.0,0,0
+ApplicationInsights-Java-Samples,com.example,TrackCustomException,0,0,2,1,14,2,0,0,-1.0,1,1
+ApplicationInsights-Java-Samples,com.example,Main,0,0,1,1,13,1,0,0,-1.0,0,2
+ApplicationInsights-Java-Samples,com.example,MyLogger1,1,0,1,1,11,1,0,0,0.0,1,0
+ApplicationInsights-Java-Samples,com.example,MyLogger2,1,0,1,1,11,1,0,0,0.0,1,0
+ApplicationInsights-Java-Samples,(default package),Micrometer,2,0,3,1,18,3,0,0,1.0,0,0
+ApplicationInsights-Java-Samples,(default package),TrackMetric,3,0,4,2,28,4,0,0,0.75,0,0

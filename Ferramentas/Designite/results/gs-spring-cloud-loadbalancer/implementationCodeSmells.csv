@@ -1,0 +1,16 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell
+gs-spring-cloud-loadbalancer,(default package),MavenWrapperDownloader,main,Empty catch clause
+gs-spring-cloud-loadbalancer,(default package),MavenWrapperDownloader,main,Long Identifier
+gs-spring-cloud-loadbalancer,(default package),MavenWrapperDownloader,main,Empty catch clause
+gs-spring-cloud-loadbalancer,(default package),MavenWrapperDownloader,main,Long Identifier
+gs-spring-cloud-loadbalancer,hello,SayHelloApplicationTests,shouldReturn200WhenSendingRequestToRoot,Long Statement
+gs-spring-cloud-loadbalancer,hello,SayHelloApplicationTests,shouldReturn200WhenSendingRequestToGreeting,Long Statement
+gs-spring-cloud-loadbalancer,hello,DemoServiceInstanceListSuppler,get,Long Statement
+gs-spring-cloud-loadbalancer,hello,DemoServiceInstanceListSuppler,get,Magic Number
+gs-spring-cloud-loadbalancer,hello,DemoServiceInstanceListSuppler,get,Magic Number
+gs-spring-cloud-loadbalancer,hello,DemoServiceInstanceListSuppler,get,Magic Number
+gs-spring-cloud-loadbalancer,hello,UserApplication,hi,Long Statement
+gs-spring-cloud-loadbalancer,hello,UserApplication,hello,Long Statement
+gs-spring-cloud-loadbalancer,hello,UserApplicationTests,startApps,Magic Number
+gs-spring-cloud-loadbalancer,hello,UserApplicationTests,startApps,Magic Number
+gs-spring-cloud-loadbalancer,hello,UserApplicationTests,startApps,Magic Number

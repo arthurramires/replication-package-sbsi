@@ -1,0 +1,56 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC
+gs-contract-rest,(default package),MavenWrapperDownloader,main,46,5,1
+gs-contract-rest,(default package),MavenWrapperDownloader,downloadFileFromURL,9,1,2
+gs-contract-rest,(default package),MavenWrapperDownloader,main,46,5,1
+gs-contract-rest,(default package),MavenWrapperDownloader,downloadFileFromURL,9,1,2
+gs-contract-rest,(default package),MavenWrapperDownloader,main,46,5,1
+gs-contract-rest,(default package),MavenWrapperDownloader,downloadFileFromURL,9,1,2
+gs-contract-rest,hello,ContractRestClientApplication,main,3,1,1
+gs-contract-rest,hello,MessageRestController,MessageRestController,3,1,1
+gs-contract-rest,hello,MessageRestController,getMessage,4,1,1
+gs-contract-rest,hello,Person,Person,2,1,0
+gs-contract-rest,hello,Person,Person,5,1,3
+gs-contract-rest,hello,Person,getId,3,1,0
+gs-contract-rest,hello,Person,setId,3,1,1
+gs-contract-rest,hello,Person,getName,3,1,0
+gs-contract-rest,hello,Person,setName,3,1,1
+gs-contract-rest,hello,Person,getSurname,3,1,0
+gs-contract-rest,hello,Person,setSurname,3,1,1
+gs-contract-rest,hello,ContractRestClientApplicationTest,get_person_from_service_contract,8,1,0
+gs-contract-rest,hello,ContractRestServiceApplication,main,3,1,1
+gs-contract-rest,hello,Person,Person,5,1,3
+gs-contract-rest,hello,Person,getId,3,1,0
+gs-contract-rest,hello,Person,setId,3,1,1
+gs-contract-rest,hello,Person,getName,3,1,0
+gs-contract-rest,hello,Person,setName,3,1,1
+gs-contract-rest,hello,Person,getSurname,3,1,0
+gs-contract-rest,hello,Person,setSurname,3,1,1
+gs-contract-rest,hello,PersonRestController,PersonRestController,3,1,1
+gs-contract-rest,hello,PersonRestController,findPersonById,3,1,1
+gs-contract-rest,hello,PersonService,PersonService,6,1,0
+gs-contract-rest,hello,PersonService,findPersonById,3,1,1
+gs-contract-rest,hello,BaseClass,setup,4,1,0
+gs-contract-rest,hello,ContractRestClientApplication,main,3,1,1
+gs-contract-rest,hello,MessageRestController,MessageRestController,3,1,1
+gs-contract-rest,hello,MessageRestController,getMessage,4,1,1
+gs-contract-rest,hello,Person,Person,2,1,0
+gs-contract-rest,hello,Person,Person,5,1,3
+gs-contract-rest,hello,Person,getId,3,1,0
+gs-contract-rest,hello,Person,setId,3,1,1
+gs-contract-rest,hello,Person,getName,3,1,0
+gs-contract-rest,hello,Person,setName,3,1,1
+gs-contract-rest,hello,Person,getSurname,3,1,0
+gs-contract-rest,hello,Person,setSurname,3,1,1
+gs-contract-rest,hello,ContractRestClientApplicationTest,get_person_from_service_contract,8,1,0
+gs-contract-rest,hello,ContractRestServiceApplication,main,3,1,1
+gs-contract-rest,hello,Person,Person,5,1,3
+gs-contract-rest,hello,Person,getId,3,1,0
+gs-contract-rest,hello,Person,setId,3,1,1
+gs-contract-rest,hello,Person,getName,3,1,0
+gs-contract-rest,hello,Person,setName,3,1,1
+gs-contract-rest,hello,Person,getSurname,3,1,0
+gs-contract-rest,hello,Person,setSurname,3,1,1
+gs-contract-rest,hello,PersonRestController,PersonRestController,3,1,1
+gs-contract-rest,hello,PersonRestController,findPersonById,3,1,1
+gs-contract-rest,hello,PersonService,PersonService,6,1,0
+gs-contract-rest,hello,PersonService,findPersonById,3,1,1

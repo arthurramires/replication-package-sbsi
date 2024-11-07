@@ -1,0 +1,33 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell,source_file,MethodName,LOC,CC,PC,NOF,NOPF,NOM,NOPM,WMC,NC,DIT,LCOM,FANIN,FANOUT
+MipSDK-File-Java-Basic,com.microsoft.mipsdksample,Action,CreateFileHandler,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+MipSDK-File-Java-Basic,com.microsoft.mipsdksample,AuthDelegateImpl,acquireTokenInteractive,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+MipSDK-File-Java-Basic,com.microsoft.mipsdksample,AuthDelegateImpl,acquireTokenInteractive,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+MipSDK-File-Java-Basic,com.microsoft.mipsdksample,Action,,,methodMetrics.csv,Action,9.0,1.0,2.0,,,,,,,,,,
+MipSDK-File-Java-Basic,com.microsoft.mipsdksample,Action,,,methodMetrics.csv,CreateFileProfile,7.0,1.0,0.0,,,,,,,,,,
+MipSDK-File-Java-Basic,com.microsoft.mipsdksample,Action,,,methodMetrics.csv,CreateFileEngine,7.0,1.0,1.0,,,,,,,,,,
+MipSDK-File-Java-Basic,com.microsoft.mipsdksample,Action,,,methodMetrics.csv,CreateFileHandler,5.0,1.0,2.0,,,,,,,,,,
+MipSDK-File-Java-Basic,com.microsoft.mipsdksample,Action,,,methodMetrics.csv,ListLabels,13.0,2.0,0.0,,,,,,,,,,
+MipSDK-File-Java-Basic,com.microsoft.mipsdksample,Action,,,methodMetrics.csv,SetLabel,12.0,2.0,1.0,,,,,,,,,,
+MipSDK-File-Java-Basic,com.microsoft.mipsdksample,Action,,,methodMetrics.csv,GetLabel,4.0,1.0,1.0,,,,,,,,,,
+MipSDK-File-Java-Basic,com.microsoft.mipsdksample,Action,,,methodMetrics.csv,GetProtection,4.0,1.0,1.0,,,,,,,,,,
+MipSDK-File-Java-Basic,com.microsoft.mipsdksample,App,,,methodMetrics.csv,main,37.0,2.0,1.0,,,,,,,,,,
+MipSDK-File-Java-Basic,com.microsoft.mipsdksample,AuthDelegateImpl,,,methodMetrics.csv,AuthDelegateImpl,3.0,1.0,1.0,,,,,,,,,,
+MipSDK-File-Java-Basic,com.microsoft.mipsdksample,AuthDelegateImpl,,,methodMetrics.csv,acquireToken,17.0,2.0,4.0,,,,,,,,,,
+MipSDK-File-Java-Basic,com.microsoft.mipsdksample,AuthDelegateImpl,,,methodMetrics.csv,acquireTokenInteractive,21.0,2.0,0.0,,,,,,,,,,
+MipSDK-File-Java-Basic,com.microsoft.mipsdksample,ConsentDelegate,,,methodMetrics.csv,getUserConsent,3.0,1.0,1.0,,,,,,,,,,
+MipSDK-File-Java-Basic,com.microsoft.mipsdksample,TokenCacheAspect,,,methodMetrics.csv,TokenCacheAspect,3.0,1.0,1.0,,,,,,,,,,
+MipSDK-File-Java-Basic,com.microsoft.mipsdksample,TokenCacheAspect,,,methodMetrics.csv,beforeCacheAccess,3.0,1.0,1.0,,,,,,,,,,
+MipSDK-File-Java-Basic,com.microsoft.mipsdksample,TokenCacheAspect,,,methodMetrics.csv,afterCacheAccess,3.0,1.0,1.0,,,,,,,,,,
+MipSDK-File-Java-Basic,com.microsoft.mipsdksample,TokenCacheAspect,,,methodMetrics.csv,readDataFromFile,10.0,1.0,1.0,,,,,,,,,,
+MipSDK-File-Java-Basic,com.microsoft.mipsdksample,AppTest,,,methodMetrics.csv,shouldAnswerWithTrue,3.0,1.0,0.0,,,,,,,,,,
+MipSDK-File-Java-Basic,com.microsoft.mipsdksample,Action,,,typeMetrics.csv,,68.0,,,5.0,0.0,8.0,5.0,10.0,0.0,0.0,0.0,1.0,3.0
+MipSDK-File-Java-Basic,com.microsoft.mipsdksample,App,,,typeMetrics.csv,,39.0,,,0.0,0.0,1.0,1.0,2.0,0.0,0.0,-1.0,0.0,2.0
+MipSDK-File-Java-Basic,com.microsoft.mipsdksample,AuthDelegateImpl,,,typeMetrics.csv,,46.0,,,3.0,0.0,3.0,2.0,5.0,0.0,0.0,0.0,2.0,2.0
+MipSDK-File-Java-Basic,com.microsoft.mipsdksample,ConsentDelegate,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,1.0,0.0
+MipSDK-File-Java-Basic,com.microsoft.mipsdksample,FileOptions,,,typeMetrics.csv,,9.0,,,7.0,7.0,0.0,0.0,0.0,0.0,0.0,-1.0,2.0,0.0
+MipSDK-File-Java-Basic,com.microsoft.mipsdksample,TokenCacheAspect,,,typeMetrics.csv,,22.0,,,1.0,0.0,4.0,3.0,4.0,0.0,0.0,0.0,2.0,1.0
+MipSDK-File-Java-Basic,com.microsoft.mipsdksample,AppTest,,,typeMetrics.csv,,11.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,0.0
+MipSDK-File-Java-Basic,com.microsoft.mipsdksample,App,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+MipSDK-File-Java-Basic,com.microsoft.mipsdksample,FileOptions,,Deficient Encapsulation,designCodeSmells.csv,,,,,,,,,,,,,,
+MipSDK-File-Java-Basic,com.microsoft.mipsdksample,FileOptions,,Broken Modularization,designCodeSmells.csv,,,,,,,,,,,,,,
+MipSDK-File-Java-Basic,com.microsoft.mipsdksample,AppTest,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,

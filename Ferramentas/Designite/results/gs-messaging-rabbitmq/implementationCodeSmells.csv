@@ -1,0 +1,4 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell
+gs-messaging-rabbitmq,com.example.messagingrabbitmq,Runner,run,Magic Number
+gs-messaging-rabbitmq,com.example.messagingrabbitmq,MessagingRabbitmqApplicationTest,test,Empty catch clause
+gs-messaging-rabbitmq,com.example.messagingrabbitmq,MessagingRabbitmqApplicationTest,test,Magic Number

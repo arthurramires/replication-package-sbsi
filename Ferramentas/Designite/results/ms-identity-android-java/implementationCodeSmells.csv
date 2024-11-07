@@ -1,0 +1,52 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell
+ms-identity-android-java,com.azuresamples.msalandroidapp,B2CModeFragment,onCreateView,Long Statement
+ms-identity-android-java,com.azuresamples.msalandroidapp,B2CModeFragment,initializeUI,Long Statement
+ms-identity-android-java,com.azuresamples.msalandroidapp,B2CModeFragment,initializeUI,Long Statement
+ms-identity-android-java,com.azuresamples.msalandroidapp,B2CModeFragment,initializeUI,Long Statement
+ms-identity-android-java,com.azuresamples.msalandroidapp,B2CModeFragment,onClick,Long Statement
+ms-identity-android-java,com.azuresamples.msalandroidapp,B2CModeFragment,onClick,Long Statement
+ms-identity-android-java,com.azuresamples.msalandroidapp,B2CModeFragment,getAuthInteractiveCallback,Long Statement
+ms-identity-android-java,com.azuresamples.msalandroidapp,B2CModeFragment,onError,Long Statement
+ms-identity-android-java,com.azuresamples.msalandroidapp,B2CModeFragment,displayResult,Long Statement
+ms-identity-android-java,com.azuresamples.msalandroidapp,B2CModeFragment,updateUI,Long Statement
+ms-identity-android-java,com.azuresamples.msalandroidapp,B2CUser,acquireTokenSilentAsync,Long Identifier
+ms-identity-android-java,com.azuresamples.msalandroidapp,B2CUser,acquireTokenSilentAsync,Long Statement
+ms-identity-android-java,com.azuresamples.msalandroidapp,B2CUser,acquireTokenSilentAsync,Long Statement
+ms-identity-android-java,com.azuresamples.msalandroidapp,B2CUser,signOutAsync,Empty catch clause
+ms-identity-android-java,com.azuresamples.msalandroidapp,B2CUser,signOutAsync,Long Identifier
+ms-identity-android-java,com.azuresamples.msalandroidapp,B2CUser,run,Empty catch clause
+ms-identity-android-java,com.azuresamples.msalandroidapp,CIAMModeFragment,onCreateView,Long Identifier
+ms-identity-android-java,com.azuresamples.msalandroidapp,CIAMModeFragment,onCreateView,Long Statement
+ms-identity-android-java,com.azuresamples.msalandroidapp,CIAMModeFragment,onError,Long Identifier
+ms-identity-android-java,com.azuresamples.msalandroidapp,CIAMModeFragment,initializeUI,Long Identifier
+ms-identity-android-java,com.azuresamples.msalandroidapp,CIAMModeFragment,initializeUI,Long Statement
+ms-identity-android-java,com.azuresamples.msalandroidapp,CIAMModeFragment,initializeUI,Long Statement
+ms-identity-android-java,com.azuresamples.msalandroidapp,CIAMModeFragment,initializeUI,Long Statement
+ms-identity-android-java,com.azuresamples.msalandroidapp,CIAMModeFragment,onClick,Long Statement
+ms-identity-android-java,com.azuresamples.msalandroidapp,CIAMModeFragment,onClick,Long Statement
+ms-identity-android-java,com.azuresamples.msalandroidapp,CIAMModeFragment,onClick,Long Statement
+ms-identity-android-java,com.azuresamples.msalandroidapp,CIAMModeFragment,updateUI,Long Identifier
+ms-identity-android-java,com.azuresamples.msalandroidapp,CIAMModeFragment,updateUI,Long Statement
+ms-identity-android-java,com.azuresamples.msalandroidapp,MainActivity,onCreate,Long Statement
+ms-identity-android-java,com.azuresamples.msalandroidapp,MainActivity,attachFragment,Long Statement
+ms-identity-android-java,com.azuresamples.msalandroidapp,MSGraphRequestWrapper,callGraphAPIUsingVolley,Long Parameter List
+ms-identity-android-java,com.azuresamples.msalandroidapp,MSGraphRequestWrapper,callGraphAPIUsingVolley,Long Statement
+ms-identity-android-java,com.azuresamples.msalandroidapp,MSGraphRequestWrapper,callGraphAPIUsingVolley,Long Statement
+ms-identity-android-java,com.azuresamples.msalandroidapp,MSGraphRequestWrapper,callGraphAPIUsingVolley,Magic Number
+ms-identity-android-java,com.azuresamples.msalandroidapp,MultipleAccountModeFragment,onCreateView,Long Statement
+ms-identity-android-java,com.azuresamples.msalandroidapp,MultipleAccountModeFragment,initializeUI,Long Statement
+ms-identity-android-java,com.azuresamples.msalandroidapp,MultipleAccountModeFragment,initializeUI,Long Statement
+ms-identity-android-java,com.azuresamples.msalandroidapp,MultipleAccountModeFragment,initializeUI,Long Statement
+ms-identity-android-java,com.azuresamples.msalandroidapp,MultipleAccountModeFragment,onClick,Long Statement
+ms-identity-android-java,com.azuresamples.msalandroidapp,MultipleAccountModeFragment,onClick,Long Statement
+ms-identity-android-java,com.azuresamples.msalandroidapp,MultipleAccountModeFragment,onClick,Long Statement
+ms-identity-android-java,com.azuresamples.msalandroidapp,MultipleAccountModeFragment,callGraphAPI,Long Statement
+ms-identity-android-java,com.azuresamples.msalandroidapp,MultipleAccountModeFragment,updateUI,Long Statement
+ms-identity-android-java,com.azuresamples.msalandroidapp,SingleAccountModeFragment,onCreateView,Long Statement
+ms-identity-android-java,com.azuresamples.msalandroidapp,SingleAccountModeFragment,initializeUI,Long Statement
+ms-identity-android-java,com.azuresamples.msalandroidapp,SingleAccountModeFragment,initializeUI,Long Statement
+ms-identity-android-java,com.azuresamples.msalandroidapp,SingleAccountModeFragment,initializeUI,Long Statement
+ms-identity-android-java,com.azuresamples.msalandroidapp,SingleAccountModeFragment,onClick,Long Statement
+ms-identity-android-java,com.azuresamples.msalandroidapp,SingleAccountModeFragment,onClick,Long Statement
+ms-identity-android-java,com.azuresamples.msalandroidapp,SingleAccountModeFragment,onClick,Long Statement
+ms-identity-android-java,com.azuresamples.msalandroidapp,SingleAccountModeFragment,callGraphAPI,Long Statement

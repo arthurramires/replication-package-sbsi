@@ -1,0 +1,15 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC
+gs-rest-service-cors,com.example.restservicecors,Greeting,Greeting,4,1,0
+gs-rest-service-cors,com.example.restservicecors,Greeting,Greeting,4,1,2
+gs-rest-service-cors,com.example.restservicecors,Greeting,getId,3,1,0
+gs-rest-service-cors,com.example.restservicecors,Greeting,getContent,3,1,0
+gs-rest-service-cors,com.example.restservicecors,GreetingController,greeting,4,1,1
+gs-rest-service-cors,com.example.restservicecors,GreetingController,greetingWithJavaconfig,4,1,1
+gs-rest-service-cors,com.example.restservicecors,RestServiceCorsApplication,main,3,1,1
+gs-rest-service-cors,com.example.restservicecors,RestServiceCorsApplication,corsConfigurer,8,1,0
+gs-rest-service-cors,com.example.restservicecors,RestServiceCorsApplication,addCorsMappings,3,1,1
+gs-rest-service-cors,com.example.restservicecors,GreetingIntegrationTests,corsWithAnnotation,7,1,0
+gs-rest-service-cors,com.example.restservicecors,GreetingIntegrationTests,corsWithJavaconfig,7,1,0
+gs-rest-service-cors,com.example.restservicecors,GreetingIntegrationTests,uri,3,1,1
+gs-rest-service-cors,com.example.restservicecors,RestServiceCorsApplication,main,3,1,1
+gs-rest-service-cors,com.example.restservicecors,RestServiceCorsApplicationTests,contextLoads,2,1,0

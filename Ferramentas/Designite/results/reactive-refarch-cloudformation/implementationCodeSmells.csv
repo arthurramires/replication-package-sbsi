@@ -1,0 +1,19 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell
+reactive-refarch-cloudformation,(default package),MavenWrapperDownloader,main,Empty catch clause
+reactive-refarch-cloudformation,(default package),MavenWrapperDownloader,main,Long Identifier
+reactive-refarch-cloudformation,com.amazon.verticles,HttpVerticle,initHttpServer,Magic Number
+reactive-refarch-cloudformation,com.amazon.verticles,HttpVerticle,checkHealth,Magic Number
+reactive-refarch-cloudformation,com.amazon.verticles,HttpVerticle,purgeCache,Magic Number
+reactive-refarch-cloudformation,com.amazon.verticles,HttpVerticle,handleTrackingEvent,Magic Number
+reactive-refarch-cloudformation,com.amazon.verticles,HttpVerticle,handleTrackingEvent,Magic Number
+reactive-refarch-cloudformation,com.amazon.verticles,HttpVerticle,handleTrackingEvent,Magic Number
+reactive-refarch-cloudformation,com.amazon.verticles,KinesisVerticle,sendMessageToKinesis,Long Statement
+reactive-refarch-cloudformation,com.amazon.verticles,KinesisVerticle,createClient,Long Statement
+reactive-refarch-cloudformation,com.amazon.verticles,KinesisVerticle,createClient,Magic Number
+reactive-refarch-cloudformation,com.amazon.verticles,KinesisVerticle,createClient,Magic Number
+reactive-refarch-cloudformation,com.amazon.verticles,RedisVerticle,registerToEventBusForPurging,Long Statement
+reactive-refarch-cloudformation,com.amazon.verticles,RedisVerticle,registerToEventBusForPubSub,Long Statement
+reactive-refarch-cloudformation,com.amazon.verticles,RedisVerticle,start,Long Statement
+reactive-refarch-cloudformation,com.amazon.verticles,RedisVerticle,start,Magic Number
+reactive-refarch-cloudformation,com.amazon.vo,TrackingMessage,TrackingMessage,Long Parameter List
+reactive-refarch-cloudformation,com.amazon.vo,TrackingMessage,toString,Long Statement

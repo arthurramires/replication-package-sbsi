@@ -1,0 +1,6 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell
+gs-crud-with-vaadin,com.example.crudwithvaadin,CrudWithVaadinApplicationTests,shouldFillOutComponentsWithDataWhenTheApplicationIsStarted,Magic Number
+gs-crud-with-vaadin,com.example.crudwithvaadin,CrudWithVaadinApplicationTests,shouldFindTwoBauerCustomers,Magic Number
+gs-crud-with-vaadin,com.example.crudwithvaadin,MainViewTests,shouldInitializeTheGridWithCustomerRepositoryData,Magic Number
+gs-crud-with-vaadin,com.example.crudwithvaadin,MainViewTests,shouldFillOutTheGridWithNewData,Long Statement
+gs-crud-with-vaadin,com.example.crudwithvaadin,MainViewTests,shouldFilterOutTheGridWithTheProvidedLastName,Long Statement

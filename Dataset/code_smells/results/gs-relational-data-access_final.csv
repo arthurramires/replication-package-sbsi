@@ -1,0 +1,13 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell,source_file,MethodName,LOC,CC,PC,NOF,NOPF,NOM,NOPM,WMC,NC,DIT,LCOM,FANIN,FANOUT
+gs-relational-data-access,com.example.relationaldataaccess,RelationalDataAccessApplication,run,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-relational-data-access,com.example.relationaldataaccess,RelationalDataAccessApplication,run,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-relational-data-access,com.example.relationaldataaccess,Customer,,,methodMetrics.csv,Customer,5.0,1.0,3.0,,,,,,,,,,
+gs-relational-data-access,com.example.relationaldataaccess,Customer,,,methodMetrics.csv,toString,3.0,1.0,0.0,,,,,,,,,,
+gs-relational-data-access,com.example.relationaldataaccess,RelationalDataAccessApplication,,,methodMetrics.csv,main,3.0,1.0,1.0,,,,,,,,,,
+gs-relational-data-access,com.example.relationaldataaccess,RelationalDataAccessApplication,,,methodMetrics.csv,run,10.0,1.0,1.0,,,,,,,,,,
+gs-relational-data-access,com.example.relationaldataaccess,RelationalDataAccessApplication,,,methodMetrics.csv,main,3.0,1.0,1.0,,,,,,,,,,
+gs-relational-data-access,com.example.relationaldataaccess,Customer,,,typeMetrics.csv,,12.0,,,3.0,0.0,2.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0
+gs-relational-data-access,com.example.relationaldataaccess,RelationalDataAccessApplication,,,typeMetrics.csv,,17.0,,,2.0,0.0,2.0,2.0,2.0,0.0,0.0,1.0,2.0,1.0
+gs-relational-data-access,com.example.relationaldataaccess,RelationalDataAccessApplication,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,1.0
+gs-relational-data-access,com.example.relationaldataaccess,Customer,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-relational-data-access,com.example.relationaldataaccess,RelationalDataAccessApplication,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,

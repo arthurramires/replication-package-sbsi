@@ -1,0 +1,7 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC
+appmod-partners-serverless,example,Calculator,handleRequest,6,1,2
+appmod-partners-serverless,example,CalculatorInput,getN1,3,1,0
+appmod-partners-serverless,example,CalculatorInput,setN1,3,1,1
+appmod-partners-serverless,example,CalculatorInput,getN2,3,1,0
+appmod-partners-serverless,example,CalculatorInput,setN2,3,1,1
+appmod-partners-serverless,example,CalculatorInput,toString,3,1,0

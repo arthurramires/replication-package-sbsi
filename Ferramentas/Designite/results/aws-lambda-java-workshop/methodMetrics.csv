@@ -1,0 +1,11 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC
+aws-lambda-java-workshop,com.unicorn.location,UnicornLocation,getUnicornName,3,1,0
+aws-lambda-java-workshop,com.unicorn.location,UnicornLocation,setUnicornName,3,1,1
+aws-lambda-java-workshop,com.unicorn.location,UnicornLocation,getLongitude,3,1,0
+aws-lambda-java-workshop,com.unicorn.location,UnicornLocation,setLongitude,3,1,1
+aws-lambda-java-workshop,com.unicorn.location,UnicornLocation,getLatitude,3,1,0
+aws-lambda-java-workshop,com.unicorn.location,UnicornLocation,setLatitude,3,1,1
+aws-lambda-java-workshop,com.unicorn.location,UnicornPostLocationHandler,UnicornPostLocationHandler,3,1,0
+aws-lambda-java-workshop,com.unicorn.location,UnicornPostLocationHandler,handleRequest,11,1,2
+aws-lambda-java-workshop,com.unicorn.location,UnicornPostLocationHandler,createLocationItem,9,1,1
+aws-lambda-java-workshop,com.unicorn.location,UnicornPostLocationHandler,handleRequest,3,1,2

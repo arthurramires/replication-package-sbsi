@@ -1,0 +1,33 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell,source_file,MethodName,LOC,CC,PC,NOF,NOPF,NOM,NOPM,WMC,NC,DIT,LCOM,FANIN,FANOUT
+gs-testing-restdocs,(default package),MavenWrapperDownloader,main,Empty catch clause,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-testing-restdocs,(default package),MavenWrapperDownloader,main,Long Identifier,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-testing-restdocs,(default package),MavenWrapperDownloader,main,Empty catch clause,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-testing-restdocs,(default package),MavenWrapperDownloader,main,Long Identifier,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-testing-restdocs,com.example.testingrestdocs,WebLayerTest,shouldReturnDefaultMessage,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-testing-restdocs,(default package),MavenWrapperDownloader,,,methodMetrics.csv,main,46.0,5.0,1.0,,,,,,,,,,
+gs-testing-restdocs,(default package),MavenWrapperDownloader,,,methodMetrics.csv,downloadFileFromURL,19.0,2.0,2.0,,,,,,,,,,
+gs-testing-restdocs,(default package),MavenWrapperDownloader,,,methodMetrics.csv,getPasswordAuthentication,3.0,1.0,0.0,,,,,,,,,,
+gs-testing-restdocs,(default package),MavenWrapperDownloader,,,methodMetrics.csv,main,46.0,5.0,1.0,,,,,,,,,,
+gs-testing-restdocs,(default package),MavenWrapperDownloader,,,methodMetrics.csv,downloadFileFromURL,19.0,2.0,2.0,,,,,,,,,,
+gs-testing-restdocs,(default package),MavenWrapperDownloader,,,methodMetrics.csv,getPasswordAuthentication,3.0,1.0,0.0,,,,,,,,,,
+gs-testing-restdocs,com.example.testingrestdocs,HomeController,,,methodMetrics.csv,greeting,3.0,1.0,0.0,,,,,,,,,,
+gs-testing-restdocs,com.example.testingrestdocs,TestingRestdocsApplication,,,methodMetrics.csv,main,3.0,1.0,1.0,,,,,,,,,,
+gs-testing-restdocs,com.example.testingrestdocs,TestingRestdocsApplicationTests,,,methodMetrics.csv,contextLoads,2.0,1.0,0.0,,,,,,,,,,
+gs-testing-restdocs,com.example.testingrestdocs,WebLayerTest,,,methodMetrics.csv,shouldReturnDefaultMessage,3.0,1.0,0.0,,,,,,,,,,
+gs-testing-restdocs,com.example.testingrestdocs,TestingRestdocsApplication,,,methodMetrics.csv,main,3.0,1.0,1.0,,,,,,,,,,
+gs-testing-restdocs,com.example.testingrestdocs,TestingRestdocsApplicationTests,,,methodMetrics.csv,contextLoads,2.0,1.0,0.0,,,,,,,,,,
+gs-testing-restdocs,(default package),MavenWrapperDownloader,,,typeMetrics.csv,,84.0,,,5.0,0.0,3.0,1.0,8.0,0.0,0.0,1.0,0.0,0.0
+gs-testing-restdocs,(default package),MavenWrapperDownloader,,,typeMetrics.csv,,84.0,,,5.0,0.0,3.0,1.0,8.0,0.0,0.0,1.0,0.0,0.0
+gs-testing-restdocs,com.example.testingrestdocs,HomeController,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,0.0
+gs-testing-restdocs,com.example.testingrestdocs,TestingRestdocsApplication,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,2.0,1.0
+gs-testing-restdocs,com.example.testingrestdocs,TestingRestdocsApplicationTests,,,typeMetrics.csv,,4.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,0.0
+gs-testing-restdocs,com.example.testingrestdocs,WebLayerTest,,,typeMetrics.csv,,6.0,,,1.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+gs-testing-restdocs,com.example.testingrestdocs,TestingRestdocsApplication,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,1.0
+gs-testing-restdocs,com.example.testingrestdocs,TestingRestdocsApplicationTests,,,typeMetrics.csv,,4.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,0.0
+gs-testing-restdocs,(default package),MavenWrapperDownloader,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-testing-restdocs,(default package),MavenWrapperDownloader,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-testing-restdocs,com.example.testingrestdocs,HomeController,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-testing-restdocs,com.example.testingrestdocs,TestingRestdocsApplicationTests,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-testing-restdocs,com.example.testingrestdocs,WebLayerTest,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-testing-restdocs,com.example.testingrestdocs,TestingRestdocsApplication,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-testing-restdocs,com.example.testingrestdocs,TestingRestdocsApplicationTests,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,

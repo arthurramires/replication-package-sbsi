@@ -1,0 +1,23 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell
+workshop-migrate-jboss-on-app-service,com.redhat.coolstore.model,Order,toString,Long Statement
+workshop-migrate-jboss-on-app-service,com.redhat.coolstore.model,ShoppingCart,toString,Long Statement
+workshop-migrate-jboss-on-app-service,com.redhat.coolstore.model,ShoppingCartItem,toString,Long Statement
+workshop-migrate-jboss-on-app-service,com.redhat.coolstore.service,PromoService,PromoService,Magic Number
+workshop-migrate-jboss-on-app-service,com.redhat.coolstore.service,PromoService,applyShippingPromotions,Magic Number
+workshop-migrate-jboss-on-app-service,com.redhat.coolstore.service,ShippingService,calculateShipping,Magic Number
+workshop-migrate-jboss-on-app-service,com.redhat.coolstore.service,ShippingService,calculateShipping,Magic Number
+workshop-migrate-jboss-on-app-service,com.redhat.coolstore.service,ShippingService,calculateShipping,Magic Number
+workshop-migrate-jboss-on-app-service,com.redhat.coolstore.service,ShippingService,calculateShipping,Magic Number
+workshop-migrate-jboss-on-app-service,com.redhat.coolstore.service,ShippingService,calculateShipping,Magic Number
+workshop-migrate-jboss-on-app-service,com.redhat.coolstore.service,ShippingService,calculateShipping,Magic Number
+workshop-migrate-jboss-on-app-service,com.redhat.coolstore.service,ShippingService,calculateShipping,Magic Number
+workshop-migrate-jboss-on-app-service,com.redhat.coolstore.service,ShippingService,calculateShipping,Magic Number
+workshop-migrate-jboss-on-app-service,com.redhat.coolstore.service,ShippingService,calculateShipping,Magic Number
+workshop-migrate-jboss-on-app-service,com.redhat.coolstore.service,ShippingService,calculateShipping,Magic Number
+workshop-migrate-jboss-on-app-service,com.redhat.coolstore.service,ShippingService,calculateShipping,Magic Number
+workshop-migrate-jboss-on-app-service,com.redhat.coolstore.service,ShippingService,calculateShipping,Magic Number
+workshop-migrate-jboss-on-app-service,com.redhat.coolstore.service,ShippingService,calculateShipping,Magic Number
+workshop-migrate-jboss-on-app-service,com.redhat.coolstore.service,ShippingService,calculateShipping,Magic Number
+workshop-migrate-jboss-on-app-service,com.redhat.coolstore.utils,DataBaseMigrationStartup,startup,Long Statement
+workshop-migrate-jboss-on-app-service,com.redhat.coolstore.utils,Transformers,shoppingCartToJson,Long Statement
+workshop-migrate-jboss-on-app-service,com.redhat.coolstore.utils,Transformers,shoppingCartToJson,Long Statement

@@ -1,0 +1,15 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+sleuth-documentation-apps,io.spring.cloud.samples.docs.acceptance.common.tech,SpanUtil,1,0,3,1,32,3,0,0,0.0,1,1
+sleuth-documentation-apps,com.example.presentationservice,PresentationServiceApplication,0,0,2,1,8,2,0,0,-1.0,1,1
+sleuth-documentation-apps,com.example.presentationservice,PresentationController,3,0,2,0,13,2,0,0,0.0,0,0
+sleuth-documentation-apps,com.example.presentationservice,PresentationServiceApplicationTests,0,0,1,0,4,1,0,0,-1.0,0,0
+sleuth-documentation-apps,io.spring.cloud.sleuth.docs.service1,Application,0,0,2,1,8,2,0,0,-1.0,0,0
+sleuth-documentation-apps,io.spring.cloud.sleuth.docs.service1,Service1Controller,1,0,5,5,18,5,0,0,0.0,0,1
+sleuth-documentation-apps,io.spring.cloud.sleuth.docs.service1,Service2Client,4,0,3,1,50,5,0,0,0.0,1,0
+sleuth-documentation-apps,io.spring.cloud.sleuth.docs.service2,Application,1,0,4,3,33,4,0,0,0.75,0,0
+sleuth-documentation-apps,io.spring.cloud.sleuth.docs.service2,Service2Controller,6,0,5,4,53,5,0,0,0.6,0,0
+sleuth-documentation-apps,io.spring.cloud.sleuth.docs.service3,Application,0,0,1,1,5,1,0,0,-1.0,0,0
+sleuth-documentation-apps,io.spring.cloud.sleuth.docs.service3,Service3Controller,1,0,1,1,9,1,0,0,0.0,0,0
+sleuth-documentation-apps,io.spring.cloud.sleuth.docs.service4,Application,0,0,1,1,5,1,0,0,-1.0,0,0
+sleuth-documentation-apps,io.spring.cloud.sleuth.docs.service4,Service4Controller,2,0,2,1,16,2,0,0,0.0,0,0
+sleuth-documentation-apps,io.spring.cloud.samples.docs.zipkin,Application,0,0,1,1,5,1,0,0,-1.0,0,0

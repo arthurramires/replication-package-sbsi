@@ -1,0 +1,10 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC
+gs-vault-config,hello,Application,Application,3,1,1
+gs-vault-config,hello,Application,main,3,1,1
+gs-vault-config,hello,Application,run,8,1,1
+gs-vault-config,hello,MyConfiguration,getUsername,3,1,0
+gs-vault-config,hello,MyConfiguration,setUsername,3,1,1
+gs-vault-config,hello,MyConfiguration,getPassword,3,1,0
+gs-vault-config,hello,MyConfiguration,setPassword,3,1,1
+gs-vault-config,hello,MyConfigurationTests,contextLoads,2,1,0
+gs-vault-config,hello,Application,main,3,1,1

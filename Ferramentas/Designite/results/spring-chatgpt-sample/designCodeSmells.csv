@@ -1,0 +1,12 @@
+Project Name,Package Name,Type Name,Code Smell
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.cli,AzSearchConfig,Unutilized Abstraction
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.cli,Config,Unutilized Abstraction
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,AzureCognitiveSearchVectorStore,Unutilized Abstraction
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,DocEntry,Unnecessary Abstraction
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,Similarity,Unnecessary Abstraction
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,Similarity,Unutilized Abstraction
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.common.vectorstore,VectorStoreData,Unnecessary Abstraction
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.webapi,AzSearchConfig,Unutilized Abstraction
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.webapi,Config,Unutilized Abstraction
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.webapi.controllers,ChatController,Unutilized Abstraction
+spring-chatgpt-sample,com.microsoft.azure.spring.chatgpt.sample.webapi.models,ChatCompletionsRequest,Unnecessary Abstraction

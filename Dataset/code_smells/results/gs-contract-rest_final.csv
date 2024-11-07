@@ -1,0 +1,107 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell,source_file,MethodName,LOC,CC,PC,NOF,NOPF,NOM,NOPM,WMC,NC,DIT,LCOM,FANIN,FANOUT
+gs-contract-rest,(default package),MavenWrapperDownloader,main,Empty catch clause,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-contract-rest,(default package),MavenWrapperDownloader,main,Long Identifier,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-contract-rest,(default package),MavenWrapperDownloader,main,Empty catch clause,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-contract-rest,(default package),MavenWrapperDownloader,main,Long Identifier,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-contract-rest,(default package),MavenWrapperDownloader,main,Empty catch clause,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-contract-rest,(default package),MavenWrapperDownloader,main,Long Identifier,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-contract-rest,hello,ContractRestClientApplicationTest,get_person_from_service_contract,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-contract-rest,hello,PersonService,PersonService,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-contract-rest,hello,PersonService,PersonService,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-contract-rest,hello,PersonService,PersonService,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-contract-rest,hello,PersonService,PersonService,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-contract-rest,hello,ContractRestClientApplicationTest,get_person_from_service_contract,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-contract-rest,hello,PersonService,PersonService,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-contract-rest,hello,PersonService,PersonService,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-contract-rest,hello,PersonService,PersonService,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-contract-rest,hello,PersonService,PersonService,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-contract-rest,(default package),MavenWrapperDownloader,,,methodMetrics.csv,main,46.0,5.0,1.0,,,,,,,,,,
+gs-contract-rest,(default package),MavenWrapperDownloader,,,methodMetrics.csv,downloadFileFromURL,9.0,1.0,2.0,,,,,,,,,,
+gs-contract-rest,(default package),MavenWrapperDownloader,,,methodMetrics.csv,main,46.0,5.0,1.0,,,,,,,,,,
+gs-contract-rest,(default package),MavenWrapperDownloader,,,methodMetrics.csv,downloadFileFromURL,9.0,1.0,2.0,,,,,,,,,,
+gs-contract-rest,(default package),MavenWrapperDownloader,,,methodMetrics.csv,main,46.0,5.0,1.0,,,,,,,,,,
+gs-contract-rest,(default package),MavenWrapperDownloader,,,methodMetrics.csv,downloadFileFromURL,9.0,1.0,2.0,,,,,,,,,,
+gs-contract-rest,hello,ContractRestClientApplication,,,methodMetrics.csv,main,3.0,1.0,1.0,,,,,,,,,,
+gs-contract-rest,hello,MessageRestController,,,methodMetrics.csv,MessageRestController,3.0,1.0,1.0,,,,,,,,,,
+gs-contract-rest,hello,MessageRestController,,,methodMetrics.csv,getMessage,4.0,1.0,1.0,,,,,,,,,,
+gs-contract-rest,hello,Person,,,methodMetrics.csv,Person,2.0,1.0,0.0,,,,,,,,,,
+gs-contract-rest,hello,Person,,,methodMetrics.csv,Person,5.0,1.0,3.0,,,,,,,,,,
+gs-contract-rest,hello,Person,,,methodMetrics.csv,getId,3.0,1.0,0.0,,,,,,,,,,
+gs-contract-rest,hello,Person,,,methodMetrics.csv,setId,3.0,1.0,1.0,,,,,,,,,,
+gs-contract-rest,hello,Person,,,methodMetrics.csv,getName,3.0,1.0,0.0,,,,,,,,,,
+gs-contract-rest,hello,Person,,,methodMetrics.csv,setName,3.0,1.0,1.0,,,,,,,,,,
+gs-contract-rest,hello,Person,,,methodMetrics.csv,getSurname,3.0,1.0,0.0,,,,,,,,,,
+gs-contract-rest,hello,Person,,,methodMetrics.csv,setSurname,3.0,1.0,1.0,,,,,,,,,,
+gs-contract-rest,hello,ContractRestClientApplicationTest,,,methodMetrics.csv,get_person_from_service_contract,8.0,1.0,0.0,,,,,,,,,,
+gs-contract-rest,hello,ContractRestServiceApplication,,,methodMetrics.csv,main,3.0,1.0,1.0,,,,,,,,,,
+gs-contract-rest,hello,Person,,,methodMetrics.csv,Person,5.0,1.0,3.0,,,,,,,,,,
+gs-contract-rest,hello,Person,,,methodMetrics.csv,getId,3.0,1.0,0.0,,,,,,,,,,
+gs-contract-rest,hello,Person,,,methodMetrics.csv,setId,3.0,1.0,1.0,,,,,,,,,,
+gs-contract-rest,hello,Person,,,methodMetrics.csv,getName,3.0,1.0,0.0,,,,,,,,,,
+gs-contract-rest,hello,Person,,,methodMetrics.csv,setName,3.0,1.0,1.0,,,,,,,,,,
+gs-contract-rest,hello,Person,,,methodMetrics.csv,getSurname,3.0,1.0,0.0,,,,,,,,,,
+gs-contract-rest,hello,Person,,,methodMetrics.csv,setSurname,3.0,1.0,1.0,,,,,,,,,,
+gs-contract-rest,hello,PersonRestController,,,methodMetrics.csv,PersonRestController,3.0,1.0,1.0,,,,,,,,,,
+gs-contract-rest,hello,PersonRestController,,,methodMetrics.csv,findPersonById,3.0,1.0,1.0,,,,,,,,,,
+gs-contract-rest,hello,PersonService,,,methodMetrics.csv,PersonService,6.0,1.0,0.0,,,,,,,,,,
+gs-contract-rest,hello,PersonService,,,methodMetrics.csv,findPersonById,3.0,1.0,1.0,,,,,,,,,,
+gs-contract-rest,hello,BaseClass,,,methodMetrics.csv,setup,4.0,1.0,0.0,,,,,,,,,,
+gs-contract-rest,hello,ContractRestClientApplication,,,methodMetrics.csv,main,3.0,1.0,1.0,,,,,,,,,,
+gs-contract-rest,hello,MessageRestController,,,methodMetrics.csv,MessageRestController,3.0,1.0,1.0,,,,,,,,,,
+gs-contract-rest,hello,MessageRestController,,,methodMetrics.csv,getMessage,4.0,1.0,1.0,,,,,,,,,,
+gs-contract-rest,hello,Person,,,methodMetrics.csv,Person,2.0,1.0,0.0,,,,,,,,,,
+gs-contract-rest,hello,Person,,,methodMetrics.csv,Person,5.0,1.0,3.0,,,,,,,,,,
+gs-contract-rest,hello,Person,,,methodMetrics.csv,getId,3.0,1.0,0.0,,,,,,,,,,
+gs-contract-rest,hello,Person,,,methodMetrics.csv,setId,3.0,1.0,1.0,,,,,,,,,,
+gs-contract-rest,hello,Person,,,methodMetrics.csv,getName,3.0,1.0,0.0,,,,,,,,,,
+gs-contract-rest,hello,Person,,,methodMetrics.csv,setName,3.0,1.0,1.0,,,,,,,,,,
+gs-contract-rest,hello,Person,,,methodMetrics.csv,getSurname,3.0,1.0,0.0,,,,,,,,,,
+gs-contract-rest,hello,Person,,,methodMetrics.csv,setSurname,3.0,1.0,1.0,,,,,,,,,,
+gs-contract-rest,hello,ContractRestClientApplicationTest,,,methodMetrics.csv,get_person_from_service_contract,8.0,1.0,0.0,,,,,,,,,,
+gs-contract-rest,hello,ContractRestServiceApplication,,,methodMetrics.csv,main,3.0,1.0,1.0,,,,,,,,,,
+gs-contract-rest,hello,Person,,,methodMetrics.csv,Person,5.0,1.0,3.0,,,,,,,,,,
+gs-contract-rest,hello,Person,,,methodMetrics.csv,getId,3.0,1.0,0.0,,,,,,,,,,
+gs-contract-rest,hello,Person,,,methodMetrics.csv,setId,3.0,1.0,1.0,,,,,,,,,,
+gs-contract-rest,hello,Person,,,methodMetrics.csv,getName,3.0,1.0,0.0,,,,,,,,,,
+gs-contract-rest,hello,Person,,,methodMetrics.csv,setName,3.0,1.0,1.0,,,,,,,,,,
+gs-contract-rest,hello,Person,,,methodMetrics.csv,getSurname,3.0,1.0,0.0,,,,,,,,,,
+gs-contract-rest,hello,Person,,,methodMetrics.csv,setSurname,3.0,1.0,1.0,,,,,,,,,,
+gs-contract-rest,hello,PersonRestController,,,methodMetrics.csv,PersonRestController,3.0,1.0,1.0,,,,,,,,,,
+gs-contract-rest,hello,PersonRestController,,,methodMetrics.csv,findPersonById,3.0,1.0,1.0,,,,,,,,,,
+gs-contract-rest,hello,PersonService,,,methodMetrics.csv,PersonService,6.0,1.0,0.0,,,,,,,,,,
+gs-contract-rest,hello,PersonService,,,methodMetrics.csv,findPersonById,3.0,1.0,1.0,,,,,,,,,,
+gs-contract-rest,(default package),MavenWrapperDownloader,,,typeMetrics.csv,,73.0,,,4.0,0.0,2.0,1.0,6.0,0.0,0.0,1.0,0.0,0.0
+gs-contract-rest,(default package),MavenWrapperDownloader,,,typeMetrics.csv,,73.0,,,4.0,0.0,2.0,1.0,6.0,0.0,0.0,1.0,0.0,0.0
+gs-contract-rest,(default package),MavenWrapperDownloader,,,typeMetrics.csv,,73.0,,,4.0,0.0,2.0,1.0,6.0,0.0,0.0,1.0,0.0,0.0
+gs-contract-rest,hello,ContractRestClientApplication,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,2.0,1.0
+gs-contract-rest,hello,MessageRestController,,,typeMetrics.csv,,10.0,,,1.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0
+gs-contract-rest,hello,Person,,,typeMetrics.csv,,30.0,,,3.0,0.0,8.0,8.0,8.0,0.0,0.0,0.25,4.0,0.0
+gs-contract-rest,hello,ContractRestClientApplicationTest,,,typeMetrics.csv,,10.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,1.0
+gs-contract-rest,hello,ContractRestServiceApplication,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,2.0,1.0
+gs-contract-rest,hello,Person,,,typeMetrics.csv,,28.0,,,3.0,0.0,7.0,6.0,7.0,0.0,0.0,0.0,0.0,0.0
+gs-contract-rest,hello,PersonRestController,,,typeMetrics.csv,,9.0,,,1.0,0.0,2.0,2.0,2.0,0.0,0.0,0.0,1.0,1.0
+gs-contract-rest,hello,PersonService,,,typeMetrics.csv,,12.0,,,1.0,0.0,2.0,1.0,2.0,0.0,0.0,0.0,3.0,0.0
+gs-contract-rest,hello,BaseClass,,,typeMetrics.csv,,8.0,,,2.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0
+gs-contract-rest,hello,ContractRestClientApplication,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,1.0
+gs-contract-rest,hello,MessageRestController,,,typeMetrics.csv,,10.0,,,1.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0
+gs-contract-rest,hello,Person,,,typeMetrics.csv,,30.0,,,3.0,0.0,8.0,8.0,8.0,0.0,0.0,0.25,0.0,0.0
+gs-contract-rest,hello,ContractRestClientApplicationTest,,,typeMetrics.csv,,10.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,1.0
+gs-contract-rest,hello,ContractRestServiceApplication,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,1.0
+gs-contract-rest,hello,Person,,,typeMetrics.csv,,28.0,,,3.0,0.0,7.0,6.0,7.0,0.0,0.0,0.0,0.0,0.0
+gs-contract-rest,hello,PersonRestController,,,typeMetrics.csv,,9.0,,,1.0,0.0,2.0,2.0,2.0,0.0,0.0,0.0,0.0,1.0
+gs-contract-rest,hello,PersonService,,,typeMetrics.csv,,12.0,,,1.0,0.0,2.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0
+gs-contract-rest,(default package),MavenWrapperDownloader,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-contract-rest,(default package),MavenWrapperDownloader,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-contract-rest,(default package),MavenWrapperDownloader,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-contract-rest,hello,MessageRestController,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-contract-rest,hello,ContractRestClientApplicationTest,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-contract-rest,hello,Person,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-contract-rest,hello,BaseClass,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-contract-rest,hello,ContractRestClientApplication,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-contract-rest,hello,MessageRestController,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-contract-rest,hello,Person,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-contract-rest,hello,ContractRestClientApplicationTest,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-contract-rest,hello,ContractRestServiceApplication,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-contract-rest,hello,Person,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-contract-rest,hello,PersonRestController,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-contract-rest,hello,PersonService,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,

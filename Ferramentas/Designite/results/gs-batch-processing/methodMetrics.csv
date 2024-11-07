@@ -1,0 +1,14 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC
+gs-batch-processing,com.example.batchprocessing,BatchConfiguration,reader,3,1,0
+gs-batch-processing,com.example.batchprocessing,BatchConfiguration,processor,3,1,0
+gs-batch-processing,com.example.batchprocessing,BatchConfiguration,writer,3,1,1
+gs-batch-processing,com.example.batchprocessing,BatchConfiguration,importUserJob,3,1,3
+gs-batch-processing,com.example.batchprocessing,BatchConfiguration,step1,3,1,5
+gs-batch-processing,com.example.batchprocessing,BatchProcessingApplication,main,3,1,1
+gs-batch-processing,com.example.batchprocessing,JobCompletionNotificationListener,JobCompletionNotificationListener,3,1,1
+gs-batch-processing,com.example.batchprocessing,JobCompletionNotificationListener,afterJob,6,2,1
+gs-batch-processing,com.example.batchprocessing,PersonItemProcessor,process,7,1,1
+gs-batch-processing,com.example.batchprocessing,BatchConfigurationTest,setUp,3,1,0
+gs-batch-processing,com.example.batchprocessing,BatchConfigurationTest,tearDown,3,1,0
+gs-batch-processing,com.example.batchprocessing,BatchConfigurationTest,importUserJob_WhenJobEnds_ThenStatusCompleted,4,1,0
+gs-batch-processing,com.example.batchprocessing,BatchProcessingApplication,main,3,1,1

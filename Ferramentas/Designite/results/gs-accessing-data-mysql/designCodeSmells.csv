@@ -1,0 +1,6 @@
+Project Name,Package Name,Type Name,Code Smell
+gs-accessing-data-mysql,com.example.accessingdatamysql,MainController,Unutilized Abstraction
+gs-accessing-data-mysql,com.example.accessingdatamysql,UserRepository,Unnecessary Abstraction
+gs-accessing-data-mysql,com.example.accessingdatamysql,AccessingDataMysqlApplicationTests,Unutilized Abstraction
+gs-accessing-data-mysql,com.example.accessingdatamysql,AccessingDataMysqlApplication,Unutilized Abstraction
+gs-accessing-data-mysql,com.example.accessingdatamysql,AccessingDataMysqlApplicationTests,Unutilized Abstraction

@@ -1,0 +1,8 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+gs-accessing-data-mysql,com.example.accessingdatamysql,AccessingDataMysqlApplication,0,0,1,1,5,1,0,0,-1.0,2,1
+gs-accessing-data-mysql,com.example.accessingdatamysql,MainController,1,0,2,2,13,2,0,0,0.0,0,2
+gs-accessing-data-mysql,com.example.accessingdatamysql,User,3,0,6,6,23,6,0,0,0.5,1,0
+gs-accessing-data-mysql,com.example.accessingdatamysql,UserRepository,0,0,0,0,2,0,0,0,-1.0,1,0
+gs-accessing-data-mysql,com.example.accessingdatamysql,AccessingDataMysqlApplicationTests,1,0,1,0,5,1,0,0,0.0,0,0
+gs-accessing-data-mysql,com.example.accessingdatamysql,AccessingDataMysqlApplication,0,0,1,1,5,1,0,0,-1.0,0,1
+gs-accessing-data-mysql,com.example.accessingdatamysql,AccessingDataMysqlApplicationTests,1,0,1,0,5,1,0,0,0.0,0,0

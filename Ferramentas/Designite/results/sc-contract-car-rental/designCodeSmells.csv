@@ -1,0 +1,19 @@
+Project Name,Package Name,Type Name,Code Smell
+sc-contract-car-rental,(default package),MavenWrapperDownloader,Unutilized Abstraction
+sc-contract-car-rental,(default package),MavenWrapperDownloader,Unutilized Abstraction
+sc-contract-car-rental,(default package),MavenWrapperDownloader,Unutilized Abstraction
+sc-contract-car-rental,com.example.carrental,Fraud,Deficient Encapsulation
+sc-contract-car-rental,com.example.carrental,CarRentalController,Unutilized Abstraction
+sc-contract-car-rental,com.example.carrental,ClientRequest,Unutilized Abstraction
+sc-contract-car-rental,com.example.carrental,ClientRequest,Deficient Encapsulation
+sc-contract-car-rental,com.example.carrental,CallingStubInEurekaTests,Unutilized Abstraction
+sc-contract-car-rental,com.example.carrental,CarRentalApplicationTests,Unutilized Abstraction
+sc-contract-car-rental,com.example.carrental,Config,Unnecessary Abstraction
+sc-contract-car-rental,com.example.carrental,Config,Unutilized Abstraction
+sc-contract-car-rental,com.example.carrental,ManualTests,Unutilized Abstraction
+sc-contract-car-rental,com.example.carrental,RentACarTests,Unutilized Abstraction
+sc-contract-car-rental,com.example.carrental,RentACarTests,Deficient Encapsulation
+sc-contract-car-rental,com.example.frauddetection,Fraud,Unutilized Abstraction
+sc-contract-car-rental,com.example.frauddetection,BaseClass,Unutilized Abstraction
+sc-contract-car-rental,com.example.frauddetection,FraudControllerTests,Unutilized Abstraction
+sc-contract-car-rental,com.example.frauddetection,FraudDetectionApplicationTests,Unutilized Abstraction

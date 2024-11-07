@@ -1,0 +1,5 @@
+Project Name,Package Name,Type Name,Code Smell
+gs-validating-form-input,com.example.validatingforminput,WebController,Unutilized Abstraction
+gs-validating-form-input,com.example.validatingforminput,ApplicationMockMvcTests,Unutilized Abstraction
+gs-validating-form-input,com.example.validatingforminput,ValidatingFormInputApplication,Unutilized Abstraction
+gs-validating-form-input,com.example.validatingforminput,ValidatingFormInputApplicationTests,Unutilized Abstraction

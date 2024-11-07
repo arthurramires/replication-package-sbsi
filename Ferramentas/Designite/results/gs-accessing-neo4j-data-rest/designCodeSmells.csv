@@ -1,0 +1,5 @@
+Project Name,Package Name,Type Name,Code Smell
+gs-accessing-neo4j-data-rest,com.example.accessingneo4jdatarest,Person,Unutilized Abstraction
+gs-accessing-neo4j-data-rest,com.example.accessingneo4jdatarest,AccessingNeo4jDataRestApplicationTests,Unutilized Abstraction
+gs-accessing-neo4j-data-rest,com.example.accessingneo4jdatarest,AccessingNeo4jDataRestApplication,Unutilized Abstraction
+gs-accessing-neo4j-data-rest,com.example.accessingneo4jdatarest,AccessingNeo4jDataRestApplicationTests,Unutilized Abstraction

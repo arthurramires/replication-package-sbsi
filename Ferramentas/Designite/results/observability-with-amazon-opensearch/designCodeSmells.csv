@@ -1,0 +1,4 @@
+Project Name,Package Name,Type Name,Code Smell
+observability-with-amazon-opensearch,com.example.restservice,LoggingController,Unutilized Abstraction
+observability-with-amazon-opensearch,com.example.restservice,Metrics,Unutilized Abstraction
+observability-with-amazon-opensearch,com.example.restservice,MetricsController,Unutilized Abstraction

@@ -1,0 +1,13 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell
+data-engineering-for-aws-immersion-day,software.amazon.flink.example,FlinkStreamingJob,createSink,Long Statement
+data-engineering-for-aws-immersion-day,software.amazon.flink.example,FlinkStreamingJob,main,Long Statement
+data-engineering-for-aws-immersion-day,software.amazon.flink.example,FlinkStreamingJob,main,Long Statement
+data-engineering-for-aws-immersion-day,software.amazon.flink.example,FlinkStreamingJob,main,Magic Number
+data-engineering-for-aws-immersion-day,software.amazon.flink.example,FlinkStreamingJob,main,Magic Number
+data-engineering-for-aws-immersion-day,software.amazon.flink.example,RandomCutForestUDF,calculateAnomalyScore,Long Statement
+data-engineering-for-aws-immersion-day,software.amazon.flink.example,RandomCutForestUDF,calculateAnomalyScore,Magic Number
+data-engineering-for-aws-immersion-day,software.amazon.flink.example,RandomCutForestUDF,calculateAnomalyScore,Magic Number
+data-engineering-for-aws-immersion-day,software.amazon.flink.example,RandomCutForestUDF,calculateAnomalyScore,Magic Number
+data-engineering-for-aws-immersion-day,software.amazon.flink.example.operator,RandomCutForestOperator,RandomCutForestOperator,Long Parameter List
+data-engineering-for-aws-immersion-day,software.amazon.flink.example.operator,RandomCutForestOperator,initializeRcf,Long Statement
+data-engineering-for-aws-immersion-day,software.amazon.flink.example.operator,RandomCutForestOperatorBuilder,build,Long Statement

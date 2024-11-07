@@ -1,0 +1,22 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+sc-contract-car-rental,(default package),MavenWrapperDownloader,5,0,3,1,84,8,0,0,1.0,0,0
+sc-contract-car-rental,(default package),MavenWrapperDownloader,4,0,2,1,73,6,0,0,1.0,0,0
+sc-contract-car-rental,(default package),MavenWrapperDownloader,4,0,2,1,73,6,0,0,1.0,0,0
+sc-contract-car-rental,com.example.carrental,CarRentalApplication,0,0,2,1,8,2,0,0,-1.0,1,1
+sc-contract-car-rental,com.example.carrental,FraudListener,2,0,2,1,11,2,0,0,0.0,1,0
+sc-contract-car-rental,com.example.carrental,Fraud,1,1,5,5,20,5,0,0,0.4,1,0
+sc-contract-car-rental,com.example.carrental,CarRentalController,1,0,2,0,13,3,0,0,0.0,0,0
+sc-contract-car-rental,com.example.carrental,ClientRequest,1,1,4,4,14,4,0,0,0.5,0,0
+sc-contract-car-rental,com.example.carrental,CallingStubInEurekaTests,2,0,2,0,24,2,0,0,1.0,0,0
+sc-contract-car-rental,com.example.carrental,CarRentalApplicationTests,0,0,1,0,4,1,0,0,-1.0,0,0
+sc-contract-car-rental,com.example.carrental,FraudTests,5,0,4,1,34,4,0,0,0.75,1,3
+sc-contract-car-rental,com.example.carrental,Config,0,0,0,0,2,0,0,0,-1.0,0,0
+sc-contract-car-rental,com.example.carrental,ManualTests,1,0,2,2,9,2,0,0,0.0,0,0
+sc-contract-car-rental,com.example.carrental,RentACarTests,1,1,4,4,26,4,0,0,1.0,0,0
+sc-contract-car-rental,com.example.eureka,EurekaApplication,0,0,1,1,5,1,0,0,-1.0,1,1
+sc-contract-car-rental,com.example.frauddetection,FraudController,1,0,3,1,15,3,0,0,0.6666666666666666,1,0
+sc-contract-car-rental,com.example.frauddetection,Fraud,1,0,3,3,12,3,0,0,0.0,0,0
+sc-contract-car-rental,com.example.frauddetection,FraudDetectionApplication,0,0,1,1,5,1,0,0,-1.0,1,1
+sc-contract-car-rental,com.example.frauddetection,BaseClass,1,0,2,2,12,2,0,0,0.0,0,1
+sc-contract-car-rental,com.example.frauddetection,FraudControllerTests,1,0,1,1,9,1,0,0,0.0,0,0
+sc-contract-car-rental,com.example.frauddetection,FraudDetectionApplicationTests,0,0,1,1,4,1,0,0,-1.0,0,0

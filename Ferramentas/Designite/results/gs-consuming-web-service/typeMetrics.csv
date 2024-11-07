@@ -1,0 +1,6 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+gs-consuming-web-service,com.example.consumingwebservice,ConsumingWebServiceApplication,0,0,2,1,16,3,0,0,-1.0,2,2
+gs-consuming-web-service,com.example.consumingwebservice,CountryClient,1,0,1,1,10,1,0,0,0.0,2,0
+gs-consuming-web-service,com.example.consumingwebservice,CountryConfiguration,0,0,2,2,14,2,0,0,-1.0,0,1
+gs-consuming-web-service,com.example.consumingwebservice,ConsumingWebServiceApplication,0,0,1,1,5,1,0,0,-1.0,0,1
+gs-consuming-web-service,com.example.consumingwebservice,ConsumingWebServiceApplicationTests,0,0,1,0,4,1,0,0,-1.0,0,0

@@ -1,0 +1,4 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+aws-amplify-example-recipe-app-react-native,com.dlbamplify,ReactNativeFlipper,0,0,4,4,39,6,0,0,-1.0,0,0
+aws-amplify-example-recipe-app-react-native,com.dlbamplify,MainActivity,0,0,1,0,8,1,0,0,-1.0,0,0
+aws-amplify-example-recipe-app-react-native,com.dlbamplify,MainApplication,1,0,6,3,48,7,0,0,0.6666666666666666,1,1

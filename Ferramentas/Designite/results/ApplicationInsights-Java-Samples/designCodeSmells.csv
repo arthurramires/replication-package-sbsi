@@ -1,0 +1,28 @@
+Project Name,Package Name,Type Name,Code Smell
+ApplicationInsights-Java-Samples,com.example,ExampleController,Unutilized Abstraction
+ApplicationInsights-Java-Samples,com.example,ExampleWebTelemetryModule,Unutilized Abstraction
+ApplicationInsights-Java-Samples,com.example,ExampleApplication,Unutilized Abstraction
+ApplicationInsights-Java-Samples,com.example,ExampleController,Unutilized Abstraction
+ApplicationInsights-Java-Samples,com.example,ExampleWebTelemetryModule,Unutilized Abstraction
+ApplicationInsights-Java-Samples,com.example,ExampleApplication,Unutilized Abstraction
+ApplicationInsights-Java-Samples,com.example,ExampleController,Unutilized Abstraction
+ApplicationInsights-Java-Samples,com.example,ExampleApplication,Unutilized Abstraction
+ApplicationInsights-Java-Samples,com.example,ExampleController,Unutilized Abstraction
+ApplicationInsights-Java-Samples,com.example,ExampleApplication,Unutilized Abstraction
+ApplicationInsights-Java-Samples,com.example,ExampleController,Unutilized Abstraction
+ApplicationInsights-Java-Samples,com.example,ExampleApplication,Unutilized Abstraction
+ApplicationInsights-Java-Samples,com.example,ExampleController,Unutilized Abstraction
+ApplicationInsights-Java-Samples,com.example,AdvancedException,Unutilized Abstraction
+ApplicationInsights-Java-Samples,com.example,TrackLog4j2,Unutilized Abstraction
+ApplicationInsights-Java-Samples,com.example,Main,Unutilized Abstraction
+ApplicationInsights-Java-Samples,com.example,DemoAutoConfigurationCustomizerProvider,Unutilized Abstraction
+ApplicationInsights-Java-Samples,com.example,DemoSpanData,Unutilized Abstraction
+ApplicationInsights-Java-Samples,com.example,DemoSpanExporter,Unutilized Abstraction
+ApplicationInsights-Java-Samples,com.example,DemoSpanExporter,Deficient Encapsulation
+ApplicationInsights-Java-Samples,com.example,DurationAutoConfigurationCustomizerProvider,Unutilized Abstraction
+ApplicationInsights-Java-Samples,com.example,DurationSpanExporter,Deficient Encapsulation
+ApplicationInsights-Java-Samples,com.example,DemoController,Unutilized Abstraction
+ApplicationInsights-Java-Samples,com.example,Application,Unutilized Abstraction
+ApplicationInsights-Java-Samples,com.example,Main,Unutilized Abstraction
+ApplicationInsights-Java-Samples,(default package),Micrometer,Unutilized Abstraction
+ApplicationInsights-Java-Samples,(default package),TrackMetric,Unutilized Abstraction

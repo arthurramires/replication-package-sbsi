@@ -1,0 +1,6 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+gs-rest-service,com.example.restservice,GreetingController,2,0,1,1,7,1,0,0,0.0,0,0
+gs-rest-service,com.example.restservice,RestServiceApplication,0,0,1,1,5,1,0,0,-1.0,2,1
+gs-rest-service,com.example.restservice,GreetingControllerTests,1,0,2,2,9,2,0,0,0.0,0,0
+gs-rest-service,com.example.restservice,RestServiceApplication,0,0,1,1,5,1,0,0,-1.0,0,1
+gs-rest-service,com.example.restservice,RestServiceApplicationTests,0,0,1,1,4,1,0,0,-1.0,0,0

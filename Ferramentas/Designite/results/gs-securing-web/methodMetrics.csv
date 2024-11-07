@@ -1,0 +1,12 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC
+gs-securing-web,com.example.securingweb,MvcConfig,addViewControllers,6,1,1
+gs-securing-web,com.example.securingweb,SecuringWebApplication,main,3,1,1
+gs-securing-web,com.example.securingweb,WebSecurityConfig,securityFilterChain,4,1,1
+gs-securing-web,com.example.securingweb,WebSecurityConfig,userDetailsService,4,1,0
+gs-securing-web,com.example.securingweb,SecuringWebApplicationTests,loginWithValidUserThenAuthenticated,4,1,0
+gs-securing-web,com.example.securingweb,SecuringWebApplicationTests,loginWithInvalidUserThenUnauthenticated,4,1,0
+gs-securing-web,com.example.securingweb,SecuringWebApplicationTests,accessUnsecuredResourceThenOk,3,1,0
+gs-securing-web,com.example.securingweb,SecuringWebApplicationTests,accessSecuredResourceUnauthenticatedThenRedirectsToLogin,3,1,0
+gs-securing-web,com.example.securingweb,SecuringWebApplicationTests,accessSecuredResourceAuthenticatedThenOk,4,1,0
+gs-securing-web,com.example.securingweb,MvcConfig,addViewControllers,6,1,1
+gs-securing-web,com.example.securingweb,SecuringWebApplication,main,3,1,1

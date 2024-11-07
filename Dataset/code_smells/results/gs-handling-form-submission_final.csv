@@ -1,0 +1,23 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell,source_file,MethodName,LOC,CC,PC,NOF,NOPF,NOM,NOPM,WMC,NC,DIT,LCOM,FANIN,FANOUT
+gs-handling-form-submission,com.example.handlingformsubmission,HandlingFormSubmissionApplicationTest,submitsForm,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-handling-form-submission,com.example.handlingformsubmission,Greeting,,,methodMetrics.csv,getId,3.0,1.0,0.0,,,,,,,,,,
+gs-handling-form-submission,com.example.handlingformsubmission,Greeting,,,methodMetrics.csv,setId,3.0,1.0,1.0,,,,,,,,,,
+gs-handling-form-submission,com.example.handlingformsubmission,Greeting,,,methodMetrics.csv,getContent,3.0,1.0,0.0,,,,,,,,,,
+gs-handling-form-submission,com.example.handlingformsubmission,Greeting,,,methodMetrics.csv,setContent,3.0,1.0,1.0,,,,,,,,,,
+gs-handling-form-submission,com.example.handlingformsubmission,GreetingController,,,methodMetrics.csv,greetingForm,4.0,1.0,1.0,,,,,,,,,,
+gs-handling-form-submission,com.example.handlingformsubmission,GreetingController,,,methodMetrics.csv,greetingSubmit,4.0,1.0,2.0,,,,,,,,,,
+gs-handling-form-submission,com.example.handlingformsubmission,HandlingFormSubmissionApplication,,,methodMetrics.csv,main,3.0,1.0,1.0,,,,,,,,,,
+gs-handling-form-submission,com.example.handlingformsubmission,HandlingFormSubmissionApplicationTest,,,methodMetrics.csv,rendersForm,3.0,1.0,0.0,,,,,,,,,,
+gs-handling-form-submission,com.example.handlingformsubmission,HandlingFormSubmissionApplicationTest,,,methodMetrics.csv,submitsForm,3.0,1.0,0.0,,,,,,,,,,
+gs-handling-form-submission,com.example.handlingformsubmission,HandlingFormSubmissionApplication,,,methodMetrics.csv,main,3.0,1.0,1.0,,,,,,,,,,
+gs-handling-form-submission,com.example.handlingformsubmission,HandlingFormSubmissionApplicationTests,,,methodMetrics.csv,contextLoads,2.0,1.0,0.0,,,,,,,,,,
+gs-handling-form-submission,com.example.handlingformsubmission,Greeting,,,typeMetrics.csv,,16.0,,,2.0,0.0,4.0,4.0,4.0,0.0,0.0,0.5,1.0,0.0
+gs-handling-form-submission,com.example.handlingformsubmission,GreetingController,,,typeMetrics.csv,,10.0,,,0.0,0.0,2.0,2.0,2.0,0.0,0.0,-1.0,0.0,1.0
+gs-handling-form-submission,com.example.handlingformsubmission,HandlingFormSubmissionApplication,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,2.0,1.0
+gs-handling-form-submission,com.example.handlingformsubmission,HandlingFormSubmissionApplicationTest,,,typeMetrics.csv,,9.0,,,1.0,0.0,2.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0
+gs-handling-form-submission,com.example.handlingformsubmission,HandlingFormSubmissionApplication,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,1.0
+gs-handling-form-submission,com.example.handlingformsubmission,HandlingFormSubmissionApplicationTests,,,typeMetrics.csv,,4.0,,,0.0,0.0,1.0,0.0,1.0,0.0,0.0,-1.0,0.0,0.0
+gs-handling-form-submission,com.example.handlingformsubmission,GreetingController,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-handling-form-submission,com.example.handlingformsubmission,HandlingFormSubmissionApplicationTest,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-handling-form-submission,com.example.handlingformsubmission,HandlingFormSubmissionApplication,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-handling-form-submission,com.example.handlingformsubmission,HandlingFormSubmissionApplicationTests,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,

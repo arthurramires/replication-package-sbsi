@@ -1,0 +1,7 @@
+Project Name,Package Name,Type Name,Code Smell
+gs-rest-hateoas,(default package),MavenWrapperDownloader,Unutilized Abstraction
+gs-rest-hateoas,(default package),MavenWrapperDownloader,Unutilized Abstraction
+gs-rest-hateoas,com.example.resthateoas,GreetingMockMvcTests,Unutilized Abstraction
+gs-rest-hateoas,com.example.resthateoas,GreetingTraversonIntegrationTests,Unutilized Abstraction
+gs-rest-hateoas,com.example.resthateoas,RestHateoasApplication,Unutilized Abstraction
+gs-rest-hateoas,com.example.resthateoas,RestHateoasApplicationTests,Unutilized Abstraction

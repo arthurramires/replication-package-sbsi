@@ -1,0 +1,5 @@
+Project Name,Package Name,Type Name,Code Smell
+gs-serving-web-content,com.example.servingwebcontent,GreetingController,Unutilized Abstraction
+gs-serving-web-content,com.example.servingwebcontent,ServingWebContentApplicationTest,Unutilized Abstraction
+gs-serving-web-content,com.example.servingwebcontent,ServingWebContentApplication,Unutilized Abstraction
+gs-serving-web-content,com.example.servingwebcontent,ServingWebContentApplicationTests,Unutilized Abstraction

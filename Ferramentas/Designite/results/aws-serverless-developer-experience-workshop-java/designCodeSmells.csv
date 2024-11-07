@@ -1,0 +1,18 @@
+Project Name,Package Name,Type Name,Code Smell
+aws-serverless-developer-experience-workshop-java,contracts,CreateContractTests,Unutilized Abstraction
+aws-serverless-developer-experience-workshop-java,contracts.utils,ContractStatusChangedEvent,Unutilized Abstraction
+aws-serverless-developer-experience-workshop-java,contracts.utils,ResponseParser,Unutilized Abstraction
+aws-serverless-developer-experience-workshop-java,properties,ContractStatusNotFoundException,Unutilized Abstraction
+aws-serverless-developer-experience-workshop-java,properties,PropertiesApprovalSyncFunction,Unutilized Abstraction
+aws-serverless-developer-experience-workshop-java,properties,ValidateContentIntegrityFunction,Unutilized Abstraction
+aws-serverless-developer-experience-workshop-java,properties,WaitForContractApprovalFunction,Unutilized Abstraction
+aws-serverless-developer-experience-workshop-java,properties,ContractStatusTests,Unutilized Abstraction
+aws-serverless-developer-experience-workshop-java,schema.unicorn_contracts.contractstatuschanged,Event,Insufficient Modularization
+aws-serverless-developer-experience-workshop-java,property.dao,Property,Insufficient Modularization
+aws-serverless-developer-experience-workshop-java,property.populate,PopulateDataFunction,Unutilized Abstraction
+aws-serverless-developer-experience-workshop-java,property.requestapproval,PublicationApprovedFunction,Unutilized Abstraction
+aws-serverless-developer-experience-workshop-java,property.requestapproval,RequestApprovalFunction,Unutilized Abstraction
+aws-serverless-developer-experience-workshop-java,property.requestapproval,RequestApproval,Unutilized Abstraction
+aws-serverless-developer-experience-workshop-java,property.requestapproval,Address,Unutilized Abstraction
+aws-serverless-developer-experience-workshop-java,property.search,PropertySearchFunction,Unutilized Abstraction
+aws-serverless-developer-experience-workshop-java,schema.unicorn_properties.publicationevaluationcompleted,AWSEvent,Insufficient Modularization

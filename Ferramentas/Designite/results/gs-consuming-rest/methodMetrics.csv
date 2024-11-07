@@ -1,0 +1,7 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC
+gs-consuming-rest,com.example.consumingrest,ConsumingRestApplication,main,3,1,1
+gs-consuming-rest,com.example.consumingrest,ConsumingRestApplication,restTemplate,3,1,1
+gs-consuming-rest,com.example.consumingrest,ConsumingRestApplication,run,7,1,1
+gs-consuming-rest,com.example.consumingrest,ConsumingRestApplicationTest,contextLoads,3,1,0
+gs-consuming-rest,com.example.consumingrest,ConsumingRestApplication,main,3,1,1
+gs-consuming-rest,com.example.consumingrest,ConsumingRestApplicationTests,contextLoads,2,1,0

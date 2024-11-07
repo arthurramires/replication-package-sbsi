@@ -1,0 +1,9 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+azure-spring-data-cosmos-java-sql-api-samples,com.azure.cosmos.springexamples.common,User,3,0,9,9,33,9,0,0,0.2222222222222222,2,0
+azure-spring-data-cosmos-java-sql-api-samples,com.azure.cosmos.springexamples.featureexamples,Pagination,3,0,2,2,36,2,0,0,1.0,1,3
+azure-spring-data-cosmos-java-sql-api-samples,com.azure.cosmos.springexamples.quickstart.sync,CosmosProperties,4,0,8,8,30,8,0,0,0.5,1,0
+azure-spring-data-cosmos-java-sql-api-samples,com.azure.cosmos.springexamples.quickstart.sync,ReactiveUserRepository,0,0,1,0,3,1,0,0,-1.0,1,0
+azure-spring-data-cosmos-java-sql-api-samples,com.azure.cosmos.springexamples.quickstart.sync,SampleAppConfiguration,2,0,4,3,19,4,0,0,0.75,0,1
+azure-spring-data-cosmos-java-sql-api-samples,com.azure.cosmos.springexamples.quickstart.sync,ResponseDiagnosticsProcessorImplementation,0,0,1,1,5,1,0,0,-1.0,0,0
+azure-spring-data-cosmos-java-sql-api-samples,com.azure.cosmos.springexamples.quickstart.sync,SampleApplication,3,0,2,2,43,5,0,0,1.0,1,4
+azure-spring-data-cosmos-java-sql-api-samples,com.azure.cosmos.springexamples.quickstart.sync,UserRepository,0,0,23,0,25,23,0,0,-1.0,2,0

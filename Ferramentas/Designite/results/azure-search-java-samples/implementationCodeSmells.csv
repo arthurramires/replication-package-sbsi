@@ -1,0 +1,29 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell
+azure-search-java-samples,azure.search.sample,App,main,Empty catch clause
+azure-search-java-samples,azure.search.sample,App,main,Long Statement
+azure-search-java-samples,azure.search.sample,App,main,Long Statement
+azure-search-java-samples,azure.search.sample,App,main,Long Statement
+azure-search-java-samples,azure.search.sample,App,main,Magic Number
+azure-search-java-samples,azure.search.sample,App,uploadDocuments,Long Statement
+azure-search-java-samples,azure.search.sample,App,uploadDocuments,Long Statement
+azure-search-java-samples,azure.search.sample,App,uploadDocuments,Long Statement
+azure-search-java-samples,azure.search.sample,App,uploadDocuments,Long Statement
+azure-search-java-samples,azure.search.sample,App,uploadDocuments,Long Statement
+azure-search-java-samples,azure.search.sample,App,uploadDocuments,Long Statement
+azure-search-java-samples,azure.search.sample,App,uploadDocuments,Long Statement
+azure-search-java-samples,azure.search.sample,App,uploadDocuments,Long Statement
+azure-search-java-samples,azure.search.sample,App,uploadDocuments,Magic Number
+azure-search-java-samples,azure.search.sample,App,uploadDocuments,Magic Number
+azure-search-java-samples,azure.search.sample,App,uploadDocuments,Magic Number
+azure-search-java-samples,azure.search.sample,App,uploadDocuments,Magic Number
+azure-search-java-samples,azure.search.sample,App,uploadDocuments,Magic Number
+azure-search-java-samples,azure.search.sample,App,uploadDocuments,Magic Number
+azure-search-java-samples,azure.search.sample,App,uploadDocuments,Magic Number
+azure-search-java-samples,azure.search.sample,App,uploadDocuments,Magic Number
+azure-search-java-samples,azure.search.sample,App,uploadDocuments,Magic Number
+azure-search-java-samples,azure.search.sample,App,uploadDocuments,Magic Number
+azure-search-java-samples,azure.search.sample,App,uploadDocuments,Magic Number
+azure-search-java-samples,azure.search.sample,App,uploadDocuments,Magic Number
+azure-search-java-samples,azure.search.sample,App,uploadDocuments,Magic Number
+azure-search-java-samples,azure.search.sample,App,uploadDocuments,Magic Number
+azure-search-java-samples,azure.search.sample,App,uploadDocuments,Magic Number

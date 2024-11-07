@@ -1,0 +1,5 @@
+Project Name,Package Name,Type Name,Code Smell
+gs-rest-service,com.example.restservice,GreetingController,Unutilized Abstraction
+gs-rest-service,com.example.restservice,GreetingControllerTests,Unutilized Abstraction
+gs-rest-service,com.example.restservice,RestServiceApplication,Unutilized Abstraction
+gs-rest-service,com.example.restservice,RestServiceApplicationTests,Unutilized Abstraction

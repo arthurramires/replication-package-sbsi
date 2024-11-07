@@ -1,0 +1,9 @@
+Project Name,Package Name,Type Name,Code Smell
+reactive-refarch-cloudformation,(default package),MavenWrapperDownloader,Unutilized Abstraction
+reactive-refarch-cloudformation,com.amazon.exceptions,KinesisException,Unutilized Abstraction
+reactive-refarch-cloudformation,com.amazon.util,Constants,Deficient Encapsulation
+reactive-refarch-cloudformation,com.amazon.util,Constants,Broken Modularization
+reactive-refarch-cloudformation,com.amazon.verticles,CacheVerticle,Unutilized Abstraction
+reactive-refarch-cloudformation,com.amazon.verticles,HttpVerticle,Unutilized Abstraction
+reactive-refarch-cloudformation,com.amazon.verticles,KinesisVerticle,Unutilized Abstraction
+reactive-refarch-cloudformation,com.amazon.vo,TrackingMessage,Insufficient Modularization

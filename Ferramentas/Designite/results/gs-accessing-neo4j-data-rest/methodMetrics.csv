@@ -1,0 +1,17 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC
+gs-accessing-neo4j-data-rest,com.example.accessingneo4jdatarest,AccessingNeo4jDataRestApplication,main,3,1,1
+gs-accessing-neo4j-data-rest,com.example.accessingneo4jdatarest,Person,getFirstName,3,1,0
+gs-accessing-neo4j-data-rest,com.example.accessingneo4jdatarest,Person,setFirstName,3,1,1
+gs-accessing-neo4j-data-rest,com.example.accessingneo4jdatarest,Person,getLastName,3,1,0
+gs-accessing-neo4j-data-rest,com.example.accessingneo4jdatarest,Person,setLastName,3,1,1
+gs-accessing-neo4j-data-rest,com.example.accessingneo4jdatarest,PersonRepository,findByLastName,0,1,1
+gs-accessing-neo4j-data-rest,com.example.accessingneo4jdatarest,AccessingNeo4jDataRestApplicationTests,deleteAllBeforeTests,3,1,0
+gs-accessing-neo4j-data-rest,com.example.accessingneo4jdatarest,AccessingNeo4jDataRestApplicationTests,shouldReturnRepositoryIndex,3,1,0
+gs-accessing-neo4j-data-rest,com.example.accessingneo4jdatarest,AccessingNeo4jDataRestApplicationTests,shouldCreateEntity,3,1,0
+gs-accessing-neo4j-data-rest,com.example.accessingneo4jdatarest,AccessingNeo4jDataRestApplicationTests,shouldRetrieveEntity,5,1,0
+gs-accessing-neo4j-data-rest,com.example.accessingneo4jdatarest,AccessingNeo4jDataRestApplicationTests,shouldQueryEntity,4,1,0
+gs-accessing-neo4j-data-rest,com.example.accessingneo4jdatarest,AccessingNeo4jDataRestApplicationTests,shouldUpdateEntity,6,1,0
+gs-accessing-neo4j-data-rest,com.example.accessingneo4jdatarest,AccessingNeo4jDataRestApplicationTests,shouldPartiallyUpdateEntity,6,1,0
+gs-accessing-neo4j-data-rest,com.example.accessingneo4jdatarest,AccessingNeo4jDataRestApplicationTests,shouldDeleteEntity,6,1,0
+gs-accessing-neo4j-data-rest,com.example.accessingneo4jdatarest,AccessingNeo4jDataRestApplication,main,3,1,1
+gs-accessing-neo4j-data-rest,com.example.accessingneo4jdatarest,AccessingNeo4jDataRestApplicationTests,contextLoads,2,1,0

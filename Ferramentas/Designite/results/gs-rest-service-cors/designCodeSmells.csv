@@ -1,0 +1,5 @@
+Project Name,Package Name,Type Name,Code Smell
+gs-rest-service-cors,com.example.restservicecors,GreetingController,Unutilized Abstraction
+gs-rest-service-cors,com.example.restservicecors,GreetingIntegrationTests,Unutilized Abstraction
+gs-rest-service-cors,com.example.restservicecors,RestServiceCorsApplication,Unutilized Abstraction
+gs-rest-service-cors,com.example.restservicecors,RestServiceCorsApplicationTests,Unutilized Abstraction

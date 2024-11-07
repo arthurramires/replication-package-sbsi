@@ -1,0 +1,5 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell
+gs-messaging-stomp-websocket,com.example.messagingstompwebsocket,GreetingController,greeting,Magic Number
+gs-messaging-stomp-websocket,com.example.messagingstompwebsocket,GreetingIntegrationTests,getGreeting,Magic Number
+gs-messaging-stomp-websocket,com.example.messagingstompwebsocket,GreetingIntegrationTests,handleException,Long Parameter List
+gs-messaging-stomp-websocket,com.example.messagingstompwebsocket,TestSessionHandler,handleException,Long Parameter List

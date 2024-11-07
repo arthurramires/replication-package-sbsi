@@ -1,0 +1,13 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC
+gs-accessing-data-mysql,com.example.accessingdatamysql,AccessingDataMysqlApplication,main,3,1,1
+gs-accessing-data-mysql,com.example.accessingdatamysql,MainController,addNewUser,7,1,2
+gs-accessing-data-mysql,com.example.accessingdatamysql,MainController,getAllUsers,3,1,0
+gs-accessing-data-mysql,com.example.accessingdatamysql,User,getId,3,1,0
+gs-accessing-data-mysql,com.example.accessingdatamysql,User,setId,3,1,1
+gs-accessing-data-mysql,com.example.accessingdatamysql,User,getName,3,1,0
+gs-accessing-data-mysql,com.example.accessingdatamysql,User,setName,3,1,1
+gs-accessing-data-mysql,com.example.accessingdatamysql,User,getEmail,3,1,0
+gs-accessing-data-mysql,com.example.accessingdatamysql,User,setEmail,3,1,1
+gs-accessing-data-mysql,com.example.accessingdatamysql,AccessingDataMysqlApplicationTests,contextLoads,2,1,0
+gs-accessing-data-mysql,com.example.accessingdatamysql,AccessingDataMysqlApplication,main,3,1,1
+gs-accessing-data-mysql,com.example.accessingdatamysql,AccessingDataMysqlApplicationTests,contextLoads,2,1,0

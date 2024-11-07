@@ -1,0 +1,8 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell
+azure-cafe,cafe.model.entity,Coffee,hashCode,Magic Number
+azure-cafe,cafe.model.entity,Coffee,hashCode,Magic Number
+azure-cafe,cafe.model.entity,Coffee,hashCode,Magic Number
+azure-cafe,cafe.model.entity,Coffee,equals,Complex Method
+azure-cafe,cafe.web.view,Cafe,init,Long Statement
+azure-cafe,cafe.web.view,Cafe,init,Long Statement
+azure-cafe,cafe.web.view,Cafe,getAllCoffees,Long Statement

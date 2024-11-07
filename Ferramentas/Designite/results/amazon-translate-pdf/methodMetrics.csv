@@ -1,0 +1,11 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC
+amazon-translate-pdf,com.amazon.textract.pdf,PDFDocument,PDFDocument,4,1,1
+amazon-translate-pdf,com.amazon.textract.pdf,PDFDocument,calculateFontSize,24,5,4
+amazon-translate-pdf,com.amazon.textract.pdf,PDFDocument,addPageWithoutFormatting,26,2,3
+amazon-translate-pdf,com.amazon.textract.pdf,PDFDocument,addPageWithFormatting,38,3,3
+amazon-translate-pdf,com.amazon.textract.pdf,PDFDocument,save,3,1,1
+amazon-translate-pdf,com.amazon.textract.pdf,PDFDocument,close,3,1,0
+amazon-translate-pdf,com.amazon.textract.pdf,TextLine,TextLine,8,1,6
+amazon-translate-pdf,(default package),Demo,main,21,3,1
+amazon-translate-pdf,(default package),DemoPdfFromLocalPdf,extractTextAndTranslate,22,3,3
+amazon-translate-pdf,(default package),DemoPdfFromLocalPdf,run,44,4,6

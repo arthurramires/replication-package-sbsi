@@ -1,0 +1,12 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell
+gs-accessing-neo4j-data-rest,com.example.accessingneo4jdatarest,AccessingNeo4jDataRestApplicationTests,shouldCreateEntity,Long Statement
+gs-accessing-neo4j-data-rest,com.example.accessingneo4jdatarest,AccessingNeo4jDataRestApplicationTests,shouldRetrieveEntity,Long Statement
+gs-accessing-neo4j-data-rest,com.example.accessingneo4jdatarest,AccessingNeo4jDataRestApplicationTests,shouldRetrieveEntity,Long Statement
+gs-accessing-neo4j-data-rest,com.example.accessingneo4jdatarest,AccessingNeo4jDataRestApplicationTests,shouldQueryEntity,Long Statement
+gs-accessing-neo4j-data-rest,com.example.accessingneo4jdatarest,AccessingNeo4jDataRestApplicationTests,shouldQueryEntity,Long Statement
+gs-accessing-neo4j-data-rest,com.example.accessingneo4jdatarest,AccessingNeo4jDataRestApplicationTests,shouldUpdateEntity,Long Statement
+gs-accessing-neo4j-data-rest,com.example.accessingneo4jdatarest,AccessingNeo4jDataRestApplicationTests,shouldUpdateEntity,Long Statement
+gs-accessing-neo4j-data-rest,com.example.accessingneo4jdatarest,AccessingNeo4jDataRestApplicationTests,shouldUpdateEntity,Long Statement
+gs-accessing-neo4j-data-rest,com.example.accessingneo4jdatarest,AccessingNeo4jDataRestApplicationTests,shouldPartiallyUpdateEntity,Long Statement
+gs-accessing-neo4j-data-rest,com.example.accessingneo4jdatarest,AccessingNeo4jDataRestApplicationTests,shouldPartiallyUpdateEntity,Long Statement
+gs-accessing-neo4j-data-rest,com.example.accessingneo4jdatarest,AccessingNeo4jDataRestApplicationTests,shouldDeleteEntity,Long Statement

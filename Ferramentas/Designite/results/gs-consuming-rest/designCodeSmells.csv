@@ -1,0 +1,4 @@
+Project Name,Package Name,Type Name,Code Smell
+gs-consuming-rest,com.example.consumingrest,ConsumingRestApplicationTest,Unutilized Abstraction
+gs-consuming-rest,com.example.consumingrest,ConsumingRestApplication,Unutilized Abstraction
+gs-consuming-rest,com.example.consumingrest,ConsumingRestApplicationTests,Unutilized Abstraction

@@ -1,0 +1,13 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC
+gs-testing-restdocs,(default package),MavenWrapperDownloader,main,46,5,1
+gs-testing-restdocs,(default package),MavenWrapperDownloader,downloadFileFromURL,19,2,2
+gs-testing-restdocs,(default package),MavenWrapperDownloader,getPasswordAuthentication,3,1,0
+gs-testing-restdocs,(default package),MavenWrapperDownloader,main,46,5,1
+gs-testing-restdocs,(default package),MavenWrapperDownloader,downloadFileFromURL,19,2,2
+gs-testing-restdocs,(default package),MavenWrapperDownloader,getPasswordAuthentication,3,1,0
+gs-testing-restdocs,com.example.testingrestdocs,HomeController,greeting,3,1,0
+gs-testing-restdocs,com.example.testingrestdocs,TestingRestdocsApplication,main,3,1,1
+gs-testing-restdocs,com.example.testingrestdocs,TestingRestdocsApplicationTests,contextLoads,2,1,0
+gs-testing-restdocs,com.example.testingrestdocs,WebLayerTest,shouldReturnDefaultMessage,3,1,0
+gs-testing-restdocs,com.example.testingrestdocs,TestingRestdocsApplication,main,3,1,1
+gs-testing-restdocs,com.example.testingrestdocs,TestingRestdocsApplicationTests,contextLoads,2,1,0

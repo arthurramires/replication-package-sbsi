@@ -1,0 +1,13 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC
+gs-spring-cloud-stream,com.example.stream.nameprocessor,NameProcessorApplication,main,3,1,1
+gs-spring-cloud-stream,com.example.stream.nameprocessor,NameProcessorConfiguration,processName,3,1,0
+gs-spring-cloud-stream,com.example.stream.nameprocessor,NameProcessorApplicationTests,contextLoads,2,1,0
+gs-spring-cloud-stream,com.example.stream.nameprocessor,NameProcessorApplicationTests,testUsageCostProcessor,17,1,0
+gs-spring-cloud-stream,com.example.stream.namesink,NameSinkApplication,main,3,1,1
+gs-spring-cloud-stream,com.example.stream.namesink,NameSinkConfiguration,nameSink,7,1,0
+gs-spring-cloud-stream,com.example.stream.namesink,NameSinkApplicationTests,contextLoads,2,1,0
+gs-spring-cloud-stream,com.example.stream.namesink,NameSinkApplicationTests,testNameSink,14,1,1
+gs-spring-cloud-stream,com.example.stream.namesource,NameSourceApplication,main,3,1,1
+gs-spring-cloud-stream,com.example.stream.namesource,NameSourceConfiguration,supplyName,3,1,0
+gs-spring-cloud-stream,com.example.stream.namesource,NameSourceApplicationTests,contextLoads,2,1,0
+gs-spring-cloud-stream,com.example.stream.namesource,NameSourceApplicationTests,testUsageDetailSender,9,1,0

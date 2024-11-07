@@ -1,0 +1,12 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC
+gs-accessing-data-r2dbc,com.example.accessingdatar2dbc,AccessingDataR2dbcApplication,main,3,1,1
+gs-accessing-data-r2dbc,com.example.accessingdatar2dbc,AccessingDataR2dbcApplication,demo,28,1,1
+gs-accessing-data-r2dbc,com.example.accessingdatar2dbc,Customer,Customer,4,1,2
+gs-accessing-data-r2dbc,com.example.accessingdatar2dbc,Customer,getId,3,1,0
+gs-accessing-data-r2dbc,com.example.accessingdatar2dbc,Customer,setId,3,1,1
+gs-accessing-data-r2dbc,com.example.accessingdatar2dbc,Customer,getFirstName,3,1,0
+gs-accessing-data-r2dbc,com.example.accessingdatar2dbc,Customer,getLastName,3,1,0
+gs-accessing-data-r2dbc,com.example.accessingdatar2dbc,Customer,toString,3,1,0
+gs-accessing-data-r2dbc,com.example.accessingdatar2dbc,CustomerRepository,findByLastName,0,1,1
+gs-accessing-data-r2dbc,com.example.accessingdatar2dbc,CustomerRepositoryTests,testFindByLastName,11,1,0
+gs-accessing-data-r2dbc,com.example.accessingdatar2dbc,AccessingDataR2dbcApplication,main,3,1,1

@@ -1,0 +1,26 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell
+amazon-devops-guru-connector-servicenow,aws.devopsguru.partner.servicenow,AlertType,reactiveHighSeverityOnly,Long Statement
+amazon-devops-guru-connector-servicenow,aws.devopsguru.partner.servicenow,AlertType,reactiveMediumSeverityOnly,Long Statement
+amazon-devops-guru-connector-servicenow,aws.devopsguru.partner.servicenow,AlertType,reactiveLowSeverityOnly,Long Statement
+amazon-devops-guru-connector-servicenow,aws.devopsguru.partner.servicenow,AlertType,proactiveHighSeverityOnly,Long Statement
+amazon-devops-guru-connector-servicenow,aws.devopsguru.partner.servicenow,AlertType,proactiveMediumSeverityOnly,Long Statement
+amazon-devops-guru-connector-servicenow,aws.devopsguru.partner.servicenow,AlertType,proactiveLowSeverityOnly,Long Statement
+amazon-devops-guru-connector-servicenow,aws.devopsguru.partner.servicenow,InsightHandler,pickUseCase,Complex Method
+amazon-devops-guru-connector-servicenow,aws.devopsguru.partner.servicenow,ServiceNowConnector,createIncident,Long Statement
+amazon-devops-guru-connector-servicenow,aws.devopsguru.partner.servicenow,ServiceNowConnector,createIncident,Long Statement
+amazon-devops-guru-connector-servicenow,aws.devopsguru.partner.servicenow,ServiceNowConnector,createIncident,Magic Number
+amazon-devops-guru-connector-servicenow,aws.devopsguru.partner.servicenow,ServiceNowConnector,createIncident,Magic Number
+amazon-devops-guru-connector-servicenow,aws.devopsguru.partner.servicenow,ServiceNowConnector,newAnomalyAssociation,Long Statement
+amazon-devops-guru-connector-servicenow,aws.devopsguru.partner.servicenow,ServiceNowConnector,newRecommendation,Long Statement
+amazon-devops-guru-connector-servicenow,aws.devopsguru.partner.servicenow,ServiceNowConnector,findIncidentByInsightId,Long Statement
+amazon-devops-guru-connector-servicenow,aws.devopsguru.partner.servicenow,ServiceNowConnector,findIncidentByInsightId,Magic Number
+amazon-devops-guru-connector-servicenow,aws.devopsguru.partner.servicenow,ServiceNowConnector,findIncidentByInsightId,Magic Number
+amazon-devops-guru-connector-servicenow,aws.devopsguru.partner.servicenow,ServiceNowConnector,updateIncident,Long Statement
+amazon-devops-guru-connector-servicenow,aws.devopsguru.partner.servicenow,ServiceNowConnector,updateIncident,Magic Number
+amazon-devops-guru-connector-servicenow,aws.devopsguru.partner.servicenow,ServiceNowConnector,updateIncident,Magic Number
+amazon-devops-guru-connector-servicenow,aws.devopsguru.partner.servicenow,ServiceNowConnector,getBuilderWithBasicValues,Complex Conditional
+amazon-devops-guru-connector-servicenow,aws.devopsguru.partner.servicenow,ServiceNowConnector,getBuilderWithBasicValues,Long Statement
+amazon-devops-guru-connector-servicenow,aws.devopsguru.partner.servicenow,ServiceNowConnector,createIncidentFromInsight,Long Statement
+amazon-devops-guru-connector-servicenow,aws.devopsguru.partner.servicenow,ServiceNowConnector,getAnomaliesAsDescription,Long Statement
+amazon-devops-guru-connector-servicenow,aws.devopsguru.partner.servicenow,ServiceNowConnector,getServiceNowSeverity,Magic Number
+amazon-devops-guru-connector-servicenow,aws.devopsguru.partner.servicenow,ServiceNowConnector,getServiceNowSeverity,Magic Number

@@ -1,0 +1,13 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC
+gs-testing-web,com.example.testingweb,GreetingController,GreetingController,3,1,1
+gs-testing-web,com.example.testingweb,GreetingController,greeting,3,1,0
+gs-testing-web,com.example.testingweb,GreetingService,greet,3,1,0
+gs-testing-web,com.example.testingweb,HomeController,greeting,3,1,0
+gs-testing-web,com.example.testingweb,TestingWebApplication,main,3,1,1
+gs-testing-web,com.example.testingweb,HttpRequestTest,greetingShouldReturnDefaultMessage,3,1,0
+gs-testing-web,com.example.testingweb,SmokeTest,contextLoads,3,1,0
+gs-testing-web,com.example.testingweb,TestingWebApplicationTest,shouldReturnDefaultMessage,3,1,0
+gs-testing-web,com.example.testingweb,WebLayerTest,shouldReturnDefaultMessage,3,1,0
+gs-testing-web,com.example.testingweb,WebMockTest,greetingShouldReturnMessageFromService,4,1,0
+gs-testing-web,com.example.testingweb,TestingWebApplication,main,3,1,1
+gs-testing-web,com.example.testingweb,TestingWebApplicationTests,contextLoads,2,1,0

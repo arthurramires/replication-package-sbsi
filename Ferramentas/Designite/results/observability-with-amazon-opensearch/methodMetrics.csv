@@ -1,0 +1,13 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC
+observability-with-amazon-opensearch,com.example.restservice,Logging,Logging,4,1,2
+observability-with-amazon-opensearch,com.example.restservice,Logging,getService,3,1,0
+observability-with-amazon-opensearch,com.example.restservice,Logging,getMessage,3,1,0
+observability-with-amazon-opensearch,com.example.restservice,Logging,setService,3,1,1
+observability-with-amazon-opensearch,com.example.restservice,Logging,setMessage,3,1,1
+observability-with-amazon-opensearch,com.example.restservice,Logging,toString,7,1,0
+observability-with-amazon-opensearch,com.example.restservice,LoggingController,save,3,1,1
+observability-with-amazon-opensearch,com.example.restservice,Metrics,Metrics,4,1,2
+observability-with-amazon-opensearch,com.example.restservice,Metrics,getId,3,1,0
+observability-with-amazon-opensearch,com.example.restservice,Metrics,getService,3,1,0
+observability-with-amazon-opensearch,com.example.restservice,MetricsController,metrics,3,1,1
+observability-with-amazon-opensearch,com.example.restservice,RestServiceApplication,main,3,1,1

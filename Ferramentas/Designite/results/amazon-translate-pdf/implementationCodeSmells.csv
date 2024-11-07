@@ -1,0 +1,22 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell
+amazon-translate-pdf,com.amazon.textract.pdf,PDFDocument,calculateFontSize,Magic Number
+amazon-translate-pdf,com.amazon.textract.pdf,PDFDocument,calculateFontSize,Magic Number
+amazon-translate-pdf,com.amazon.textract.pdf,PDFDocument,calculateFontSize,Magic Number
+amazon-translate-pdf,com.amazon.textract.pdf,PDFDocument,calculateFontSize,Magic Number
+amazon-translate-pdf,com.amazon.textract.pdf,PDFDocument,calculateFontSize,Magic Number
+amazon-translate-pdf,com.amazon.textract.pdf,PDFDocument,calculateFontSize,Magic Number
+amazon-translate-pdf,com.amazon.textract.pdf,PDFDocument,calculateFontSize,Magic Number
+amazon-translate-pdf,com.amazon.textract.pdf,PDFDocument,addPageWithoutFormatting,Long Statement
+amazon-translate-pdf,com.amazon.textract.pdf,PDFDocument,addPageWithFormatting,Long Statement
+amazon-translate-pdf,com.amazon.textract.pdf,PDFDocument,addPageWithFormatting,Long Statement
+amazon-translate-pdf,com.amazon.textract.pdf,PDFDocument,addPageWithFormatting,Long Statement
+amazon-translate-pdf,com.amazon.textract.pdf,TextLine,TextLine,Long Parameter List
+amazon-translate-pdf,(default package),Demo,main,Long Statement
+amazon-translate-pdf,(default package),Demo,main,Long Statement
+amazon-translate-pdf,(default package),Demo,main,Magic Number
+amazon-translate-pdf,(default package),Demo,main,Magic Number
+amazon-translate-pdf,(default package),Demo,main,Magic Number
+amazon-translate-pdf,(default package),Demo,main,Magic Number
+amazon-translate-pdf,(default package),DemoPdfFromLocalPdf,extractTextAndTranslate,Long Statement
+amazon-translate-pdf,(default package),DemoPdfFromLocalPdf,extractTextAndTranslate,Long Statement
+amazon-translate-pdf,(default package),DemoPdfFromLocalPdf,run,Long Parameter List

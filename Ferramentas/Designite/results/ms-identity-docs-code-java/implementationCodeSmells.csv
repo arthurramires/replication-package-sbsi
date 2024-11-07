@@ -1,0 +1,22 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell
+ms-identity-docs-code-java,com.contoso.api,ApiController,me,Long Statement
+ms-identity-docs-code-java,com.contoso.api,ApiController,hello,Long Statement
+ms-identity-docs-code-java,com.contoso.oboapi,ApiController,me,Long Statement
+ms-identity-docs-code-java,com.example.msaldemo,MainActivity,onCreate,Long Statement
+ms-identity-docs-code-java,com.example.msaldemo,MainActivity,attachFragment,Long Statement
+ms-identity-docs-code-java,com.example.msaldemo,MSGraphRequestWrapper,callGraphAPIUsingVolley,Long Parameter List
+ms-identity-docs-code-java,com.example.msaldemo,MSGraphRequestWrapper,callGraphAPIUsingVolley,Long Statement
+ms-identity-docs-code-java,com.example.msaldemo,MSGraphRequestWrapper,callGraphAPIUsingVolley,Long Statement
+ms-identity-docs-code-java,com.example.msaldemo,MSGraphRequestWrapper,callGraphAPIUsingVolley,Magic Number
+ms-identity-docs-code-java,com.example.msaldemo,SingleAccountModeFragment,onCreateView,Long Statement
+ms-identity-docs-code-java,com.example.msaldemo,SingleAccountModeFragment,callGraphAPI,Long Statement
+ms-identity-docs-code-java,com.example.msaldemo,ExampleUnitTest,addition_isCorrect,Magic Number
+ms-identity-docs-code-java,com.example.msaldemo,ExampleUnitTest,addition_isCorrect,Magic Number
+ms-identity-docs-code-java,com.example.msaldemo,ExampleUnitTest,addition_isCorrect,Magic Number
+ms-identity-docs-code-java,com.contoso.cli,App,main,Long Statement
+ms-identity-docs-code-java,com.contoso.cli,App,main,Long Statement
+ms-identity-docs-code-java,com.contoso.cli,App,main,Long Statement
+ms-identity-docs-code-java,com.contoso.cli,App,main,Long Statement
+ms-identity-docs-code-java,com.contoso.cli,App,main,Long Statement
+ms-identity-docs-code-java,com.contoso.webapp,IndexController,graphPage,Long Statement
+ms-identity-docs-code-java,com.contoso.webapp,IndexController,adminPage,Long Statement

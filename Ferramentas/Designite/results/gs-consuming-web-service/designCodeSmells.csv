@@ -1,0 +1,4 @@
+Project Name,Package Name,Type Name,Code Smell
+gs-consuming-web-service,com.example.consumingwebservice,CountryConfiguration,Unutilized Abstraction
+gs-consuming-web-service,com.example.consumingwebservice,ConsumingWebServiceApplication,Unutilized Abstraction
+gs-consuming-web-service,com.example.consumingwebservice,ConsumingWebServiceApplicationTests,Unutilized Abstraction

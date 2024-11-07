@@ -1,0 +1,7 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+gs-accessing-data-mongodb,com.example.accessingdatamongodb,AccessingDataMongodbApplication,1,0,2,2,25,4,0,0,1.0,2,2
+gs-accessing-data-mongodb,com.example.accessingdatamongodb,Customer,3,3,3,3,14,3,0,0,0.6666666666666666,1,0
+gs-accessing-data-mongodb,com.example.accessingdatamongodb,CustomerRepository,0,0,2,2,4,2,0,0,-1.0,2,0
+gs-accessing-data-mongodb,com.example.accessingdatamongodb,CustomerRepositoryTests,5,0,4,4,24,4,0,0,0.0,0,2
+gs-accessing-data-mongodb,com.example.accessingdatamongodb,AccessingDataMongodbApplication,0,0,1,1,5,1,0,0,-1.0,0,1
+gs-accessing-data-mongodb,com.example.accessingdatamongodb,AccessingDataMongodbApplicationTests,0,0,1,0,4,1,0,0,-1.0,0,0

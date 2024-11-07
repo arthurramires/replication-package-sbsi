@@ -1,0 +1,9 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+open-liberty-on-aks,cafe.model,CafeRepository,2,0,4,4,22,4,0,0,0.0,2,1
+open-liberty-on-aks,cafe.model,CafeRepository,3,0,5,5,29,5,0,0,0.0,0,1
+open-liberty-on-aks,cafe.model.entity,Coffee,4,0,11,11,48,13,0,0,0.18181818181818182,8,1
+open-liberty-on-aks,cafe.model.entity,Coffee,4,0,11,11,48,13,0,0,0.18181818181818182,0,1
+open-liberty-on-aks,cafe.web.rest,CafeResource,1,0,4,4,15,4,0,0,0.0,0,2
+open-liberty-on-aks,cafe.web.rest,CafeResource,1,0,4,4,15,4,0,0,0.0,0,2
+open-liberty-on-aks,cafe.web.view,Cafe,6,0,10,8,51,10,0,0,0.2,0,1
+open-liberty-on-aks,cafe.web.view,Cafe,7,0,11,9,59,11,0,0,0.18181818181818182,0,1

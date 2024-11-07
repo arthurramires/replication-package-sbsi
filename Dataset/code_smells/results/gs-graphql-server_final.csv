@@ -1,0 +1,19 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC,source_file,NOF,NOPF,NOM,NOPM,WMC,NC,DIT,LCOM,FANIN,FANOUT,Code Smell
+gs-graphql-server,com.example.graphqlserver,BookController,bookById,3.0,1.0,1.0,methodMetrics.csv,,,,,,,,,,,
+gs-graphql-server,com.example.graphqlserver,BookController,author,3.0,1.0,1.0,methodMetrics.csv,,,,,,,,,,,
+gs-graphql-server,com.example.graphqlserver,GraphqlServerApplication,main,3.0,1.0,1.0,methodMetrics.csv,,,,,,,,,,,
+gs-graphql-server,com.example.graphqlserver,BookControllerTests,shouldGetFirstBook,2.0,1.0,0.0,methodMetrics.csv,,,,,,,,,,,
+gs-graphql-server,com.example.graphqlserver,GraphqlServerApplicationTests,contextLoads,2.0,1.0,0.0,methodMetrics.csv,,,,,,,,,,,
+gs-graphql-server,com.example.graphqlserver,GraphqlServerApplication,main,3.0,1.0,1.0,methodMetrics.csv,,,,,,,,,,,
+gs-graphql-server,com.example.graphqlserver,GraphqlServerApplicationTests,contextLoads,2.0,1.0,0.0,methodMetrics.csv,,,,,,,,,,,
+gs-graphql-server,com.example.graphqlserver,BookController,,8.0,,,typeMetrics.csv,0.0,0.0,2.0,2.0,2.0,0.0,0.0,-1.0,0.0,0.0,
+gs-graphql-server,com.example.graphqlserver,GraphqlServerApplication,,5.0,,,typeMetrics.csv,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,2.0,1.0,
+gs-graphql-server,com.example.graphqlserver,BookControllerTests,,5.0,,,typeMetrics.csv,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,
+gs-graphql-server,com.example.graphqlserver,GraphqlServerApplicationTests,,4.0,,,typeMetrics.csv,0.0,0.0,1.0,0.0,1.0,0.0,0.0,-1.0,0.0,0.0,
+gs-graphql-server,com.example.graphqlserver,GraphqlServerApplication,,5.0,,,typeMetrics.csv,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,1.0,
+gs-graphql-server,com.example.graphqlserver,GraphqlServerApplicationTests,,4.0,,,typeMetrics.csv,0.0,0.0,1.0,0.0,1.0,0.0,0.0,-1.0,0.0,0.0,
+gs-graphql-server,com.example.graphqlserver,BookController,,,,,designCodeSmells.csv,,,,,,,,,,,Unutilized Abstraction
+gs-graphql-server,com.example.graphqlserver,BookControllerTests,,,,,designCodeSmells.csv,,,,,,,,,,,Unutilized Abstraction
+gs-graphql-server,com.example.graphqlserver,GraphqlServerApplicationTests,,,,,designCodeSmells.csv,,,,,,,,,,,Unutilized Abstraction
+gs-graphql-server,com.example.graphqlserver,GraphqlServerApplication,,,,,designCodeSmells.csv,,,,,,,,,,,Unutilized Abstraction
+gs-graphql-server,com.example.graphqlserver,GraphqlServerApplicationTests,,,,,designCodeSmells.csv,,,,,,,,,,,Unutilized Abstraction

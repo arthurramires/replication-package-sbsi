@@ -1,0 +1,7 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC
+azure-search-java-samples,azure.search.sample,App,main,18,1,1
+azure-search-java-samples,azure.search.sample,App,uploadDocuments,80,1,1
+azure-search-java-samples,azure.search.sample,App,WriteSearchResults,8,1,1
+azure-search-java-samples,azure.search.sample,App,WriteAutocompleteResults,8,1,1
+azure-search-java-samples,azure.search.sample,App,RunQueries,32,1,1
+azure-search-java-samples,azure.search.sample,Hotel,toString,9,1,0

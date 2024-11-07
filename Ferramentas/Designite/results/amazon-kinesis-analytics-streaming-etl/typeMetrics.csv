@@ -1,0 +1,7 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+amazon-kinesis-analytics-streaming-etl,com.amazonaws.samples.kinesisanalytics.flink.streaming.etl,StreamingEtl,2,0,9,2,135,22,0,0,0.3333333333333333,1,4
+amazon-kinesis-analytics-streaming-etl,com.amazonaws.samples.kinesisanalytics.flink.streaming.etl.utils,AmazonElasticsearchSink,4,0,6,6,38,7,0,0,0.5,1,1
+amazon-kinesis-analytics-streaming-etl,com.amazonaws.samples.kinesisanalytics.flink.streaming.etl.utils,SerializableAWSSigningRequestInterceptor,2,0,2,2,16,3,0,0,0.0,1,0
+amazon-kinesis-analytics-streaming-etl,com.amazonaws.samples.kinesisanalytics.flink.streaming.etl.utils,ParameterToolUtils,0,0,2,2,16,3,0,0,-1.0,2,1
+amazon-kinesis-analytics-streaming-etl,com.amazonaws.samples.kinesisanalytics.flink.streaming.etl.utils,TripEventBucketAssigner,1,0,3,3,12,3,0,0,0.6666666666666666,0,0
+amazon-kinesis-analytics-streaming-etl,com.amazonaws.samples.kinesisanalytics.flink.streaming.etl.utils,TripEventSchema,2,0,8,5,87,8,0,0,0.625,2,1

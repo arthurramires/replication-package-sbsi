@@ -1,0 +1,16 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+quarkus-azure,io.quarkus.sample,IndexResource,0,0,1,1,6,1,0,0,-1.0,0,0
+quarkus-azure,io.quarkus.sample,Todo,5,0,15,15,62,17,0,0,0.13333333333333333,8,1
+quarkus-azure,io.quarkus.sample,TodoRepository,1,0,5,5,18,5,0,0,0.0,2,1
+quarkus-azure,io.quarkus.sample,TodoResource,1,0,7,7,43,10,0,0,0.2857142857142857,0,2
+quarkus-azure,io.quarkus.sample,TodoResourceTest,0,0,6,0,35,6,0,0,-1.0,0,1
+quarkus-azure,io.quarkus.sample,IndexResource,0,0,1,1,6,1,0,0,-1.0,0,0
+quarkus-azure,io.quarkus.sample,Todo,6,0,19,19,101,21,0,0,0.15789473684210525,0,1
+quarkus-azure,io.quarkus.sample,TodoRepository,1,0,5,5,18,5,0,0,0.0,0,1
+quarkus-azure,io.quarkus.sample,TodoResource,1,0,7,7,43,10,0,0,0.2857142857142857,0,2
+quarkus-azure,io.quarkus.sample,TodoResourceTest,0,0,6,0,35,6,0,0,-1.0,0,1
+quarkus-azure,(default package),MavenWrapperDownloader,2,0,4,1,48,8,0,0,0.75,0,0
+quarkus-azure,com.example,ProfilePage,3,0,4,3,17,4,0,0,0.0,0,0
+quarkus-azure,com.example,WelcomePage,1,0,2,2,9,2,0,0,0.0,0,0
+quarkus-azure,io.quarkus,GreetingFunction,0,0,1,1,5,1,0,0,-1.0,0,0
+quarkus-azure,io.quarkus,GreetingTest,0,0,1,1,5,1,0,0,-1.0,0,0

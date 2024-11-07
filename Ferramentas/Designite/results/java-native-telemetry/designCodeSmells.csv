@@ -1,0 +1,21 @@
+Project Name,Package Name,Type Name,Code Smell
+java-native-telemetry,com.azure.examples.quarkus.superhero.data,ConferenceException,Unutilized Abstraction
+java-native-telemetry,com.azure.examples.quarkus.superhero.data,HeroItem,Insufficient Modularization
+java-native-telemetry,com.azure.examples.quarkus.superhero.data,HeroItemBuilder,Unutilized Abstraction
+java-native-telemetry,com.azure.examples.quarkus.superhero.data,VeggieItemBuilder,Unutilized Abstraction
+java-native-telemetry,com.azure.examples.quarkus.superhero.model,Hero,Insufficient Modularization
+java-native-telemetry,com.azure.examples.quarkus.superhero.model,HeroBuilder,Unutilized Abstraction
+java-native-telemetry,com.azure.examples.quarkus.superhero.resource,HeroResource,Unutilized Abstraction
+java-native-telemetry,com.azure.examples.quarkus.superhero.message,SuperHeroCreatorTest,Unutilized Abstraction
+java-native-telemetry,com.azure.examples.quarkus.data,VeggieItemBuilder,Unutilized Abstraction
+java-native-telemetry,com.azure.examples.quarkus.data,VeggieNewBuilder,Unutilized Abstraction
+java-native-telemetry,com.azure.examples.quarkus.metrics,RequestContext,Unutilized Abstraction
+java-native-telemetry,com.azure.examples.quarkus.model,VeggieBuilder,Unutilized Abstraction
+java-native-telemetry,com.azure.examples.quarkus.resource,VeggieResource,Unutilized Abstraction
+java-native-telemetry,com.azure.examples.quarkus,VeggieResourceTest,Unutilized Abstraction
+java-native-telemetry,com.azure.examples.springboot.controller,VeggieController,Unutilized Abstraction
+java-native-telemetry,com.azure.examples.springboot.data,VeggieItemBuilder,Unutilized Abstraction
+java-native-telemetry,com.azure.examples.springboot,HttpCallConfig,Unutilized Abstraction
+java-native-telemetry,com.azure.examples.springboot,SpringBootResource,Unutilized Abstraction
+java-native-telemetry,com.azure.examples.springboot.model,VeggieBuilder,Unutilized Abstraction
+java-native-telemetry,com.azure.examples.springboot.repository,VeggieRepository,Unnecessary Abstraction

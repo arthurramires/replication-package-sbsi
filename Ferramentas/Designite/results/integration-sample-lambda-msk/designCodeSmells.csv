@@ -1,0 +1,9 @@
+Project Name,Package Name,Type Name,Code Smell
+integration-sample-lambda-msk,com.amazonaws.kafka.samples,HandlerMSK,Unutilized Abstraction
+integration-sample-lambda-msk,com.amazonaws.kafka.samples,ProcessRecords,Unutilized Abstraction
+integration-sample-lambda-msk,com.amazonaws.kafka.samples,SendFirehoseAsyncHandler,Unutilized Abstraction
+integration-sample-lambda-msk,samples.clickstream.avro,ClickEvent,Deficient Encapsulation
+integration-sample-lambda-msk,samples.clickstream.avro,ClickEvent,Cyclic-Dependent Modularization
+integration-sample-lambda-msk,samples.clickstream.avro,ClickEvent,Insufficient Modularization
+integration-sample-lambda-msk,samples.clickstream.avro,Builder,Cyclic-Dependent Modularization
+integration-sample-lambda-msk,samples.clickstream.avro,Builder,Insufficient Modularization

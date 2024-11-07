@@ -1,0 +1,7 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+gs-accessing-data-rest,com.example.accessingdatarest,AccessingDataRestApplication,0,0,1,1,5,1,0,0,-1.0,2,1
+gs-accessing-data-rest,com.example.accessingdatarest,Person,3,0,4,4,17,4,0,0,0.5,0,0
+gs-accessing-data-rest,com.example.accessingdatarest,PersonRepository,0,0,1,0,3,1,0,0,-1.0,1,0
+gs-accessing-data-rest,com.example.accessingdatarest,AccessingDataRestApplicationTests,2,0,8,8,40,8,0,0,0.25,0,1
+gs-accessing-data-rest,com.example.accessingdatarest,AccessingDataRestApplication,0,0,1,1,5,1,0,0,-1.0,0,1
+gs-accessing-data-rest,com.example.accessingdatarest,AccessingDataRestApplicationTests,0,0,1,0,4,1,0,0,-1.0,0,0

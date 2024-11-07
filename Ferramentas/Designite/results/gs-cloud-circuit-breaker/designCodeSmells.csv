@@ -1,0 +1,7 @@
+Project Name,Package Name,Type Name,Code Smell
+gs-cloud-circuit-breaker,hello,BookstoreApplicationTests,Unutilized Abstraction
+gs-cloud-circuit-breaker,hello,ReadingApplicationTests,Unutilized Abstraction
+gs-cloud-circuit-breaker,hello,BookstoreApplication,Unutilized Abstraction
+gs-cloud-circuit-breaker,hello,BookstoreApplicationTests,Unutilized Abstraction
+gs-cloud-circuit-breaker,hello,ReadingApplication,Unutilized Abstraction
+gs-cloud-circuit-breaker,hello,ReadingApplicationTests,Unutilized Abstraction

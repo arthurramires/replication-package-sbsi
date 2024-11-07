@@ -1,0 +1,2 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+aws-athena-udfs-textanalytics,com.amazonaws.athena.udf.textanalytics,TextAnalyticsUDFHandler,5,2,71,28,1127,177,0,0,0.028169014084507043,1,1

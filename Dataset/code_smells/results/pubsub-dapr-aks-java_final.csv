@@ -1,0 +1,232 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell,source_file,MethodName,LOC,CC,PC,NOF,NOPF,NOM,NOPM,WMC,NC,DIT,LCOM,FANIN,FANOUT
+pubsub-dapr-aks-java,com.azdaks.accountservice.controller,TransferEventController,handleTransferRequest,Long Identifier,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.fraudservice.controller,TransferEventController,handleTransferRequest,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.notificationservice.controller,TransferEventController,handleTransferRequest,Long Identifier,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.publicapiservice.config,AccountServiceConfiguration,getObjectMapper,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.publicapiservice.controller,AccountsController,createAccount,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.publicapiservice.controller,StatesController,handleStateRequest,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.publicapiservice.controller,TransfersController,createTransferRequest,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.publicapiservice.controller,TransfersController,createTransferRequest,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.publicapiservice.model,AccountResponse,generateId,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.publicapiservice.model,TransferRequest,generateId,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e.api,ApiRequest,buildPostRequest,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e.endpoint,CreateFraudMoneyTransferEndpoint,createRequest,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e.endpoint,CreateMoneyTransferEndpoint,createRequest,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,Main,main,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,Main,main,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,Main,main,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,Main,main,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,Main,main,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,testApplicationIsRunning,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,testApplicationIsRunning,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,testApplicationIsRunning,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,testApplicationIsRunning,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,testCreateAccount,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,testCreateAccount,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,testCreateAccount,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,testCreateAccount,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,testCreateMoneyTransfer,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,testCreateMoneyTransfer,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,testCreateMoneyTransfer,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,testCreateMoneyTransfer,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,testMoneyTransferCompletion,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,testMoneyTransferCompletion,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,testMoneyTransferCompletion,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,testMoneyTransferCompletion,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,testMoneyTransferCompletion,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,testMoneyTransferCompletion,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,testMoneyTransferCompletion,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,testMoneyTransferCompletion,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,testMoneyTransferCompletion,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,testAccountBalanceAfterTransfer,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,testAccountBalanceAfterTransfer,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,testAccountBalanceAfterTransfer,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,testAccountBalanceAfterTransfer,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,testAccountBalanceAfterTransfer,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,testFraudMoneyTransfer,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,testFraudMoneyTransfer,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,testFraudMoneyTransfer,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,testFraudMoneyTransfer,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,testFraudMoneyTransfer,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,testFraudMoneyTransfer,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,testFraudMoneyTransfer,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,testFraudMoneyTransfer,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,testInsufficientFundsMoneyTransfer,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,testInsufficientFundsMoneyTransfer,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,testInsufficientFundsMoneyTransfer,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,testInsufficientFundsMoneyTransfer,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,testInsufficientFundsMoneyTransfer,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,testInsufficientFundsMoneyTransfer,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,testInsufficientFundsMoneyTransfer,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,testInsufficientFundsMoneyTransfer,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,testInsufficientFundsMoneyTransfer,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,testInsufficientFundsMoneyTransfer,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,testInsufficientFundsMoneyTransfer,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.accountservice,AccountServiceApplication,,,methodMetrics.csv,main,3.0,1.0,1.0,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.accountservice,AccountServiceApplicationTests,,,methodMetrics.csv,contextLoads,2.0,1.0,0.0,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.accountservice.config,AccountServiceConfiguration,,,methodMetrics.csv,getDaprClient,3.0,1.0,0.0,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.accountservice.controller,AccountsEventController,,,methodMetrics.csv,handleAccountRequest,16.0,1.0,1.0,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.accountservice.controller,TransferEventController,,,methodMetrics.csv,handleTransferRequest,35.0,2.0,1.0,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.accountservice.controller,TransferEventController,,,methodMetrics.csv,publishStateRequest,5.0,1.0,2.0,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.accountservice.model,CreateAccountRequest,,,methodMetrics.csv,toString,3.0,1.0,0.0,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.accountservice.model,StateRequest,,,methodMetrics.csv,toString,3.0,1.0,0.0,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.accountservice.model,TransferRequest,,,methodMetrics.csv,toString,3.0,1.0,0.0,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.fraudservice.config,FraudServiceConfiguration,,,methodMetrics.csv,getDaprClient,3.0,1.0,0.0,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.fraudservice.controller,TransferEventController,,,methodMetrics.csv,handleTransferRequest,24.0,2.0,1.0,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.fraudservice.controller,TransferEventController,,,methodMetrics.csv,publishStateRequest,5.0,1.0,2.0,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.fraudservice,FraudServiceApplication,,,methodMetrics.csv,main,5.0,1.0,1.0,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.fraudservice,FraudServiceApplicationTests,,,methodMetrics.csv,contextLoads,2.0,1.0,0.0,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.fraudservice.model,StateRequest,,,methodMetrics.csv,toString,3.0,1.0,0.0,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.fraudservice.model,TransferRequest,,,methodMetrics.csv,toString,3.0,1.0,0.0,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.notificationservice.config,AccountServiceConfiguration,,,methodMetrics.csv,getDaprClient,3.0,1.0,0.0,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.notificationservice.controller,TransferEventController,,,methodMetrics.csv,handleTransferRequest,17.0,1.0,1.0,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.notificationservice.controller,TransferEventController,,,methodMetrics.csv,publishStateRequest,5.0,1.0,2.0,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.notificationservice.model,StateRequest,,,methodMetrics.csv,toString,3.0,1.0,0.0,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.notificationservice.model,TransferRequest,,,methodMetrics.csv,toString,3.0,1.0,0.0,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.notificationservice,NotificationServiceApplication,,,methodMetrics.csv,main,3.0,1.0,1.0,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.notificationservice,NotificationServiceApplicationTests,,,methodMetrics.csv,contextLoads,2.0,1.0,0.0,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.publicapiservice.config,AccountServiceConfiguration,,,methodMetrics.csv,getDaprClient,3.0,1.0,0.0,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.publicapiservice.config,AccountServiceConfiguration,,,methodMetrics.csv,getObjectMapper,3.0,1.0,0.0,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.publicapiservice.controller,AccountsController,,,methodMetrics.csv,createAccount,9.0,1.0,1.0,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.publicapiservice.controller,AccountsController,,,methodMetrics.csv,getAccount,5.0,1.0,1.0,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.publicapiservice.controller,AccountsController,,,methodMetrics.csv,handleAccountRequest,16.0,1.0,1.0,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.publicapiservice.controller,HomeController,,,methodMetrics.csv,getHome,7.0,1.0,0.0,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.publicapiservice.controller,StatesController,,,methodMetrics.csv,handleStateRequest,20.0,1.0,1.0,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.publicapiservice.controller,TransfersController,,,methodMetrics.csv,createTransferRequest,22.0,1.0,1.0,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.publicapiservice.controller,TransfersController,,,methodMetrics.csv,getTransferRequest,18.0,2.0,1.0,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.publicapiservice.model,AccountResponse,,,methodMetrics.csv,toString,3.0,1.0,0.0,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.publicapiservice.model,AccountResponse,,,methodMetrics.csv,generateId,3.0,1.0,0.0,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.publicapiservice.model,CreateAccountRequest,,,methodMetrics.csv,toString,3.0,1.0,0.0,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.publicapiservice.model,StateRequest,,,methodMetrics.csv,toString,3.0,1.0,0.0,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.publicapiservice.model,TransferRequest,,,methodMetrics.csv,toString,3.0,1.0,0.0,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.publicapiservice.model,TransferRequest,,,methodMetrics.csv,generateId,3.0,1.0,0.0,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.publicapiservice,PublicApiServiceApplication,,,methodMetrics.csv,main,5.0,1.0,1.0,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.publicapiservice,PublicApiServiceApplicationTests,,,methodMetrics.csv,contextLoads,2.0,1.0,0.0,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e.api,ApiClient,,,methodMetrics.csv,send,7.0,1.0,1.0,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e.api,ApiRequest,,,methodMetrics.csv,buildGetRequest,3.0,1.0,1.0,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e.api,ApiRequest,,,methodMetrics.csv,buildPostRequest,3.0,1.0,2.0,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e.endpoint,CreateAccountEndpoint,,,methodMetrics.csv,createRequest,6.0,1.0,2.0,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e.endpoint,CreateFraudMoneyTransferEndpoint,,,methodMetrics.csv,createRequest,6.0,1.0,2.0,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e.endpoint,CreateMoneyTransferEndpoint,,,methodMetrics.csv,createRequest,6.0,1.0,2.0,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e.endpoint,Endpoint,,,methodMetrics.csv,createRequest,0.0,1.0,2.0,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e.endpoint,GetAccountEndpoint,,,methodMetrics.csv,createRequest,3.0,1.0,2.0,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e.endpoint,GetMoneyTransferEndpoint,,,methodMetrics.csv,createRequest,3.0,1.0,2.0,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e.endpoint,HomeEndpoint,,,methodMetrics.csv,createRequest,3.0,1.0,2.0,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,Main,,,methodMetrics.csv,main,8.0,1.0,1.0,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,,,methodMetrics.csv,TestRunner,5.0,1.0,1.0,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,,,methodMetrics.csv,run,16.0,1.0,0.0,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,,,methodMetrics.csv,testApplicationIsRunning,6.0,1.0,0.0,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,,,methodMetrics.csv,testCreateAccount,7.0,1.0,0.0,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,,,methodMetrics.csv,testCreateMoneyTransfer,7.0,1.0,0.0,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,,,methodMetrics.csv,testMoneyTransferCompletion,12.0,1.0,0.0,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,,,methodMetrics.csv,testAccountBalanceAfterTransfer,8.0,1.0,0.0,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,,,methodMetrics.csv,testFraudMoneyTransfer,12.0,1.0,0.0,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,,,methodMetrics.csv,testInsufficientFundsMoneyTransfer,19.0,1.0,0.0,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e.util,Assert,,,methodMetrics.csv,matchesStatusCode,7.0,2.0,4.0,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e.util,Assert,,,methodMetrics.csv,contentContains,7.0,2.0,4.0,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e.util,Assert,,,methodMetrics.csv,contentMatches,7.0,2.0,4.0,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e.util,Assert,,,methodMetrics.csv,contentMatches,7.0,2.0,4.0,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e.util,Print,,,methodMetrics.csv,section,5.0,1.0,1.0,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e.util,Print,,,methodMetrics.csv,message,3.0,1.0,1.0,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e.util,Print,,,methodMetrics.csv,response,3.0,1.0,1.0,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e.util,Print,,,methodMetrics.csv,request,3.0,1.0,1.0,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.accountservice,AccountServiceApplication,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,1.0,1.0
+pubsub-dapr-aks-java,com.azdaks.accountservice,AccountServiceApplicationTests,,,typeMetrics.csv,,4.0,,,0.0,0.0,1.0,0.0,1.0,0.0,0.0,-1.0,0.0,0.0
+pubsub-dapr-aks-java,com.azdaks.accountservice.config,AccountServiceConfiguration,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,0.0
+pubsub-dapr-aks-java,com.azdaks.accountservice.controller,AccountsEventController,,,typeMetrics.csv,,23.0,,,5.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+pubsub-dapr-aks-java,com.azdaks.accountservice.controller,TransferEventController,,,typeMetrics.csv,,50.0,,,8.0,0.0,2.0,1.0,3.0,0.0,0.0,0.0,0.0,2.0
+pubsub-dapr-aks-java,com.azdaks.accountservice.model,CreateAccountRequest,,,typeMetrics.csv,,7.0,,,2.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0
+pubsub-dapr-aks-java,com.azdaks.accountservice.model,StateRequest,,,typeMetrics.csv,,7.0,,,2.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0
+pubsub-dapr-aks-java,com.azdaks.accountservice.model,TransferRequest,,,typeMetrics.csv,,9.0,,,4.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+pubsub-dapr-aks-java,com.azdaks.fraudservice.config,FraudServiceConfiguration,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,0.0
+pubsub-dapr-aks-java,com.azdaks.fraudservice.controller,TransferEventController,,,typeMetrics.csv,,37.0,,,6.0,0.0,2.0,1.0,3.0,0.0,0.0,0.0,0.0,1.0
+pubsub-dapr-aks-java,com.azdaks.fraudservice,FraudServiceApplication,,,typeMetrics.csv,,8.0,,,1.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0
+pubsub-dapr-aks-java,com.azdaks.fraudservice,FraudServiceApplicationTests,,,typeMetrics.csv,,4.0,,,0.0,0.0,1.0,0.0,1.0,0.0,0.0,-1.0,0.0,0.0
+pubsub-dapr-aks-java,com.azdaks.fraudservice.model,StateRequest,,,typeMetrics.csv,,7.0,,,2.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0
+pubsub-dapr-aks-java,com.azdaks.fraudservice.model,TransferRequest,,,typeMetrics.csv,,9.0,,,4.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+pubsub-dapr-aks-java,com.azdaks.notificationservice.config,AccountServiceConfiguration,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,0.0
+pubsub-dapr-aks-java,com.azdaks.notificationservice.controller,TransferEventController,,,typeMetrics.csv,,29.0,,,5.0,0.0,2.0,1.0,2.0,0.0,0.0,0.0,0.0,1.0
+pubsub-dapr-aks-java,com.azdaks.notificationservice.model,StateRequest,,,typeMetrics.csv,,7.0,,,2.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0
+pubsub-dapr-aks-java,com.azdaks.notificationservice.model,TransferRequest,,,typeMetrics.csv,,9.0,,,4.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+pubsub-dapr-aks-java,com.azdaks.notificationservice,NotificationServiceApplication,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,1.0,1.0
+pubsub-dapr-aks-java,com.azdaks.notificationservice,NotificationServiceApplicationTests,,,typeMetrics.csv,,4.0,,,0.0,0.0,1.0,0.0,1.0,0.0,0.0,-1.0,0.0,0.0
+pubsub-dapr-aks-java,com.azdaks.publicapiservice.config,AccountServiceConfiguration,,,typeMetrics.csv,,8.0,,,0.0,0.0,2.0,2.0,2.0,0.0,0.0,-1.0,0.0,0.0
+pubsub-dapr-aks-java,com.azdaks.publicapiservice.controller,AccountsController,,,typeMetrics.csv,,38.0,,,6.0,0.0,3.0,3.0,3.0,0.0,0.0,0.0,0.0,3.0
+pubsub-dapr-aks-java,com.azdaks.publicapiservice.controller,HomeController,,,typeMetrics.csv,,10.0,,,1.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+pubsub-dapr-aks-java,com.azdaks.publicapiservice.controller,StatesController,,,typeMetrics.csv,,27.0,,,5.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+pubsub-dapr-aks-java,com.azdaks.publicapiservice.controller,TransfersController,,,typeMetrics.csv,,48.0,,,6.0,0.0,2.0,2.0,3.0,0.0,0.0,0.0,0.0,4.0
+pubsub-dapr-aks-java,com.azdaks.publicapiservice.model,AccountResponse,,,typeMetrics.csv,,10.0,,,2.0,0.0,2.0,2.0,2.0,0.0,0.0,1.0,2.0,0.0
+pubsub-dapr-aks-java,com.azdaks.publicapiservice.model,CreateAccountRequest,,,typeMetrics.csv,,7.0,,,2.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0
+pubsub-dapr-aks-java,com.azdaks.publicapiservice.model,CreateAccountResponse,,,typeMetrics.csv,,4.0,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.0,1.0,1.0
+pubsub-dapr-aks-java,com.azdaks.publicapiservice.model,HomeResponse,,,typeMetrics.csv,,3.0,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.0,1.0,0.0
+pubsub-dapr-aks-java,com.azdaks.publicapiservice.model,MoneyTransfer,,,typeMetrics.csv,,7.0,,,5.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.0,2.0,0.0
+pubsub-dapr-aks-java,com.azdaks.publicapiservice.model,StateRequest,,,typeMetrics.csv,,7.0,,,2.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+pubsub-dapr-aks-java,com.azdaks.publicapiservice.model,TransferRequest,,,typeMetrics.csv,,12.0,,,4.0,0.0,2.0,2.0,2.0,0.0,0.0,1.0,1.0,0.0
+pubsub-dapr-aks-java,com.azdaks.publicapiservice.model,TransferResponse,,,typeMetrics.csv,,5.0,,,3.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.0,1.0,0.0
+pubsub-dapr-aks-java,com.azdaks.publicapiservice.model,TransferStatus,,,typeMetrics.csv,,6.0,,,4.0,4.0,0.0,0.0,0.0,0.0,0.0,-1.0,1.0,0.0
+pubsub-dapr-aks-java,com.azdaks.publicapiservice,PublicApiServiceApplication,,,typeMetrics.csv,,8.0,,,1.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0
+pubsub-dapr-aks-java,com.azdaks.publicapiservice,PublicApiServiceApplicationTests,,,typeMetrics.csv,,4.0,,,0.0,0.0,1.0,0.0,1.0,0.0,0.0,-1.0,0.0,0.0
+pubsub-dapr-aks-java,org.azdaks.test.e2e.api,ApiClient,,,typeMetrics.csv,,13.0,,,4.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,4.0
+pubsub-dapr-aks-java,org.azdaks.test.e2e.api,ApiRequest,,,typeMetrics.csv,,8.0,,,0.0,0.0,2.0,2.0,2.0,0.0,0.0,-1.0,6.0,0.0
+pubsub-dapr-aks-java,org.azdaks.test.e2e.api,ApiResponse,,,typeMetrics.csv,,4.0,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.0,1.0,0.0
+pubsub-dapr-aks-java,org.azdaks.test.e2e.contract.request,CreateAccountRequest,,,typeMetrics.csv,,4.0,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.0,1.0,0.0
+pubsub-dapr-aks-java,org.azdaks.test.e2e.contract.request,CreateTransferRequest,,,typeMetrics.csv,,5.0,,,3.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.0,2.0,0.0
+pubsub-dapr-aks-java,org.azdaks.test.e2e.contract.response,AccountResponse,,,typeMetrics.csv,,4.0,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.0,2.0,0.0
+pubsub-dapr-aks-java,org.azdaks.test.e2e.contract.response,CreateAccountResponse,,,typeMetrics.csv,,4.0,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.0,1.0,1.0
+pubsub-dapr-aks-java,org.azdaks.test.e2e.contract.response,HomeResponse,,,typeMetrics.csv,,3.0,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.0,1.0,0.0
+pubsub-dapr-aks-java,org.azdaks.test.e2e.contract.response,TransferResponse,,,typeMetrics.csv,,8.0,,,6.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.0,1.0,0.0
+pubsub-dapr-aks-java,org.azdaks.test.e2e.endpoint,CreateAccountEndpoint,,,typeMetrics.csv,,8.0,,,0.0,0.0,1.0,1.0,1.0,0.0,1.0,-1.0,0.0,4.0
+pubsub-dapr-aks-java,org.azdaks.test.e2e.endpoint,CreateFraudMoneyTransferEndpoint,,,typeMetrics.csv,,8.0,,,0.0,0.0,1.0,1.0,1.0,0.0,1.0,-1.0,0.0,4.0
+pubsub-dapr-aks-java,org.azdaks.test.e2e.endpoint,CreateMoneyTransferEndpoint,,,typeMetrics.csv,,8.0,,,0.0,0.0,1.0,1.0,1.0,0.0,1.0,-1.0,0.0,4.0
+pubsub-dapr-aks-java,org.azdaks.test.e2e.endpoint,Endpoint,,,typeMetrics.csv,,3.0,,,0.0,0.0,1.0,0.0,1.0,6.0,0.0,-1.0,1.0,1.0
+pubsub-dapr-aks-java,org.azdaks.test.e2e.endpoint,GetAccountEndpoint,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,1.0,-1.0,0.0,2.0
+pubsub-dapr-aks-java,org.azdaks.test.e2e.endpoint,GetMoneyTransferEndpoint,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,1.0,-1.0,0.0,2.0
+pubsub-dapr-aks-java,org.azdaks.test.e2e.endpoint,HomeEndpoint,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,1.0,-1.0,0.0,2.0
+pubsub-dapr-aks-java,org.azdaks.test.e2e,Main,,,typeMetrics.csv,,12.0,,,2.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,,,typeMetrics.csv,,97.0,,,3.0,0.0,9.0,8.0,9.0,0.0,0.0,0.0,0.0,8.0
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestSettings,,,typeMetrics.csv,,9.0,,,7.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.0,10.0,0.0
+pubsub-dapr-aks-java,org.azdaks.test.e2e.util,Assert,,,typeMetrics.csv,,30.0,,,0.0,0.0,4.0,4.0,8.0,0.0,0.0,-1.0,1.0,1.0
+pubsub-dapr-aks-java,org.azdaks.test.e2e.util,Print,,,typeMetrics.csv,,16.0,,,0.0,0.0,4.0,4.0,4.0,0.0,0.0,-1.0,6.0,0.0
+pubsub-dapr-aks-java,com.azdaks.accountservice,AccountServiceApplicationTests,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.accountservice.config,AccountServiceConfiguration,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.accountservice.controller,AccountsEventController,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.accountservice.controller,TransferEventController,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.accountservice.model,TransferRequest,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.fraudservice.config,FraudServiceConfiguration,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.fraudservice.controller,TransferEventController,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.fraudservice,FraudServiceApplicationTests,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.fraudservice.model,TransferRequest,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.notificationservice.config,AccountServiceConfiguration,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.notificationservice.controller,TransferEventController,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.notificationservice.model,TransferRequest,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.notificationservice,NotificationServiceApplicationTests,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.publicapiservice.config,AccountServiceConfiguration,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.publicapiservice.controller,AccountsController,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.publicapiservice.controller,HomeController,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.publicapiservice.controller,StatesController,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.publicapiservice.controller,TransfersController,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.publicapiservice.model,CreateAccountResponse,,Unnecessary Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.publicapiservice.model,HomeResponse,,Unnecessary Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.publicapiservice.model,MoneyTransfer,,Unnecessary Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.publicapiservice.model,MoneyTransfer,,Broken Modularization,designCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.publicapiservice.model,StateRequest,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.publicapiservice.model,TransferResponse,,Unnecessary Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.publicapiservice.model,TransferStatus,,Unnecessary Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.publicapiservice.model,TransferStatus,,Deficient Encapsulation,designCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,com.azdaks.publicapiservice,PublicApiServiceApplicationTests,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e.api,ApiResponse,,Unnecessary Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e.contract.request,CreateAccountRequest,,Unnecessary Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e.contract.request,CreateTransferRequest,,Unnecessary Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e.contract.response,AccountResponse,,Unnecessary Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e.contract.response,CreateAccountResponse,,Unnecessary Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e.contract.response,HomeResponse,,Unnecessary Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e.contract.response,TransferResponse,,Broken Modularization,designCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e.endpoint,CreateAccountEndpoint,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e.endpoint,CreateFraudMoneyTransferEndpoint,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e.endpoint,CreateMoneyTransferEndpoint,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e.endpoint,GetAccountEndpoint,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e.endpoint,GetMoneyTransferEndpoint,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e.endpoint,HomeEndpoint,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,Main,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestRunner,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+pubsub-dapr-aks-java,org.azdaks.test.e2e,TestSettings,,Broken Modularization,designCodeSmells.csv,,,,,,,,,,,,,,

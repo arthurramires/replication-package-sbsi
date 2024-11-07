@@ -1,0 +1,17 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC
+gs-accessing-data-rest,com.example.accessingdatarest,AccessingDataRestApplication,main,3,1,1
+gs-accessing-data-rest,com.example.accessingdatarest,Person,getFirstName,3,1,0
+gs-accessing-data-rest,com.example.accessingdatarest,Person,setFirstName,3,1,1
+gs-accessing-data-rest,com.example.accessingdatarest,Person,getLastName,3,1,0
+gs-accessing-data-rest,com.example.accessingdatarest,Person,setLastName,3,1,1
+gs-accessing-data-rest,com.example.accessingdatarest,PersonRepository,findByLastName,0,1,1
+gs-accessing-data-rest,com.example.accessingdatarest,AccessingDataRestApplicationTests,deleteAllBeforeTests,3,1,0
+gs-accessing-data-rest,com.example.accessingdatarest,AccessingDataRestApplicationTests,shouldReturnRepositoryIndex,3,1,0
+gs-accessing-data-rest,com.example.accessingdatarest,AccessingDataRestApplicationTests,shouldCreateEntity,3,1,0
+gs-accessing-data-rest,com.example.accessingdatarest,AccessingDataRestApplicationTests,shouldRetrieveEntity,5,1,0
+gs-accessing-data-rest,com.example.accessingdatarest,AccessingDataRestApplicationTests,shouldQueryEntity,4,1,0
+gs-accessing-data-rest,com.example.accessingdatarest,AccessingDataRestApplicationTests,shouldUpdateEntity,6,1,0
+gs-accessing-data-rest,com.example.accessingdatarest,AccessingDataRestApplicationTests,shouldPartiallyUpdateEntity,6,1,0
+gs-accessing-data-rest,com.example.accessingdatarest,AccessingDataRestApplicationTests,shouldDeleteEntity,6,1,0
+gs-accessing-data-rest,com.example.accessingdatarest,AccessingDataRestApplication,main,3,1,1
+gs-accessing-data-rest,com.example.accessingdatarest,AccessingDataRestApplicationTests,contextLoads,2,1,0

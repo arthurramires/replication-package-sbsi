@@ -1,0 +1,7 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC
+feign-eureka,demo,HelloClientApplication,hello,3,1,0
+feign-eureka,demo,HelloClientApplication,main,3,1,1
+feign-eureka,demo,HelloClientApplication,hello,0,1,0
+feign-eureka,demo,HelloClient,hello,0,1,0
+feign-eureka,demo,HelloServerApplication,hello,5,1,0
+feign-eureka,demo,HelloServerApplication,main,3,1,1

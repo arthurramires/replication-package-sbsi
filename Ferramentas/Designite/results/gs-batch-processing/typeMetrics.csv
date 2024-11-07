@@ -1,0 +1,7 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+gs-batch-processing,com.example.batchprocessing,BatchConfiguration,0,0,5,5,17,5,0,0,-1.0,0,2
+gs-batch-processing,com.example.batchprocessing,BatchProcessingApplication,0,0,1,1,5,1,0,0,-1.0,2,1
+gs-batch-processing,com.example.batchprocessing,JobCompletionNotificationListener,2,0,2,2,13,3,0,0,0.0,1,0
+gs-batch-processing,com.example.batchprocessing,PersonItemProcessor,1,0,1,1,10,1,0,0,0.0,1,0
+gs-batch-processing,com.example.batchprocessing,BatchConfigurationTest,3,0,3,0,15,3,0,0,0.6666666666666666,0,0
+gs-batch-processing,com.example.batchprocessing,BatchProcessingApplication,0,0,1,1,5,1,0,0,-1.0,0,1

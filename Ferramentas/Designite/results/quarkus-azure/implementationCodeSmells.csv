@@ -1,0 +1,49 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell
+quarkus-azure,io.quarkus.sample,Todo,Todo,Long Parameter List
+quarkus-azure,io.quarkus.sample,Todo,toString,Long Statement
+quarkus-azure,io.quarkus.sample,TodoResourceTest,testInitialItems,Long Statement
+quarkus-azure,io.quarkus.sample,TodoResourceTest,testInitialItems,Long Statement
+quarkus-azure,io.quarkus.sample,TodoResourceTest,testInitialItems,Magic Number
+quarkus-azure,io.quarkus.sample,TodoResourceTest,testAddingAnItem,Long Statement
+quarkus-azure,io.quarkus.sample,TodoResourceTest,testAddingAnItem,Long Statement
+quarkus-azure,io.quarkus.sample,TodoResourceTest,testAddingAnItem,Magic Number
+quarkus-azure,io.quarkus.sample,TodoResourceTest,testAddingAnItem,Magic Number
+quarkus-azure,io.quarkus.sample,TodoResourceTest,testAddingAnItem,Magic Number
+quarkus-azure,io.quarkus.sample,TodoResourceTest,testUpdatingAnItem,Long Statement
+quarkus-azure,io.quarkus.sample,TodoResourceTest,testUpdatingAnItem,Magic Number
+quarkus-azure,io.quarkus.sample,TodoResourceTest,testUpdatingAnItem,Magic Number
+quarkus-azure,io.quarkus.sample,TodoResourceTest,testUpdatingAnItem,Magic Number
+quarkus-azure,io.quarkus.sample,TodoResourceTest,testDeletingAnItem,Long Statement
+quarkus-azure,io.quarkus.sample,TodoResourceTest,testDeletingAnItem,Long Statement
+quarkus-azure,io.quarkus.sample,TodoResourceTest,testDeletingAnItem,Magic Number
+quarkus-azure,io.quarkus.sample,TodoResourceTest,testDeletingAnItem,Magic Number
+quarkus-azure,io.quarkus.sample,TodoResourceTest,testDeletingAnItem,Magic Number
+quarkus-azure,io.quarkus.sample,TodoResourceTest,testDeleteCompleted,Long Statement
+quarkus-azure,io.quarkus.sample,TodoResourceTest,testDeleteCompleted,Magic Number
+quarkus-azure,io.quarkus.sample,TodoResourceTest,testDeleteCompleted,Magic Number
+quarkus-azure,io.quarkus.sample,Todo,Todo,Long Parameter List
+quarkus-azure,io.quarkus.sample,Todo,toString,Long Statement
+quarkus-azure,io.quarkus.sample,TodoResourceTest,testInitialItems,Long Statement
+quarkus-azure,io.quarkus.sample,TodoResourceTest,testInitialItems,Long Statement
+quarkus-azure,io.quarkus.sample,TodoResourceTest,testInitialItems,Magic Number
+quarkus-azure,io.quarkus.sample,TodoResourceTest,testAddingAnItem,Long Statement
+quarkus-azure,io.quarkus.sample,TodoResourceTest,testAddingAnItem,Long Statement
+quarkus-azure,io.quarkus.sample,TodoResourceTest,testAddingAnItem,Magic Number
+quarkus-azure,io.quarkus.sample,TodoResourceTest,testAddingAnItem,Magic Number
+quarkus-azure,io.quarkus.sample,TodoResourceTest,testAddingAnItem,Magic Number
+quarkus-azure,io.quarkus.sample,TodoResourceTest,testUpdatingAnItem,Long Statement
+quarkus-azure,io.quarkus.sample,TodoResourceTest,testUpdatingAnItem,Magic Number
+quarkus-azure,io.quarkus.sample,TodoResourceTest,testUpdatingAnItem,Magic Number
+quarkus-azure,io.quarkus.sample,TodoResourceTest,testUpdatingAnItem,Magic Number
+quarkus-azure,io.quarkus.sample,TodoResourceTest,testDeletingAnItem,Long Statement
+quarkus-azure,io.quarkus.sample,TodoResourceTest,testDeletingAnItem,Long Statement
+quarkus-azure,io.quarkus.sample,TodoResourceTest,testDeletingAnItem,Magic Number
+quarkus-azure,io.quarkus.sample,TodoResourceTest,testDeletingAnItem,Magic Number
+quarkus-azure,io.quarkus.sample,TodoResourceTest,testDeletingAnItem,Magic Number
+quarkus-azure,io.quarkus.sample,TodoResourceTest,testDeleteCompleted,Long Statement
+quarkus-azure,io.quarkus.sample,TodoResourceTest,testDeleteCompleted,Magic Number
+quarkus-azure,io.quarkus.sample,TodoResourceTest,testDeleteCompleted,Magic Number
+quarkus-azure,(default package),MavenWrapperDownloader,main,Magic Number
+quarkus-azure,com.example,ProfilePage,getProfile,Long Statement
+quarkus-azure,io.quarkus,GreetingTest,testFunqy,Long Statement
+quarkus-azure,io.quarkus,GreetingTest,testFunqy,Magic Number

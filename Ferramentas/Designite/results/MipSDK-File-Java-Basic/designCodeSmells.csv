@@ -1,0 +1,5 @@
+Project Name,Package Name,Type Name,Code Smell
+MipSDK-File-Java-Basic,com.microsoft.mipsdksample,App,Unutilized Abstraction
+MipSDK-File-Java-Basic,com.microsoft.mipsdksample,FileOptions,Deficient Encapsulation
+MipSDK-File-Java-Basic,com.microsoft.mipsdksample,FileOptions,Broken Modularization
+MipSDK-File-Java-Basic,com.microsoft.mipsdksample,AppTest,Unutilized Abstraction

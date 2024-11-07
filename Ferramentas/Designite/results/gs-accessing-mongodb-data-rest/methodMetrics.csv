@@ -1,0 +1,17 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,AccessingMongodbDataRestApplication,main,3,1,1
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,Person,getFirstName,3,1,0
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,Person,setFirstName,3,1,1
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,Person,getLastName,3,1,0
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,Person,setLastName,3,1,1
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,PersonRepository,findByLastName,0,1,1
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,AccessingMongodbDataRestApplicationTests,deleteAllBeforeTests,3,1,0
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,AccessingMongodbDataRestApplicationTests,shouldReturnRepositoryIndex,3,1,0
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,AccessingMongodbDataRestApplicationTests,shouldCreateEntity,3,1,0
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,AccessingMongodbDataRestApplicationTests,shouldRetrieveEntity,5,1,0
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,AccessingMongodbDataRestApplicationTests,shouldQueryEntity,4,1,0
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,AccessingMongodbDataRestApplicationTests,shouldUpdateEntity,6,1,0
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,AccessingMongodbDataRestApplicationTests,shouldPartiallyUpdateEntity,6,1,0
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,AccessingMongodbDataRestApplicationTests,shouldDeleteEntity,6,1,0
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,AccessingMongodbDataRestApplication,main,3,1,1
+gs-accessing-mongodb-data-rest,com.example.accessingmongodbdatarest,AccessingMongodbDataRestApplicationTests,contextLoads,2,1,0

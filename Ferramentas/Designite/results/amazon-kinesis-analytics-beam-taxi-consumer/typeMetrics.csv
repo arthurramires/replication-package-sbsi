@@ -1,0 +1,14 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+amazon-kinesis-analytics-beam-taxi-consumer,com.amazonaws.samples.beam.taxi.count,CloudWatchSink,3,0,4,4,32,6,0,0,0.0,0,1
+amazon-kinesis-analytics-beam-taxi-consumer,com.amazonaws.samples.beam.taxi.count,DefaultCredentialsProviderClientsProvider,1,0,4,4,16,4,0,0,0.0,0,0
+amazon-kinesis-analytics-beam-taxi-consumer,com.amazonaws.samples.beam.taxi.count,EventParser,1,0,2,2,31,4,0,0,0.0,1,2
+amazon-kinesis-analytics-beam-taxi-consumer,com.amazonaws.samples.beam.taxi.count,KinesisParser,0,0,1,1,14,2,0,0,-1.0,0,2
+amazon-kinesis-analytics-beam-taxi-consumer,com.amazonaws.samples.beam.taxi.count,S3Parser,0,0,1,1,14,2,0,0,-1.0,0,2
+amazon-kinesis-analytics-beam-taxi-consumer,com.amazonaws.samples.beam.taxi.count,Metric,3,3,6,6,32,8,0,0,0.0,2,1
+amazon-kinesis-analytics-beam-taxi-consumer,com.amazonaws.samples.beam.taxi.count,PartitionByBorough,6,3,4,4,39,6,0,0,0.0,0,1
+amazon-kinesis-analytics-beam-taxi-consumer,com.amazonaws.samples.beam.taxi.count,TaxiZone,3,3,1,1,10,1,0,0,0.0,1,0
+amazon-kinesis-analytics-beam-taxi-consumer,com.amazonaws.samples.beam.taxi.count,TaxiCount,1,0,3,3,57,7,0,0,0.6666666666666666,0,2
+amazon-kinesis-analytics-beam-taxi-consumer,com.amazonaws.samples.beam.taxi.count,TaxiCountOptions,1,0,11,0,35,13,0,0,-1.0,1,0
+amazon-kinesis-analytics-beam-taxi-consumer,com.amazonaws.samples.beam.taxi.count.kinesis,Event,3,0,3,3,28,6,2,0,1.0,4,3
+amazon-kinesis-analytics-beam-taxi-consumer,com.amazonaws.samples.beam.taxi.count.kinesis,TripEvent,8,7,4,4,31,6,0,1,0.0,5,1
+amazon-kinesis-analytics-beam-taxi-consumer,com.amazonaws.samples.beam.taxi.count.kinesis,WatermarkEvent,2,1,4,4,19,6,0,1,0.0,2,1

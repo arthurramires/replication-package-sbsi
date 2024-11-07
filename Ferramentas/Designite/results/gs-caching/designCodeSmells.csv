@@ -1,0 +1,9 @@
+Project Name,Package Name,Type Name,Code Smell
+gs-caching,com.example.caching,AppRunner,Unutilized Abstraction
+gs-caching,com.example.caching,Book,Unutilized Abstraction
+gs-caching,com.example.caching,SimpleBookRepository,Unutilized Abstraction
+gs-caching,com.example.caching,AppRunner,Unutilized Abstraction
+gs-caching,com.example.caching,Book,Unutilized Abstraction
+gs-caching,com.example.caching,BookRepository,Unutilized Abstraction
+gs-caching,com.example.caching,CachingApplication,Unutilized Abstraction
+gs-caching,com.example.caching,SimpleBookRepository,Unutilized Abstraction

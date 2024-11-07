@@ -1,0 +1,35 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC
+the-legacy-app,(default package),MavenWrapperDownloader,main,46,5,1
+the-legacy-app,(default package),MavenWrapperDownloader,downloadFileFromURL,19,2,2
+the-legacy-app,(default package),MavenWrapperDownloader,getPasswordAuthentication,3,1,0
+the-legacy-app,com.example.legacyapp.services,CustomerRentalHistoryManager,listAllCharges,0,1,1
+the-legacy-app,com.example.legacyapp.services,CustomerRentalHistoryManagerImpl,listAllCharges,14,2,1
+the-legacy-app,com.example.legacyapp.services,CustomerRentalHistoryManagerImpl,convertTheirChargesToOurs,8,2,1
+the-legacy-app,com.example.legacyapp.services,CustomerRentalHistoryManagerImplTests,should_return_charge_collection,4,1,0
+the-legacy-app,com.example.legacyapp.services,CustomerRentalHistoryManagerImplTests,manager,3,1,0
+the-legacy-app,com.example.legacyapp.services,Config,manager,3,1,0
+the-legacy-app,com.example.legacyapp.services,CustomerWithStubRunnerExternalContractsTests,should_return_charge_collection,4,1,0
+the-legacy-app,com.example.legacyapp.services,CustomerWithStubRunnerProxyTests,should_return_charge_collection,4,1,0
+the-legacy-app,com.example.legacyapp.services,CustomerWithStubRunnerProxyTests,manager,3,1,0
+the-legacy-app,com.example.legacyapp.services,Config,manager,3,1,0
+the-legacy-app,com.example.legacyapp.services,CustomerWithStubRunnerTests,should_return_charge_collection,4,1,0
+the-legacy-app,com.example.legacyapp.services,OnlineModeTests,should_return_charge_collection,4,1,0
+the-legacy-app,com.example.legacyapp.services,TheStub,listAllCharges,7,1,1
+the-legacy-app,com.example.legacyapp.services,TheStub,charge,7,1,1
+the-legacy-app,com.example.legacyapp.controllers,FraudDetectionImplBaseController,frauds,7,2,1
+the-legacy-app,com.example.legacyapp.controllers,BaseClass,setup,13,2,0
+the-legacy-app,com.example.legacyapp.controllers,BaseClass,listAllCharges,6,2,1
+the-legacy-app,com.example.legacyapp,TheLegacyApp,main,3,1,1
+the-legacy-app,com.example.contracts,BaseClass,setup,4,1,0
+the-legacy-app,com.example.contracts,BaseClass,assertResponse,3,1,1
+the-legacy-app,com.example.proxy,AbstractStubsFromProxy,setup,4,1,0
+the-legacy-app,com.example.proxy,AbstractStubsFromProxy,configure,3,1,1
+the-legacy-app,com.example.proxy,AbstractStubsFromProxy,configure,3,1,1
+the-legacy-app,com.example.proxy,AbstractStubsFromProxy,configure,3,1,1
+the-legacy-app,com.example.proxy,AbstractStubsFromProxy,tearDown,5,1,1
+the-legacy-app,com.example.proxy,AbstractStubsFromProxy,storeMappings,14,2,2
+the-legacy-app,com.example.proxy,AbstractStubsFromProxy,options,4,1,0
+the-legacy-app,com.example.proxy,Config,options,4,1,0
+the-legacy-app,com.example.proxy,CreateStubsFromProxyTests,configure,3,1,1
+the-legacy-app,com.example.proxy,CreateStubsFromProxyTests,configure,3,1,1
+the-legacy-app,com.example.proxy,CreateStubsFromProxyTests,should_return_list_of_charges,5,1,0

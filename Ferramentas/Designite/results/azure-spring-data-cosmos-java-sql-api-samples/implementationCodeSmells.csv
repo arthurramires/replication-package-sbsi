@@ -1,0 +1,7 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell
+azure-spring-data-cosmos-java-sql-api-samples,com.azure.cosmos.springexamples.featureexamples,Pagination,run,Magic Number
+azure-spring-data-cosmos-java-sql-api-samples,com.azure.cosmos.springexamples.featureexamples,Pagination,run,Magic Number
+azure-spring-data-cosmos-java-sql-api-samples,com.azure.cosmos.springexamples.featureexamples,Pagination,run,Magic Number
+azure-spring-data-cosmos-java-sql-api-samples,com.azure.cosmos.springexamples.featureexamples,Pagination,run,Magic Number
+azure-spring-data-cosmos-java-sql-api-samples,com.azure.cosmos.springexamples.quickstart.sync,SampleAppConfiguration,cosmosClientBuilder,Long Statement
+azure-spring-data-cosmos-java-sql-api-samples,com.azure.cosmos.springexamples.quickstart.sync,SampleAppConfiguration,cosmosConfig,Long Statement

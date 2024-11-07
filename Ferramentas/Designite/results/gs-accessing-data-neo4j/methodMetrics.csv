@@ -1,0 +1,13 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC
+gs-accessing-data-neo4j,com.example.accessingdataneo4j,AccessingDataNeo4jApplication,main,4,1,1
+gs-accessing-data-neo4j,com.example.accessingdataneo4j,AccessingDataNeo4jApplication,demo,27,1,1
+gs-accessing-data-neo4j,com.example.accessingdataneo4j,Person,Person,2,1,0
+gs-accessing-data-neo4j,com.example.accessingdataneo4j,Person,Person,3,1,1
+gs-accessing-data-neo4j,com.example.accessingdataneo4j,Person,worksWith,6,2,1
+gs-accessing-data-neo4j,com.example.accessingdataneo4j,Person,toString,3,1,0
+gs-accessing-data-neo4j,com.example.accessingdataneo4j,Person,getName,3,1,0
+gs-accessing-data-neo4j,com.example.accessingdataneo4j,Person,setName,3,1,1
+gs-accessing-data-neo4j,com.example.accessingdataneo4j,PersonRepository,findByName,0,1,1
+gs-accessing-data-neo4j,com.example.accessingdataneo4j,PersonRepository,findByTeammatesName,0,1,1
+gs-accessing-data-neo4j,com.example.accessingdataneo4j,AccessingDataNeo4jApplication,main,3,1,1
+gs-accessing-data-neo4j,com.example.accessingdataneo4j,AccessingDataNeo4jApplicationTests,contextLoads,2,1,0

@@ -1,0 +1,26 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC
+gs-messaging-stomp-websocket,com.example.messagingstompwebsocket,Greeting,Greeting,2,1,0
+gs-messaging-stomp-websocket,com.example.messagingstompwebsocket,Greeting,Greeting,3,1,1
+gs-messaging-stomp-websocket,com.example.messagingstompwebsocket,Greeting,getContent,3,1,0
+gs-messaging-stomp-websocket,com.example.messagingstompwebsocket,GreetingController,greeting,4,1,1
+gs-messaging-stomp-websocket,com.example.messagingstompwebsocket,HelloMessage,HelloMessage,2,1,0
+gs-messaging-stomp-websocket,com.example.messagingstompwebsocket,HelloMessage,HelloMessage,3,1,1
+gs-messaging-stomp-websocket,com.example.messagingstompwebsocket,HelloMessage,getName,3,1,0
+gs-messaging-stomp-websocket,com.example.messagingstompwebsocket,HelloMessage,setName,3,1,1
+gs-messaging-stomp-websocket,com.example.messagingstompwebsocket,MessagingStompWebsocketApplication,main,3,1,1
+gs-messaging-stomp-websocket,com.example.messagingstompwebsocket,WebSocketConfig,configureMessageBroker,4,1,1
+gs-messaging-stomp-websocket,com.example.messagingstompwebsocket,WebSocketConfig,registerStompEndpoints,3,1,1
+gs-messaging-stomp-websocket,com.example.messagingstompwebsocket,GreetingIntegrationTests,setup,5,1,0
+gs-messaging-stomp-websocket,com.example.messagingstompwebsocket,GreetingIntegrationTests,getGreeting,44,3,0
+gs-messaging-stomp-websocket,com.example.messagingstompwebsocket,GreetingIntegrationTests,afterConnected,28,1,2
+gs-messaging-stomp-websocket,com.example.messagingstompwebsocket,GreetingIntegrationTests,getPayloadType,3,1,1
+gs-messaging-stomp-websocket,com.example.messagingstompwebsocket,GreetingIntegrationTests,handleFrame,13,1,2
+gs-messaging-stomp-websocket,com.example.messagingstompwebsocket,GreetingIntegrationTests,TestSessionHandler,3,1,1
+gs-messaging-stomp-websocket,com.example.messagingstompwebsocket,GreetingIntegrationTests,handleFrame,3,1,2
+gs-messaging-stomp-websocket,com.example.messagingstompwebsocket,GreetingIntegrationTests,handleException,3,1,5
+gs-messaging-stomp-websocket,com.example.messagingstompwebsocket,GreetingIntegrationTests,handleTransportError,3,1,2
+gs-messaging-stomp-websocket,com.example.messagingstompwebsocket,TestSessionHandler,TestSessionHandler,3,1,1
+gs-messaging-stomp-websocket,com.example.messagingstompwebsocket,TestSessionHandler,handleFrame,3,1,2
+gs-messaging-stomp-websocket,com.example.messagingstompwebsocket,TestSessionHandler,handleException,3,1,5
+gs-messaging-stomp-websocket,com.example.messagingstompwebsocket,TestSessionHandler,handleTransportError,3,1,2
+gs-messaging-stomp-websocket,com.example.messagingstompwebsocket,MessagingStompWebsocketApplication,main,3,1,1

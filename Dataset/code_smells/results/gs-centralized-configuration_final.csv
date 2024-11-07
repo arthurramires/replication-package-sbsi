@@ -1,0 +1,23 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC,source_file,NOF,NOPF,NOM,NOPM,WMC,NC,DIT,LCOM,FANIN,FANOUT,Code Smell
+gs-centralized-configuration,com.example.configurationclient,ConfigurationClientApplication,main,3.0,1.0,1.0,methodMetrics.csv,,,,,,,,,,,
+gs-centralized-configuration,com.example.configurationclient,MessageRestController,getMessage,3.0,1.0,0.0,methodMetrics.csv,,,,,,,,,,,
+gs-centralized-configuration,com.example.configurationclient,ConfigurationClientApplicationTest,contextLoads,7.0,1.0,0.0,methodMetrics.csv,,,,,,,,,,,
+gs-centralized-configuration,com.example.configurationservice,ConfigurationServiceApplication,main,3.0,1.0,1.0,methodMetrics.csv,,,,,,,,,,,
+gs-centralized-configuration,com.example.configurationservice,ConfigurationServiceApplicationTest,contextLoads,3.0,1.0,0.0,methodMetrics.csv,,,,,,,,,,,
+gs-centralized-configuration,com.example.centralizedconfigurationclient,CentralizedConfigurationClientApplication,main,3.0,1.0,1.0,methodMetrics.csv,,,,,,,,,,,
+gs-centralized-configuration,com.example.centralizedconfigurationclient,CentralizedConfigurationClientApplicationTests,contextLoads,2.0,1.0,0.0,methodMetrics.csv,,,,,,,,,,,
+gs-centralized-configuration,com.example.centralizedconfigurationservice,CentralizedConfigurationServiceApplication,main,3.0,1.0,1.0,methodMetrics.csv,,,,,,,,,,,
+gs-centralized-configuration,com.example.centralizedconfigurationservice,CentralizedConfigurationServiceApplicationTests,contextLoads,2.0,1.0,0.0,methodMetrics.csv,,,,,,,,,,,
+gs-centralized-configuration,com.example.configurationclient,ConfigurationClientApplication,,5.0,,,typeMetrics.csv,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,1.0,1.0,
+gs-centralized-configuration,com.example.configurationclient,MessageRestController,,6.0,,,typeMetrics.csv,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,
+gs-centralized-configuration,com.example.configurationclient,ConfigurationClientApplicationTest,,12.0,,,typeMetrics.csv,3.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,
+gs-centralized-configuration,com.example.configurationservice,ConfigurationServiceApplication,,5.0,,,typeMetrics.csv,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,1.0,1.0,
+gs-centralized-configuration,com.example.configurationservice,ConfigurationServiceApplicationTest,,6.0,,,typeMetrics.csv,1.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,
+gs-centralized-configuration,com.example.centralizedconfigurationclient,CentralizedConfigurationClientApplication,,5.0,,,typeMetrics.csv,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,1.0,1.0,
+gs-centralized-configuration,com.example.centralizedconfigurationclient,CentralizedConfigurationClientApplicationTests,,4.0,,,typeMetrics.csv,0.0,0.0,1.0,0.0,1.0,0.0,0.0,-1.0,0.0,0.0,
+gs-centralized-configuration,com.example.centralizedconfigurationservice,CentralizedConfigurationServiceApplication,,5.0,,,typeMetrics.csv,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,1.0,1.0,
+gs-centralized-configuration,com.example.centralizedconfigurationservice,CentralizedConfigurationServiceApplicationTests,,4.0,,,typeMetrics.csv,0.0,0.0,1.0,0.0,1.0,0.0,0.0,-1.0,0.0,0.0,
+gs-centralized-configuration,com.example.configurationclient,ConfigurationClientApplicationTest,,,,,designCodeSmells.csv,,,,,,,,,,,Unutilized Abstraction
+gs-centralized-configuration,com.example.configurationservice,ConfigurationServiceApplicationTest,,,,,designCodeSmells.csv,,,,,,,,,,,Unutilized Abstraction
+gs-centralized-configuration,com.example.centralizedconfigurationclient,CentralizedConfigurationClientApplicationTests,,,,,designCodeSmells.csv,,,,,,,,,,,Unutilized Abstraction
+gs-centralized-configuration,com.example.centralizedconfigurationservice,CentralizedConfigurationServiceApplicationTests,,,,,designCodeSmells.csv,,,,,,,,,,,Unutilized Abstraction

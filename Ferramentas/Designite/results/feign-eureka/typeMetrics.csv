@@ -1,0 +1,4 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+feign-eureka,demo,HelloClientApplication,1,0,3,2,15,3,0,0,1.0,1,2
+feign-eureka,demo,HelloClient,0,0,1,0,3,1,0,0,-1.0,1,0
+feign-eureka,demo,HelloServerApplication,1,0,2,2,14,2,0,0,1.0,1,1

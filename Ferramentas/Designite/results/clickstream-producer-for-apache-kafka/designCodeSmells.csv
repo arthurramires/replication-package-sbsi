@@ -1,0 +1,12 @@
+Project Name,Package Name,Type Name,Code Smell
+clickstream-producer-for-apache-kafka,com.amazonaws.kafka.samples,Events,Cyclic-Dependent Modularization
+clickstream-producer-for-apache-kafka,com.amazonaws.kafka.samples,GetStatus,Unutilized Abstraction
+clickstream-producer-for-apache-kafka,com.amazonaws.kafka.samples,KafkaClickstreamClient,Cyclic-Dependent Modularization
+clickstream-producer-for-apache-kafka,com.amazonaws.kafka.samples,ParametersValidator,Cyclic-Dependent Modularization
+clickstream-producer-for-apache-kafka,com.amazonaws.kafka.samples,RunProducer,Unutilized Abstraction
+clickstream-producer-for-apache-kafka,com.amazonaws.kafka.samples,Util,Cyclic-Dependent Modularization
+clickstream-producer-for-apache-kafka,samples.clickstream.avro,ClickEvent,Deficient Encapsulation
+clickstream-producer-for-apache-kafka,samples.clickstream.avro,ClickEvent,Cyclic-Dependent Modularization
+clickstream-producer-for-apache-kafka,samples.clickstream.avro,ClickEvent,Insufficient Modularization
+clickstream-producer-for-apache-kafka,samples.clickstream.avro,Builder,Cyclic-Dependent Modularization
+clickstream-producer-for-apache-kafka,samples.clickstream.avro,Builder,Insufficient Modularization

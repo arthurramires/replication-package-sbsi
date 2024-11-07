@@ -1,0 +1,19 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+ms-identity-docs-code-java,com.contoso.api,ApiApplication,0,0,1,1,5,1,0,0,-1.0,2,1
+ms-identity-docs-code-java,com.contoso.api,ApiController,1,0,1,1,8,1,0,0,0.0,0,0
+ms-identity-docs-code-java,com.contoso.api,ApiApplication,0,0,1,1,5,1,0,0,-1.0,0,1
+ms-identity-docs-code-java,com.contoso.api,ApiController,0,0,1,1,5,1,0,0,-1.0,0,0
+ms-identity-docs-code-java,com.contoso.oboapi,ApiApplication,0,0,1,1,5,1,0,0,-1.0,1,1
+ms-identity-docs-code-java,com.contoso.oboapi,ApiController,0,0,1,1,8,1,0,0,-1.0,0,0
+ms-identity-docs-code-java,com.example.msaldemo,ExampleInstrumentedTest,0,0,1,1,10,1,0,0,-1.0,0,0
+ms-identity-docs-code-java,com.example.msaldemo,FirstFragment,1,0,4,4,20,4,0,0,0.5,1,1
+ms-identity-docs-code-java,com.example.msaldemo,MainActivity,2,0,10,5,66,15,0,1,0.4,0,0
+ms-identity-docs-code-java,com.example.msaldemo,MSGraphRequestWrapper,2,1,2,2,32,3,0,0,1.0,1,0
+ms-identity-docs-code-java,com.example.msaldemo,OnFragmentInteractionListener,0,0,0,0,5,0,1,0,-1.0,0,0
+ms-identity-docs-code-java,com.example.msaldemo,SecondFragment,1,0,4,4,20,4,0,0,0.5,1,1
+ms-identity-docs-code-java,com.example.msaldemo,SingleAccountModeFragment,12,0,30,20,233,52,0,0,0.0,0,1
+ms-identity-docs-code-java,com.example.msaldemo,ExampleUnitTest,0,0,1,1,9,1,0,0,-1.0,0,0
+ms-identity-docs-code-java,com.contoso.cli,App,0,0,1,1,20,1,0,0,-1.0,0,0
+ms-identity-docs-code-java,com.contoso.webapp,IndexController,1,0,4,4,37,4,0,0,0.75,0,0
+ms-identity-docs-code-java,com.contoso.webapp,SecurityConfig,1,0,1,1,7,1,0,0,0.0,0,0
+ms-identity-docs-code-java,com.contoso.webapp,WebappApplication,0,0,1,1,5,1,0,0,-1.0,1,1

@@ -1,0 +1,4 @@
+Project Name,Package Name,Type Name,Code Smell
+gs-async-method,com.example.asyncmethod,AppRunner,Unutilized Abstraction
+gs-async-method,com.example.asyncmethod,AsyncMethodApplication,Unutilized Abstraction
+gs-async-method,com.example.asyncmethod,AsyncMethodApplicationTests,Unutilized Abstraction

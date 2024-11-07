@@ -1,0 +1,7 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell,source_file,MethodName,LOC,CC,PC,NOF,NOPF,NOM,NOPM,WMC,NC,DIT,LCOM,FANIN,FANOUT
+msal-managed-identity,com.microsoft.msi.sample,AcquireTokenMsi,run,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+msal-managed-identity,com.microsoft.msi.sample,AcquireTokenMsi,run,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+msal-managed-identity,com.microsoft.msi.sample,AcquireTokenMsi,,,methodMetrics.csv,run,25.0,1.0,2.0,,,,,,,,,,
+msal-managed-identity,com.microsoft.msi.sample,AcquireTokenMsi,,,methodMetrics.csv,buildManagedIdentityApplication,15.0,3.0,3.0,,,,,,,,,,
+msal-managed-identity,com.microsoft.msi.sample,AcquireTokenMsi,,,typeMetrics.csv,,48.0,,,0.0,0.0,2.0,1.0,4.0,0.0,0.0,-1.0,0.0,0.0
+msal-managed-identity,com.microsoft.msi.sample,AcquireTokenMsi,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,

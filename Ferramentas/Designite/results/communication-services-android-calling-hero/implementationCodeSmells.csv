@@ -1,0 +1,32 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell
+communication-services-android-calling-hero,com.azure.samples.communication.calling,AzureCalling,initializeDependencies,Long Statement
+communication-services-android-calling-hero,com.azure.samples.communication.calling.externals.authentication,AADAuthHandler,findUserProfile,Long Statement
+communication-services-android-calling-hero,com.azure.samples.communication.calling.externals.authentication,AADAuthHandler,acquireTokenSilently,Long Statement
+communication-services-android-calling-hero,com.azure.samples.communication.calling.externals.authentication,AADAuthHandler,acquireToken,Long Statement
+communication-services-android-calling-hero,com.azure.samples.communication.calling.externals.authentication,AADAuthHandler,getCurrentAccount,Long Statement
+communication-services-android-calling-hero,com.azure.samples.communication.calling.externals.authentication,AADAuthHandler,loadAccount,Long Statement
+communication-services-android-calling-hero,com.azure.samples.communication.calling.externals.calling,CallingContext,getCommunicationTokenCredential,Long Identifier
+communication-services-android-calling-hero,com.azure.samples.communication.calling.externals.calling,CallingContext,getCommunicationTokenCredential,Long Statement
+communication-services-android-calling-hero,com.azure.samples.communication.calling.utilities,MSGraphRequestWrapper,callGraphAPIUsingVolley,Long Parameter List
+communication-services-android-calling-hero,com.azure.samples.communication.calling.utilities,MSGraphRequestWrapper,callGraphAPIUsingVolley,Long Statement
+communication-services-android-calling-hero,com.azure.samples.communication.calling.utilities,MSGraphRequestWrapper,callGraphAPIUsingVolley,Long Statement
+communication-services-android-calling-hero,com.azure.samples.communication.calling.utilities,MSGraphRequestWrapper,callGraphAPIUsingVolley,Magic Number
+communication-services-android-calling-hero,com.azure.samples.communication.calling.views.activities,InvitationActivity,handle,Long Statement
+communication-services-android-calling-hero,com.azure.samples.communication.calling.views.activities,InvitationActivity,handle,Long Statement
+communication-services-android-calling-hero,com.azure.samples.communication.calling.views.activities,InvitationActivity,handle,Long Statement
+communication-services-android-calling-hero,com.azure.samples.communication.calling.views.activities,InvitationActivity,onOptionsItemSelected,Missing default
+communication-services-android-calling-hero,com.azure.samples.communication.calling.views.activities,InvitationActivity,startCallSetup,Long Statement
+communication-services-android-calling-hero,com.azure.samples.communication.calling.views.activities,InvitationActivity,makeCall,Long Statement
+communication-services-android-calling-hero,com.azure.samples.communication.calling.views.activities,JoinCallActivity,onOptionsItemSelected,Missing default
+communication-services-android-calling-hero,com.azure.samples.communication.calling.views.activities,JoinCallActivity,lauchFragment,Long Statement
+communication-services-android-calling-hero,com.azure.samples.communication.calling.views.activities,JoinCallActivity,setImageButtonStateNew,Long Statement
+communication-services-android-calling-hero,com.azure.samples.communication.calling.views.activities,JoinCallActivity,setImageButtonStateNew,Long Statement
+communication-services-android-calling-hero,com.azure.samples.communication.calling.views.activities,StartCallActivity,onOptionsItemSelected,Missing default
+communication-services-android-calling-hero,com.azure.samples.communication.calling.views.activities,StartCallActivity,goToMeetingInvitePage,Long Statement
+communication-services-android-calling-hero,com.azure.samples.communication.calling.views.components,ErrorInfoBar,displayErrorInfoBar,Long Statement
+communication-services-android-calling-hero,com.azure.samples.communication.calling.views.components,ErrorInfoBar,displayErrorInfoBar,Magic Number
+communication-services-android-calling-hero,com.azure.samples.communication.calling.views.components,ErrorInfoBar,displayErrorInfoBar,Magic Number
+communication-services-android-calling-hero,com.azure.samples.communication.calling.views.components,ErrorInfoBar,displayErrorInfoBar,Magic Number
+communication-services-android-calling-hero,com.azure.samples.communication.calling.views.fragments,GroupMeetingFragment,joinCall,Long Statement
+communication-services-android-calling-hero,com.azure.samples.communication.calling.views.fragments,GroupMeetingFragment,joinCall,Long Statement
+communication-services-android-calling-hero,com.azure.samples.communication.calling.views.fragments,TeamsMeetingFragment,joinTeamsCall,Long Statement

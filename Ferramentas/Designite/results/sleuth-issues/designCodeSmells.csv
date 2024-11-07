@@ -1,0 +1,42 @@
+Project Name,Package Name,Type Name,Code Smell
+sleuth-issues,com.example.deadlock.deferred,Customer,Unutilized Abstraction
+sleuth-issues,com.example.deadlock.deferred,CustomerRepository,Unutilized Abstraction
+sleuth-issues,com.example.deadlock.deferred,DeferredApplicationTests,Unutilized Abstraction
+sleuth-issues,net.marcusolk.demo.jms,MessageListener,Unutilized Abstraction
+sleuth-issues,net.marcusolk.demo.jms.configuration,ActiveMQConfiguration,Unutilized Abstraction
+sleuth-issues,net.marcusolk.demo.jms.configuration,CommonConfiguration,Unutilized Abstraction
+sleuth-issues,net.marcusolk.demo.jms.configuration,LogstashLogbackJsonFactoryDecorator,Unutilized Abstraction
+sleuth-issues,net.marcusolk.demo.jms.configuration,SleuthSampler,Unutilized Abstraction
+sleuth-issues,net.marcusolk.demo.jms.configuration,TestConfiguration,Unutilized Abstraction
+sleuth-issues,net.marcusolk.demo.jms.hello,HelloProxy,Deficient Encapsulation
+sleuth-issues,com.bracso.test.sleuth.webclient,EmployeeController,Unutilized Abstraction
+sleuth-issues,com.bracso.test.sleuth.webclient,SleuthTest,Unutilized Abstraction
+sleuth-issues,(default package),MavenWrapperDownloader,Unutilized Abstraction
+sleuth-issues,(default package),MavenWrapperDownloader,Unutilized Abstraction
+sleuth-issues,(default package),MavenWrapperDownloader,Unutilized Abstraction
+sleuth-issues,(default package),MavenWrapperDownloader,Unutilized Abstraction
+sleuth-issues,(default package),MavenWrapperDownloader,Unutilized Abstraction
+sleuth-issues,com.example.demo,DemoApplicationTests,Unutilized Abstraction
+sleuth-issues,com.example.demo,AppConfig,Unnecessary Abstraction
+sleuth-issues,com.example.demo,AppConfig,Unutilized Abstraction
+sleuth-issues,com.example.demo,Issue1990ApplicationTests,Unutilized Abstraction
+sleuth-issues,com.example.demo,Config,Unutilized Abstraction
+sleuth-issues,com.thagul.testcbr4j.client,TestClientFallback,Unutilized Abstraction
+sleuth-issues,com.thagul.testcbr4j.controller,MainController,Unutilized Abstraction
+sleuth-issues,com.thagul.testcbr4j,Testcbr4jApplicationTests,Unutilized Abstraction
+sleuth-issues,com.example.w3c,Config,Unutilized Abstraction
+sleuth-issues,com.example.w3c,DefaultService,Unutilized Abstraction
+sleuth-issues,com.example.w3c,Issue1900ApplicationTests,Unutilized Abstraction
+sleuth-issues,com.example.w3c,WebController,Unutilized Abstraction
+sleuth-issues,com.example.w3c.test,Issue2001ApplicationIT,Unutilized Abstraction
+sleuth-issues,com.example.w3c.test,Config,Unutilized Abstraction
+sleuth-issues,com.example.w3c.test,TestWebController,Unutilized Abstraction
+sleuth-issues,com.github.jntakpe.sleuthkafka,KafkaResource,Unutilized Abstraction
+sleuth-issues,com.github.jntakpe.sleuthkafka,Config,Unutilized Abstraction
+sleuth-issues,com.github.goober.sleuthbug,BriefUserResponseBuilder,Unutilized Abstraction
+sleuth-issues,com.github.goober.sleuthbug,WebClientConfig,Unutilized Abstraction
+sleuth-issues,com.github.goober.sleuthbug,StubbedExternalClientController,Unutilized Abstraction
+sleuth-issues,com.github.goober.sleuthbug,UserBuilder,Unutilized Abstraction
+sleuth-issues,com.github.goober.sleuthbug,UserDetailsBuilder,Unutilized Abstraction
+sleuth-issues,com.github.goober.sleuthbug,UserResponseBuilder,Unutilized Abstraction
+sleuth-issues,com.github.goober.sleuthbug,Config,Unutilized Abstraction

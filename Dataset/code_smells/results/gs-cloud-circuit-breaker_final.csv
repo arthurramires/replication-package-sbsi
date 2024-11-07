@@ -1,0 +1,29 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell,source_file,MethodName,LOC,CC,PC,NOF,NOPF,NOM,NOPM,WMC,NC,DIT,LCOM,FANIN,FANOUT
+gs-cloud-circuit-breaker,hello,BookService,readingList,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-cloud-circuit-breaker,hello,BookstoreApplication,,,methodMetrics.csv,readingList,3.0,1.0,0.0,,,,,,,,,,
+gs-cloud-circuit-breaker,hello,BookstoreApplication,,,methodMetrics.csv,main,3.0,1.0,1.0,,,,,,,,,,
+gs-cloud-circuit-breaker,hello,BookstoreApplicationTests,,,methodMetrics.csv,contextLoads,2.0,1.0,0.0,,,,,,,,,,
+gs-cloud-circuit-breaker,hello,BookService,,,methodMetrics.csv,BookService,4.0,1.0,1.0,,,,,,,,,,
+gs-cloud-circuit-breaker,hello,BookService,,,methodMetrics.csv,readingList,7.0,1.0,0.0,,,,,,,,,,
+gs-cloud-circuit-breaker,hello,ReadingApplication,,,methodMetrics.csv,toRead,3.0,1.0,0.0,,,,,,,,,,
+gs-cloud-circuit-breaker,hello,ReadingApplication,,,methodMetrics.csv,main,3.0,1.0,1.0,,,,,,,,,,
+gs-cloud-circuit-breaker,hello,ReadingApplicationTests,,,methodMetrics.csv,contextLoads,2.0,1.0,0.0,,,,,,,,,,
+gs-cloud-circuit-breaker,hello,BookstoreApplication,,,methodMetrics.csv,main,3.0,1.0,1.0,,,,,,,,,,
+gs-cloud-circuit-breaker,hello,BookstoreApplicationTests,,,methodMetrics.csv,contextLoads,2.0,1.0,0.0,,,,,,,,,,
+gs-cloud-circuit-breaker,hello,ReadingApplication,,,methodMetrics.csv,main,3.0,1.0,1.0,,,,,,,,,,
+gs-cloud-circuit-breaker,hello,ReadingApplicationTests,,,methodMetrics.csv,contextLoads,2.0,1.0,0.0,,,,,,,,,,
+gs-cloud-circuit-breaker,hello,BookstoreApplication,,,typeMetrics.csv,,8.0,,,0.0,0.0,2.0,2.0,2.0,0.0,0.0,-1.0,2.0,1.0
+gs-cloud-circuit-breaker,hello,BookstoreApplicationTests,,,typeMetrics.csv,,4.0,,,0.0,0.0,1.0,0.0,1.0,0.0,0.0,-1.0,0.0,0.0
+gs-cloud-circuit-breaker,hello,BookService,,,typeMetrics.csv,,16.0,,,3.0,0.0,2.0,2.0,2.0,0.0,0.0,0.0,1.0,0.0
+gs-cloud-circuit-breaker,hello,ReadingApplication,,,typeMetrics.csv,,9.0,,,1.0,0.0,2.0,2.0,2.0,0.0,0.0,1.0,2.0,2.0
+gs-cloud-circuit-breaker,hello,ReadingApplicationTests,,,typeMetrics.csv,,4.0,,,0.0,0.0,1.0,0.0,1.0,0.0,0.0,-1.0,0.0,0.0
+gs-cloud-circuit-breaker,hello,BookstoreApplication,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,1.0
+gs-cloud-circuit-breaker,hello,BookstoreApplicationTests,,,typeMetrics.csv,,4.0,,,0.0,0.0,1.0,0.0,1.0,0.0,0.0,-1.0,0.0,0.0
+gs-cloud-circuit-breaker,hello,ReadingApplication,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,1.0
+gs-cloud-circuit-breaker,hello,ReadingApplicationTests,,,typeMetrics.csv,,4.0,,,0.0,0.0,1.0,0.0,1.0,0.0,0.0,-1.0,0.0,0.0
+gs-cloud-circuit-breaker,hello,BookstoreApplicationTests,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-cloud-circuit-breaker,hello,ReadingApplicationTests,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-cloud-circuit-breaker,hello,BookstoreApplication,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-cloud-circuit-breaker,hello,BookstoreApplicationTests,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-cloud-circuit-breaker,hello,ReadingApplication,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-cloud-circuit-breaker,hello,ReadingApplicationTests,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,

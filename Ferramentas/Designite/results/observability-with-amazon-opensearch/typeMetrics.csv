@@ -1,0 +1,6 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+observability-with-amazon-opensearch,com.example.restservice,Logging,2,0,6,6,27,6,0,0,0.0,1,0
+observability-with-amazon-opensearch,com.example.restservice,LoggingController,1,0,1,1,6,1,0,0,0.0,0,1
+observability-with-amazon-opensearch,com.example.restservice,Metrics,2,0,3,3,14,3,0,0,0.0,0,0
+observability-with-amazon-opensearch,com.example.restservice,MetricsController,2,0,1,1,7,1,0,0,0.0,0,0
+observability-with-amazon-opensearch,com.example.restservice,RestServiceApplication,0,0,1,1,5,1,0,0,-1.0,1,1

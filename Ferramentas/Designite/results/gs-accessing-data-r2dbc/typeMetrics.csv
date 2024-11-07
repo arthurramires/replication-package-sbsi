@@ -1,0 +1,6 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+gs-accessing-data-r2dbc,com.example.accessingdatar2dbc,AccessingDataR2dbcApplication,1,0,2,2,34,2,0,0,1.0,2,2
+gs-accessing-data-r2dbc,com.example.accessingdatar2dbc,Customer,3,0,6,6,24,6,0,0,0.0,1,0
+gs-accessing-data-r2dbc,com.example.accessingdatar2dbc,CustomerRepository,0,0,1,0,3,1,0,0,-1.0,2,0
+gs-accessing-data-r2dbc,com.example.accessingdatar2dbc,CustomerRepositoryTests,2,0,1,1,15,1,0,0,0.0,0,2
+gs-accessing-data-r2dbc,com.example.accessingdatar2dbc,AccessingDataR2dbcApplication,0,0,1,1,5,1,0,0,-1.0,0,1

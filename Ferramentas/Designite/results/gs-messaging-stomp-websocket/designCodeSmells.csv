@@ -1,0 +1,6 @@
+Project Name,Package Name,Type Name,Code Smell
+gs-messaging-stomp-websocket,com.example.messagingstompwebsocket,GreetingController,Unutilized Abstraction
+gs-messaging-stomp-websocket,com.example.messagingstompwebsocket,WebSocketConfig,Unutilized Abstraction
+gs-messaging-stomp-websocket,com.example.messagingstompwebsocket,GreetingIntegrationTests,Unutilized Abstraction
+gs-messaging-stomp-websocket,com.example.messagingstompwebsocket,TestSessionHandler,Unutilized Abstraction
+gs-messaging-stomp-websocket,com.example.messagingstompwebsocket,MessagingStompWebsocketApplication,Unutilized Abstraction

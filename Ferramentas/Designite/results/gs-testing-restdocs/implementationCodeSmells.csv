@@ -1,0 +1,6 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell
+gs-testing-restdocs,(default package),MavenWrapperDownloader,main,Empty catch clause
+gs-testing-restdocs,(default package),MavenWrapperDownloader,main,Long Identifier
+gs-testing-restdocs,(default package),MavenWrapperDownloader,main,Empty catch clause
+gs-testing-restdocs,(default package),MavenWrapperDownloader,main,Long Identifier
+gs-testing-restdocs,com.example.testingrestdocs,WebLayerTest,shouldReturnDefaultMessage,Long Statement

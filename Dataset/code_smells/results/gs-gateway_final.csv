@@ -1,0 +1,20 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell,source_file,MethodName,LOC,CC,PC,NOF,NOPF,NOM,NOPM,WMC,NC,DIT,LCOM,FANIN,FANOUT
+gs-gateway,gateway,Application,myRoutes,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-gateway,gateway,ApplicationTest,contextLoads,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-gateway,gateway,ApplicationTest,contextLoads,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-gateway,gateway,ApplicationTest,contextLoads,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-gateway,gateway,ApplicationTest,contextLoads,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-gateway,gateway,Application,,,methodMetrics.csv,main,3.0,1.0,1.0,,,,,,,,,,
+gs-gateway,gateway,Application,,,methodMetrics.csv,myRoutes,4.0,1.0,2.0,,,,,,,,,,
+gs-gateway,gateway,Application,,,methodMetrics.csv,fallback,3.0,1.0,0.0,,,,,,,,,,
+gs-gateway,gateway,UriConfiguration,,,methodMetrics.csv,getHttpbin,3.0,1.0,0.0,,,,,,,,,,
+gs-gateway,gateway,UriConfiguration,,,methodMetrics.csv,setHttpbin,3.0,1.0,1.0,,,,,,,,,,
+gs-gateway,gateway,ApplicationTest,,,methodMetrics.csv,contextLoads,6.0,1.0,0.0,,,,,,,,,,
+gs-gateway,gateway,Application,,,methodMetrics.csv,main,3.0,1.0,1.0,,,,,,,,,,
+gs-gateway,gateway,Application,,,typeMetrics.csv,,12.0,,,0.0,0.0,3.0,3.0,3.0,0.0,0.0,-1.0,2.0,1.0
+gs-gateway,gateway,UriConfiguration,,,typeMetrics.csv,,9.0,,,1.0,0.0,2.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0
+gs-gateway,gateway,ApplicationTest,,,typeMetrics.csv,,12.0,,,1.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+gs-gateway,gateway,Application,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,1.0
+gs-gateway,gateway,UriConfiguration,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-gateway,gateway,ApplicationTest,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-gateway,gateway,Application,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,

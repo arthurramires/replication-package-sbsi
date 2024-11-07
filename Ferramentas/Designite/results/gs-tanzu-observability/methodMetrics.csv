@@ -1,0 +1,12 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC
+gs-tanzu-observability,(default package),MavenWrapperDownloader,main,46,5,1
+gs-tanzu-observability,(default package),MavenWrapperDownloader,downloadFileFromURL,19,2,2
+gs-tanzu-observability,(default package),MavenWrapperDownloader,getPasswordAuthentication,3,1,0
+gs-tanzu-observability,(default package),MavenWrapperDownloader,main,46,5,1
+gs-tanzu-observability,(default package),MavenWrapperDownloader,downloadFileFromURL,19,2,2
+gs-tanzu-observability,(default package),MavenWrapperDownloader,getPasswordAuthentication,3,1,0
+gs-tanzu-observability,hello,DemoApplication,main,3,1,1
+gs-tanzu-observability,hello,DemoController,home,3,1,0
+gs-tanzu-observability,hello,DemoApplicationTests,contextLoads,2,1,0
+gs-tanzu-observability,hello,DemoApplication,main,3,1,1
+gs-tanzu-observability,hello,DemoApplicationTests,contextLoads,2,1,0

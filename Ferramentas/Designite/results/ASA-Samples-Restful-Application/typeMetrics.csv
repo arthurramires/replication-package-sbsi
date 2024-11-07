@@ -1,0 +1,10 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+ASA-Samples-Restful-Application,com.microsoft.azure.simpletodo.configuration,OpenApiConfiguration,3,0,3,0,27,3,0,0,0.6666666666666666,0,0
+ASA-Samples-Restful-Application,com.microsoft.azure.simpletodo.configuration,RFC3339DateFormat,3,0,4,4,17,4,0,0,0.75,0,0
+ASA-Samples-Restful-Application,com.microsoft.azure.simpletodo.configuration,WebConfiguration,0,0,2,2,10,2,0,0,-1.0,0,0
+ASA-Samples-Restful-Application,com.microsoft.azure.simpletodo.model,TodoItem,7,0,26,25,148,29,0,0,0.0,2,1
+ASA-Samples-Restful-Application,com.microsoft.azure.simpletodo.model,TodoList,3,0,13,12,81,16,0,0,0.0,2,1
+ASA-Samples-Restful-Application,com.microsoft.azure.simpletodo.repository,TodoItemRepository,0,0,3,0,5,3,0,0,-1.0,1,0
+ASA-Samples-Restful-Application,com.microsoft.azure.simpletodo.repository,TodoListRepository,0,0,0,0,2,0,0,0,-1.0,1,0
+ASA-Samples-Restful-Application,com.microsoft.azure.simpletodo,SimpleTodoApplication,0,0,1,1,5,1,0,0,-1.0,0,0
+ASA-Samples-Restful-Application,com.microsoft.azure.simpletodo.web,TodoListsController,2,0,14,13,182,24,0,0,0.0,0,4

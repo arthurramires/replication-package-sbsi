@@ -1,0 +1,8 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC
+gs-consuming-web-service,com.example.consumingwebservice,ConsumingWebServiceApplication,main,3,1,1
+gs-consuming-web-service,com.example.consumingwebservice,ConsumingWebServiceApplication,lookup,11,2,1
+gs-consuming-web-service,com.example.consumingwebservice,CountryClient,getCountry,7,1,1
+gs-consuming-web-service,com.example.consumingwebservice,CountryConfiguration,marshaller,5,1,0
+gs-consuming-web-service,com.example.consumingwebservice,CountryConfiguration,countryClient,7,1,1
+gs-consuming-web-service,com.example.consumingwebservice,ConsumingWebServiceApplication,main,3,1,1
+gs-consuming-web-service,com.example.consumingwebservice,ConsumingWebServiceApplicationTests,contextLoads,2,1,0

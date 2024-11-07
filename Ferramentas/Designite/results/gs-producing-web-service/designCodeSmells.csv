@@ -1,0 +1,6 @@
+Project Name,Package Name,Type Name,Code Smell
+gs-producing-web-service,com.example.producingwebservice,CountryEndpoint,Unutilized Abstraction
+gs-producing-web-service,com.example.producingwebservice,WebServiceConfig,Unutilized Abstraction
+gs-producing-web-service,com.example.producingwebservice,ProducingWebServiceApplicationIntegrationTests,Unutilized Abstraction
+gs-producing-web-service,com.example.producingwebservice,ProducingWebServiceApplication,Unutilized Abstraction
+gs-producing-web-service,com.example.producingwebservice,ProducingWebServiceApplicationTests,Unutilized Abstraction

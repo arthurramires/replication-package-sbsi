@@ -1,0 +1,8 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+integration-sample-lambda-msk,com.amazonaws.kafka.samples,HandlerMSK,1,0,1,1,9,1,0,0,0.0,0,1
+integration-sample-lambda-msk,com.amazonaws.kafka.samples,ProcessRecords,1,0,6,0,75,16,0,0,0.3333333333333333,0,3
+integration-sample-lambda-msk,com.amazonaws.kafka.samples,SendFirehoseAsyncHandler,4,0,3,2,47,8,0,0,0.0,0,2
+integration-sample-lambda-msk,com.amazonaws.kafka.samples,SendKinesisDataFirehose,5,0,4,0,29,5,0,0,0.5,3,1
+integration-sample-lambda-msk,com.amazonaws.kafka.samples,Util,1,0,3,0,22,4,0,0,1.0,3,0
+integration-sample-lambda-msk,samples.clickstream.avro,ClickEvent,17,9,61,58,549,93,0,0,0.2786885245901639,3,2
+integration-sample-lambda-msk,samples.clickstream.avro,Builder,8,0,36,33,340,52,0,0,0.3888888888888889,2,2

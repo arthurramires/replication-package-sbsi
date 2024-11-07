@@ -1,0 +1,10 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell
+ASA-Samples-Restful-Application,com.microsoft.azure.simpletodo.configuration,OpenApiConfiguration,customOpenAPI,Long Statement
+ASA-Samples-Restful-Application,com.microsoft.azure.simpletodo.configuration,OpenApiConfiguration,customOpenAPI,Long Statement
+ASA-Samples-Restful-Application,com.microsoft.azure.simpletodo.model,TodoItem,equals,Long Statement
+ASA-Samples-Restful-Application,com.microsoft.azure.simpletodo.model,TodoList,equals,Long Statement
+ASA-Samples-Restful-Application,com.microsoft.azure.simpletodo.web,TodoListsController,createItem,Long Statement
+ASA-Samples-Restful-Application,com.microsoft.azure.simpletodo.web,TodoListsController,createList,Long Statement
+ASA-Samples-Restful-Application,com.microsoft.azure.simpletodo.web,TodoListsController,getItemsByListIdAndState,Long Statement
+ASA-Samples-Restful-Application,com.microsoft.azure.simpletodo.web,TodoListsController,getLists,Magic Number
+ASA-Samples-Restful-Application,com.microsoft.azure.simpletodo.web,TodoListsController,updateListById,Long Statement

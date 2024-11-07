@@ -1,0 +1,29 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC
+gs-spring-cloud-loadbalancer,(default package),MavenWrapperDownloader,main,46,5,1
+gs-spring-cloud-loadbalancer,(default package),MavenWrapperDownloader,downloadFileFromURL,19,2,2
+gs-spring-cloud-loadbalancer,(default package),MavenWrapperDownloader,getPasswordAuthentication,3,1,0
+gs-spring-cloud-loadbalancer,(default package),MavenWrapperDownloader,main,46,5,1
+gs-spring-cloud-loadbalancer,(default package),MavenWrapperDownloader,downloadFileFromURL,19,2,2
+gs-spring-cloud-loadbalancer,(default package),MavenWrapperDownloader,getPasswordAuthentication,3,1,0
+gs-spring-cloud-loadbalancer,hello,SayHelloApplication,main,3,1,1
+gs-spring-cloud-loadbalancer,hello,SayHelloApplication,greet,7,1,0
+gs-spring-cloud-loadbalancer,hello,SayHelloApplication,home,4,1,0
+gs-spring-cloud-loadbalancer,hello,SayHelloApplicationTests,shouldReturn200WhenSendingRequestToRoot,5,1,0
+gs-spring-cloud-loadbalancer,hello,SayHelloApplicationTests,shouldReturn200WhenSendingRequestToGreeting,5,1,0
+gs-spring-cloud-loadbalancer,hello,SayHelloConfiguration,serviceInstanceListSupplier,3,1,0
+gs-spring-cloud-loadbalancer,hello,DemoServiceInstanceListSuppler,DemoServiceInstanceListSuppler,3,1,1
+gs-spring-cloud-loadbalancer,hello,DemoServiceInstanceListSuppler,getServiceId,3,1,0
+gs-spring-cloud-loadbalancer,hello,DemoServiceInstanceListSuppler,get,3,1,0
+gs-spring-cloud-loadbalancer,hello,UserApplication,UserApplication,4,1,2
+gs-spring-cloud-loadbalancer,hello,UserApplication,main,3,1,1
+gs-spring-cloud-loadbalancer,hello,UserApplication,hi,3,1,1
+gs-spring-cloud-loadbalancer,hello,UserApplication,hello,3,1,1
+gs-spring-cloud-loadbalancer,hello,WebClientConfig,webClientBuilder,3,1,0
+gs-spring-cloud-loadbalancer,hello,UserApplicationTests,startApps,5,1,0
+gs-spring-cloud-loadbalancer,hello,UserApplicationTests,closeApps,5,1,0
+gs-spring-cloud-loadbalancer,hello,UserApplicationTests,shouldRoundRobinOverInstancesWhenCallingServicesViaLoadBalancer,11,1,0
+gs-spring-cloud-loadbalancer,hello,UserApplicationTests,startApp,3,1,1
+gs-spring-cloud-loadbalancer,hello,UserApplicationTests,greet,3,1,0
+gs-spring-cloud-loadbalancer,hello,UserApplicationTests,health,3,1,0
+gs-spring-cloud-loadbalancer,hello,TestApplication,greet,3,1,0
+gs-spring-cloud-loadbalancer,hello,TestApplication,health,3,1,0

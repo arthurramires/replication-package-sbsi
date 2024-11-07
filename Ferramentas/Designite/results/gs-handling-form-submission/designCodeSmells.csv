@@ -1,0 +1,5 @@
+Project Name,Package Name,Type Name,Code Smell
+gs-handling-form-submission,com.example.handlingformsubmission,GreetingController,Unutilized Abstraction
+gs-handling-form-submission,com.example.handlingformsubmission,HandlingFormSubmissionApplicationTest,Unutilized Abstraction
+gs-handling-form-submission,com.example.handlingformsubmission,HandlingFormSubmissionApplication,Unutilized Abstraction
+gs-handling-form-submission,com.example.handlingformsubmission,HandlingFormSubmissionApplicationTests,Unutilized Abstraction

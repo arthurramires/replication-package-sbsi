@@ -1,0 +1,13 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC
+gs-cloud-circuit-breaker,hello,BookstoreApplication,readingList,3,1,0
+gs-cloud-circuit-breaker,hello,BookstoreApplication,main,3,1,1
+gs-cloud-circuit-breaker,hello,BookstoreApplicationTests,contextLoads,2,1,0
+gs-cloud-circuit-breaker,hello,BookService,BookService,4,1,1
+gs-cloud-circuit-breaker,hello,BookService,readingList,7,1,0
+gs-cloud-circuit-breaker,hello,ReadingApplication,toRead,3,1,0
+gs-cloud-circuit-breaker,hello,ReadingApplication,main,3,1,1
+gs-cloud-circuit-breaker,hello,ReadingApplicationTests,contextLoads,2,1,0
+gs-cloud-circuit-breaker,hello,BookstoreApplication,main,3,1,1
+gs-cloud-circuit-breaker,hello,BookstoreApplicationTests,contextLoads,2,1,0
+gs-cloud-circuit-breaker,hello,ReadingApplication,main,3,1,1
+gs-cloud-circuit-breaker,hello,ReadingApplicationTests,contextLoads,2,1,0

@@ -1,0 +1,10 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC
+gs-service-registration-and-discovery,com.example.eurekaserver,EurekaServerApplication,main,3,1,1
+gs-service-registration-and-discovery,com.example.eurekaserver,EurekaServerApplicationTests,contextLoads,2,1,0
+gs-service-registration-and-discovery,com.example.servicea.controller,ServiceARestController,helloWorld,3,1,0
+gs-service-registration-and-discovery,com.example.servicea,ServiceaApplication,main,3,1,1
+gs-service-registration-and-discovery,com.example.servicea,ServiceaApplicationTests,contextLoads,2,1,0
+gs-service-registration-and-discovery,com.example.serviceb.controller,ServiceBRestController,ServiceBRestController,4,1,2
+gs-service-registration-and-discovery,com.example.serviceb.controller,ServiceBRestController,helloWorld,5,1,0
+gs-service-registration-and-discovery,com.example.serviceb,ServicebApplication,main,3,1,1
+gs-service-registration-and-discovery,com.example.serviceb,ServicebApplicationTests,contextLoads,2,1,0

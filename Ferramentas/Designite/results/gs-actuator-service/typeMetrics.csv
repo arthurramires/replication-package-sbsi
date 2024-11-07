@@ -1,0 +1,7 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+gs-actuator-service,com.example.actuatorservice,Greeting,2,0,3,3,14,3,0,0,0.0,0,0
+gs-actuator-service,com.example.actuatorservice,HelloWorldApplication,0,0,1,1,5,1,0,0,-1.0,1,1
+gs-actuator-service,com.example.actuatorservice,HelloWorldController,2,0,1,1,7,1,0,0,0.0,0,0
+gs-actuator-service,com.example.actuatorservice,HelloWorldApplicationTests,3,0,2,2,17,2,0,0,0.0,0,0
+gs-actuator-service,com.example.actuatorservice,ActuatorServiceApplication,0,0,1,1,5,1,0,0,-1.0,1,1
+gs-actuator-service,com.example.actuatorservice,ActuatorServiceApplicationTests,0,0,1,0,4,1,0,0,-1.0,0,0

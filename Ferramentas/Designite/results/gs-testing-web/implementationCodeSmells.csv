@@ -1,0 +1,4 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell
+gs-testing-web,com.example.testingweb,TestingWebApplicationTest,shouldReturnDefaultMessage,Long Statement
+gs-testing-web,com.example.testingweb,WebLayerTest,shouldReturnDefaultMessage,Long Statement
+gs-testing-web,com.example.testingweb,WebMockTest,greetingShouldReturnMessageFromService,Long Statement

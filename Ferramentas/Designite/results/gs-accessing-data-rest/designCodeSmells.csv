@@ -1,0 +1,5 @@
+Project Name,Package Name,Type Name,Code Smell
+gs-accessing-data-rest,com.example.accessingdatarest,Person,Unutilized Abstraction
+gs-accessing-data-rest,com.example.accessingdatarest,AccessingDataRestApplicationTests,Unutilized Abstraction
+gs-accessing-data-rest,com.example.accessingdatarest,AccessingDataRestApplication,Unutilized Abstraction
+gs-accessing-data-rest,com.example.accessingdatarest,AccessingDataRestApplicationTests,Unutilized Abstraction

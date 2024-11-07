@@ -1,0 +1,5 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell
+graceful-shutdown-with-aws-lambda,helloworld,App,run,Magic Number
+graceful-shutdown-with-aws-lambda,helloworld,App,handleRequest,Magic Number
+graceful-shutdown-with-aws-lambda,helloworld,App,handleRequest,Magic Number
+graceful-shutdown-with-aws-lambda,helloworld,AppTest,successfulResponse,Magic Number

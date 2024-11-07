@@ -1,0 +1,12 @@
+Project Name,Package Name,Type Name,Code Smell
+aws-reinvent-2023-code-talk-assets,org.example.types,CornerSpeed,Unutilized Abstraction
+aws-reinvent-2023-code-talk-assets,org.example.types,Event,Unutilized Abstraction
+aws-reinvent-2023-code-talk-assets,org.example.types,Lap,Unutilized Abstraction
+aws-reinvent-2023-code-talk-assets,org.example.types,Lap,Broken Hierarchy
+aws-reinvent-2023-code-talk-assets,org.example.types,LapSchema,Unutilized Abstraction
+aws-reinvent-2023-code-talk-assets,org.example.types,Telemetry,Unutilized Abstraction
+aws-reinvent-2023-code-talk-assets,org.example.types,Telemetry,Broken Hierarchy
+aws-reinvent-2023-code-talk-assets,org.example.types,TelemetrySchema,Unutilized Abstraction
+aws-reinvent-2023-code-talk-assets,org.example.types,Turn,Unutilized Abstraction
+aws-reinvent-2023-code-talk-assets,org.example.types,Turn,Broken Hierarchy
+aws-reinvent-2023-code-talk-assets,org.example.types,TurnSchema,Unutilized Abstraction

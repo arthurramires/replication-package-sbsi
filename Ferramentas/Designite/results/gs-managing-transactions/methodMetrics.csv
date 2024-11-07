@@ -1,0 +1,9 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC
+gs-managing-transactions,com.example.managingtransactions,AppRunner,AppRunner,3,1,1
+gs-managing-transactions,com.example.managingtransactions,AppRunner,run,29,3,1
+gs-managing-transactions,com.example.managingtransactions,BookingService,BookingService,3,1,1
+gs-managing-transactions,com.example.managingtransactions,BookingService,book,6,2,1
+gs-managing-transactions,com.example.managingtransactions,BookingService,findAllBookings,3,1,0
+gs-managing-transactions,com.example.managingtransactions,ManagingTransactionsApplication,main,3,1,1
+gs-managing-transactions,com.example.managingtransactions,ManagingTransactionsApplication,main,3,1,1
+gs-managing-transactions,com.example.managingtransactions,ManagingTransactionsApplicationTests,contextLoads,2,1,0

@@ -1,0 +1,4 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+gs-relational-data-access,com.example.relationaldataaccess,Customer,3,0,2,2,12,2,0,0,0.0,0,0
+gs-relational-data-access,com.example.relationaldataaccess,RelationalDataAccessApplication,2,0,2,2,17,2,0,0,1.0,2,1
+gs-relational-data-access,com.example.relationaldataaccess,RelationalDataAccessApplication,0,0,1,1,5,1,0,0,-1.0,0,1

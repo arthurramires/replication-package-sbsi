@@ -1,0 +1,14 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell,source_file,MethodName,LOC,CC,PC,NOF,NOPF,NOM,NOPM,WMC,NC,DIT,LCOM,FANIN,FANOUT
+gs-messaging-redis,com.example.messagingredis,MessagingRedisApplication,main,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-messaging-redis,com.example.messagingredis,MessagingRedisApplication,,,methodMetrics.csv,container,6.0,1.0,2.0,,,,,,,,,,
+gs-messaging-redis,com.example.messagingredis,MessagingRedisApplication,,,methodMetrics.csv,listenerAdapter,3.0,1.0,1.0,,,,,,,,,,
+gs-messaging-redis,com.example.messagingredis,MessagingRedisApplication,,,methodMetrics.csv,receiver,3.0,1.0,0.0,,,,,,,,,,
+gs-messaging-redis,com.example.messagingredis,MessagingRedisApplication,,,methodMetrics.csv,template,3.0,1.0,1.0,,,,,,,,,,
+gs-messaging-redis,com.example.messagingredis,MessagingRedisApplication,,,methodMetrics.csv,main,11.0,2.0,1.0,,,,,,,,,,
+gs-messaging-redis,com.example.messagingredis,Receiver,,,methodMetrics.csv,receiveMessage,4.0,1.0,1.0,,,,,,,,,,
+gs-messaging-redis,com.example.messagingredis,Receiver,,,methodMetrics.csv,getCount,3.0,1.0,0.0,,,,,,,,,,
+gs-messaging-redis,com.example.messagingredis,MessagingRedisApplication,,,methodMetrics.csv,main,3.0,1.0,1.0,,,,,,,,,,
+gs-messaging-redis,com.example.messagingredis,MessagingRedisApplication,,,typeMetrics.csv,,29.0,,,1.0,0.0,5.0,1.0,6.0,0.0,0.0,1.0,2.0,2.0
+gs-messaging-redis,com.example.messagingredis,Receiver,,,typeMetrics.csv,,11.0,,,2.0,0.0,2.0,2.0,2.0,0.0,0.0,0.0,1.0,0.0
+gs-messaging-redis,com.example.messagingredis,MessagingRedisApplication,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,1.0
+gs-messaging-redis,com.example.messagingredis,MessagingRedisApplication,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,

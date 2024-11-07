@@ -1,0 +1,10 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+aws-reinvent-2023-code-talk-assets,org.example,DataStreamJob,10,0,5,5,76,8,0,0,0.8,1,1
+aws-reinvent-2023-code-talk-assets,org.example.types,CornerSpeed,6,0,15,15,57,15,0,0,0.13333333333333333,0,0
+aws-reinvent-2023-code-talk-assets,org.example.types,Event,2,0,4,4,16,4,3,0,0.5,0,0
+aws-reinvent-2023-code-talk-assets,org.example.types,Lap,1,0,3,3,12,3,0,1,0.0,1,0
+aws-reinvent-2023-code-talk-assets,org.example.types,LapSchema,0,0,4,4,14,4,0,0,-1.0,0,1
+aws-reinvent-2023-code-talk-assets,org.example.types,Telemetry,3,0,7,7,26,7,0,1,0.0,1,0
+aws-reinvent-2023-code-talk-assets,org.example.types,TelemetrySchema,0,0,3,3,12,3,0,0,-1.0,0,1
+aws-reinvent-2023-code-talk-assets,org.example.types,Turn,1,0,3,3,12,3,0,1,0.0,1,0
+aws-reinvent-2023-code-talk-assets,org.example.types,TurnSchema,1,0,4,4,16,4,0,0,0.75,0,1

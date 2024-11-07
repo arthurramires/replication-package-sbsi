@@ -1,0 +1,11 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+gs-spring-cloud-loadbalancer,(default package),MavenWrapperDownloader,5,0,3,1,84,8,0,0,1.0,0,0
+gs-spring-cloud-loadbalancer,(default package),MavenWrapperDownloader,5,0,3,1,84,8,0,0,1.0,0,0
+gs-spring-cloud-loadbalancer,hello,SayHelloApplication,1,0,3,3,17,3,0,0,0.6666666666666666,1,1
+gs-spring-cloud-loadbalancer,hello,SayHelloApplicationTests,2,0,2,0,14,2,0,0,0.0,0,0
+gs-spring-cloud-loadbalancer,hello,SayHelloConfiguration,0,0,1,0,8,1,0,0,-1.0,0,0
+gs-spring-cloud-loadbalancer,hello,DemoServiceInstanceListSuppler,1,0,3,2,12,3,0,0,0.0,0,0
+gs-spring-cloud-loadbalancer,hello,UserApplication,2,0,4,4,20,4,0,0,0.5,1,1
+gs-spring-cloud-loadbalancer,hello,WebClientConfig,0,0,1,0,5,1,0,0,-1.0,0,0
+gs-spring-cloud-loadbalancer,hello,UserApplicationTests,6,0,6,2,44,6,0,0,0.5,0,1
+gs-spring-cloud-loadbalancer,hello,TestApplication,1,0,2,2,9,2,0,0,1.0,1,0

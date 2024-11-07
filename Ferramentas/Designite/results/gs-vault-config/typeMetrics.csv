@@ -1,0 +1,5 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+gs-vault-config,hello,Application,1,0,3,3,17,3,0,0,0.6666666666666666,2,2
+gs-vault-config,hello,MyConfiguration,2,0,4,4,19,4,0,0,0.5,1,0
+gs-vault-config,hello,MyConfigurationTests,0,0,1,0,4,1,0,0,-1.0,0,0
+gs-vault-config,hello,Application,0,0,1,1,5,1,0,0,-1.0,0,1

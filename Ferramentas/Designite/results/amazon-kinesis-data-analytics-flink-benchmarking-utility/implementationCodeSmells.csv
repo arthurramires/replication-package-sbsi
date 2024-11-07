@@ -1,0 +1,30 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell
+amazon-kinesis-data-analytics-flink-benchmarking-utility,com.amazonaws.kda.flink.benchmarking,BenchmarkScheduler,main,Long Statement
+amazon-kinesis-data-analytics-flink-benchmarking-utility,com.amazonaws.kda.flink.benchmarking,BenchmarkScheduler,main,Long Statement
+amazon-kinesis-data-analytics-flink-benchmarking-utility,com.amazonaws.kda.flink.benchmarking,BenchmarkScheduler,main,Long Statement
+amazon-kinesis-data-analytics-flink-benchmarking-utility,com.amazonaws.kda.flink.benchmarking,BenchmarkScheduler,main,Magic Number
+amazon-kinesis-data-analytics-flink-benchmarking-utility,com.amazonaws.kda.flink.benchmarking,BenchmarkScheduler,trackJobs,Long Statement
+amazon-kinesis-data-analytics-flink-benchmarking-utility,com.amazonaws.kda.flink.benchmarking,BenchmarkScheduler,trackJobs,Long Statement
+amazon-kinesis-data-analytics-flink-benchmarking-utility,com.amazonaws.kda.flink.benchmarking,BenchmarkScheduler,trackJobs,Long Statement
+amazon-kinesis-data-analytics-flink-benchmarking-utility,com.amazonaws.kda.flink.benchmarking,KinesisProducerForFlinkSessionWindow,execute,Long Statement
+amazon-kinesis-data-analytics-flink-benchmarking-utility,com.amazonaws.kda.flink.benchmarking,KinesisProducerForFlinkSessionWindow,execute,Long Statement
+amazon-kinesis-data-analytics-flink-benchmarking-utility,com.amazonaws.kda.flink.benchmarking,KinesisProducerForFlinkSessionWindow,execute,Long Statement
+amazon-kinesis-data-analytics-flink-benchmarking-utility,com.amazonaws.kda.flink.benchmarking.util,DDBUtil,updateChildJobStatus,Long Parameter List
+amazon-kinesis-data-analytics-flink-benchmarking-utility,com.amazonaws.kda.flink.benchmarking.util,DDBUtil,updateChildJobStatus,Long Statement
+amazon-kinesis-data-analytics-flink-benchmarking-utility,com.amazonaws.kda.flink.benchmarking.util,DDBUtil,updateChildJobStatus,Magic Number
+amazon-kinesis-data-analytics-flink-benchmarking-utility,com.amazonaws.kda.flink.benchmarking.util,DDBUtil,insertParentJobStatus,Long Parameter List
+amazon-kinesis-data-analytics-flink-benchmarking-utility,com.amazonaws.kda.flink.benchmarking.util,DDBUtil,insertParentJobStatus,Long Statement
+amazon-kinesis-data-analytics-flink-benchmarking-utility,com.amazonaws.kda.flink.benchmarking.util,DDBUtil,insertParentJobStatus,Magic Number
+amazon-kinesis-data-analytics-flink-benchmarking-utility,com.amazonaws.kda.flink.benchmarking.util,DDBUtil,insertChildJobStatus,Long Parameter List
+amazon-kinesis-data-analytics-flink-benchmarking-utility,com.amazonaws.kda.flink.benchmarking.util,DDBUtil,insertChildJobStatus,Long Statement
+amazon-kinesis-data-analytics-flink-benchmarking-utility,com.amazonaws.kda.flink.benchmarking.util,DDBUtil,insertChildJobStatus,Magic Number
+amazon-kinesis-data-analytics-flink-benchmarking-utility,com.amazonaws.kda.flink.benchmarking.util,DDBUtil,insertChildJobDetailedStatus,Long Parameter List
+amazon-kinesis-data-analytics-flink-benchmarking-utility,com.amazonaws.kda.flink.benchmarking.util,DDBUtil,insertChildJobDetailedStatus,Long Statement
+amazon-kinesis-data-analytics-flink-benchmarking-utility,com.amazonaws.kda.flink.benchmarking.util,DDBUtil,insertChildJobDetailedStatus,Magic Number
+amazon-kinesis-data-analytics-flink-benchmarking-utility,com.amazonaws.kda.flink.benchmarking.util,KDSProducerUtil,writeSingleMessageToKinesis,Long Statement
+amazon-kinesis-data-analytics-flink-benchmarking-utility,com.amazonaws.kda.flink.benchmarking.util,KDSProducerUtil,writeSingleMessageToKinesis,Magic Number
+amazon-kinesis-data-analytics-flink-benchmarking-utility,com.amazonaws.kda.flink.benchmarking.util,KDSProducerUtil,writeMessagesToKinesis,Magic Number
+amazon-kinesis-data-analytics-flink-benchmarking-utility,com.amazonaws.kda.flink.benchmarking.util,KDSProducerUtil,writeMessagesToKinesis,Magic Number
+amazon-kinesis-data-analytics-flink-benchmarking-utility,com.amazonaws.kda.flink.benchmarking.util,KDSProducerUtil,tokenizeStrings,Long Statement
+amazon-kinesis-data-analytics-flink-benchmarking-utility,com.amazonaws.kda.benchmarking.util,GetSampleData,main,Long Statement
+amazon-kinesis-data-analytics-flink-benchmarking-utility,com.amazonaws.kda.benchmarking.util,GetSampleData,main,Long Statement

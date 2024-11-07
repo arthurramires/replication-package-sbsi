@@ -1,0 +1,7 @@
+Project Name,Package Name,Type Name,Code Smell
+gs-multi-module,com.example.multimodule.application,DemoApplicationTest,Unutilized Abstraction
+gs-multi-module,com.example.multimodule.service,MyServiceTest,Unutilized Abstraction
+gs-multi-module,com.example.multimodule.service,TestConfiguration,Unnecessary Abstraction
+gs-multi-module,com.example.multimodule.service,TestConfiguration,Unutilized Abstraction
+gs-multi-module,com.example.multimoduleapplication,MultiModuleApplicationTests,Unutilized Abstraction
+gs-multi-module,com.example.multimodulelibrary,MultiModuleLibraryApplicationTests,Unutilized Abstraction

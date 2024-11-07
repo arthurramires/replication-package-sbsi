@@ -1,0 +1,12 @@
+Project Name,Package Name,Type Name,Code Smell
+gs-uploading-files,com.example.uploadingfiles,FileUploadIntegrationTests,Unutilized Abstraction
+gs-uploading-files,com.example.uploadingfiles,FileUploadTests,Unutilized Abstraction
+gs-uploading-files,com.example.uploadingfiles,UploadingFilesApplication,Unutilized Abstraction
+gs-uploading-files,com.example.uploadingfiles.storage,StorageFileNotFoundException,Broken Hierarchy
+gs-uploading-files,com.example.uploadingfiles.storage,FileSystemStorageServiceTests,Unutilized Abstraction
+gs-uploading-files,com.example.uploadingfiles.storage,FileSystemStorageService,Unutilized Abstraction
+gs-uploading-files,com.example.uploadingfiles.storage,StorageException,Unutilized Abstraction
+gs-uploading-files,com.example.uploadingfiles.storage,StorageFileNotFoundException,Unutilized Abstraction
+gs-uploading-files,com.example.uploadingfiles.storage,StorageFileNotFoundException,Broken Hierarchy
+gs-uploading-files,com.example.uploadingfiles.storage,StorageProperties,Unutilized Abstraction
+gs-uploading-files,com.example.uploadingfiles.storage,StorageService,Unutilized Abstraction

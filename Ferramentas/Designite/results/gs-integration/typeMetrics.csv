@@ -1,0 +1,5 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+gs-integration,com.example.integration,IntegrationApplication,0,0,1,1,8,1,0,0,-1.0,1,0
+gs-integration,com.example.integration,FlowTests,2,0,1,1,20,1,0,0,0.0,0,0
+gs-integration,com.example.integration,IntegrationApplication,0,0,1,1,5,1,0,0,-1.0,0,1
+gs-integration,com.example.integration,IntegrationApplicationTests,0,0,1,1,4,1,0,0,-1.0,0,0

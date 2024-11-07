@@ -1,0 +1,17 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell
+amazon-kinesis-analytics-streaming-etl,com.amazonaws.samples.kinesisanalytics.flink.streaming.etl,StreamingEtl,main,Complex Conditional
+amazon-kinesis-analytics-streaming-etl,com.amazonaws.samples.kinesisanalytics.flink.streaming.etl,StreamingEtl,main,Complex Conditional
+amazon-kinesis-analytics-streaming-etl,com.amazonaws.samples.kinesisanalytics.flink.streaming.etl,StreamingEtl,main,Complex Method
+amazon-kinesis-analytics-streaming-etl,com.amazonaws.samples.kinesisanalytics.flink.streaming.etl,StreamingEtl,main,Long Statement
+amazon-kinesis-analytics-streaming-etl,com.amazonaws.samples.kinesisanalytics.flink.streaming.etl,StreamingEtl,main,Long Statement
+amazon-kinesis-analytics-streaming-etl,com.amazonaws.samples.kinesisanalytics.flink.streaming.etl,StreamingEtl,main,Long Statement
+amazon-kinesis-analytics-streaming-etl,com.amazonaws.samples.kinesisanalytics.flink.streaming.etl,StreamingEtl,main,Long Statement
+amazon-kinesis-analytics-streaming-etl,com.amazonaws.samples.kinesisanalytics.flink.streaming.etl,StreamingEtl,getKinesisSource,Long Statement
+amazon-kinesis-analytics-streaming-etl,com.amazonaws.samples.kinesisanalytics.flink.streaming.etl,StreamingEtl,getS3Sink,Long Statement
+amazon-kinesis-analytics-streaming-etl,com.amazonaws.samples.kinesisanalytics.flink.streaming.etl,StreamingEtl,getS3Sink,Long Statement
+amazon-kinesis-analytics-streaming-etl,com.amazonaws.samples.kinesisanalytics.flink.streaming.etl,StreamingEtl,getElasticsearchSink,Long Statement
+amazon-kinesis-analytics-streaming-etl,com.amazonaws.samples.kinesisanalytics.flink.streaming.etl,StreamingEtl,getElasticsearchSink,Long Statement
+amazon-kinesis-analytics-streaming-etl,com.amazonaws.samples.kinesisanalytics.flink.streaming.etl,StreamingEtl,createIndexRequest,Long Statement
+amazon-kinesis-analytics-streaming-etl,com.amazonaws.samples.kinesisanalytics.flink.streaming.etl.utils,AmazonElasticsearchSink,elasticsearchSinkBuilder,Long Statement
+amazon-kinesis-analytics-streaming-etl,com.amazonaws.samples.kinesisanalytics.flink.streaming.etl.utils,TripEventBucketAssigner,getBucketId,Long Statement
+amazon-kinesis-analytics-streaming-etl,com.amazonaws.samples.kinesisanalytics.flink.streaming.etl.utils,TripEventSchema,deserialize,Long Statement

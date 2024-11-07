@@ -1,0 +1,7 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+gs-reactive-rest-service,com.example.reactivewebservice,Greeting,1,0,5,5,17,5,0,0,0.4,2,0
+gs-reactive-rest-service,com.example.reactivewebservice,GreetingClient,1,0,2,2,9,2,0,0,0.0,1,1
+gs-reactive-rest-service,com.example.reactivewebservice,GreetingHandler,0,0,1,1,5,1,0,0,-1.0,1,0
+gs-reactive-rest-service,com.example.reactivewebservice,GreetingRouter,0,0,1,1,5,1,0,0,-1.0,0,1
+gs-reactive-rest-service,com.example.reactivewebservice,ReactiveWebServiceApplication,0,0,1,1,7,1,0,0,-1.0,1,2
+gs-reactive-rest-service,com.example.reactivewebservice,GreetingRouterTest,1,0,1,1,9,1,0,0,0.0,0,1

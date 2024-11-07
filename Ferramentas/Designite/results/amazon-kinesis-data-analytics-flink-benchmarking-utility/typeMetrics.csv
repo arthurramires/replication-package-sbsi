@@ -1,0 +1,11 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+amazon-kinesis-data-analytics-flink-benchmarking-utility,com.amazonaws.kda.flink.benchmarking,BenchmarkScheduler,0,0,4,4,88,9,0,0,-1.0,1,7
+amazon-kinesis-data-analytics-flink-benchmarking-utility,com.amazonaws.kda.flink.benchmarking,KinesisProducerForFlinkSessionWindow,1,0,1,1,43,6,0,0,0.0,1,2
+amazon-kinesis-data-analytics-flink-benchmarking-utility,com.amazonaws.kda.flink.benchmarking.model,BenchmarkingSpecs,12,0,24,24,89,24,0,0,0.5,1,0
+amazon-kinesis-data-analytics-flink-benchmarking-utility,com.amazonaws.kda.flink.benchmarking.model,ChildJob,8,0,16,16,61,16,0,0,0.5,0,0
+amazon-kinesis-data-analytics-flink-benchmarking-utility,com.amazonaws.kda.flink.benchmarking.model,Event,10,0,20,20,76,20,0,0,0.5,1,0
+amazon-kinesis-data-analytics-flink-benchmarking-utility,com.amazonaws.kda.flink.benchmarking.model,JobSchedule,2,0,4,4,19,4,0,0,0.5,1,0
+amazon-kinesis-data-analytics-flink-benchmarking-utility,com.amazonaws.kda.flink.benchmarking.util,DDBUtil,0,0,4,4,110,8,0,0,-1.0,2,0
+amazon-kinesis-data-analytics-flink-benchmarking-utility,com.amazonaws.kda.flink.benchmarking.util,KDSProducerUtil,0,0,6,6,131,14,0,0,-1.0,2,1
+amazon-kinesis-data-analytics-flink-benchmarking-utility,com.amazonaws.kda.flink.benchmarking.util,KinesisStreamUtil,0,0,1,1,42,7,0,0,-1.0,1,0
+amazon-kinesis-data-analytics-flink-benchmarking-utility,com.amazonaws.kda.benchmarking.util,GetSampleData,0,0,1,1,23,3,0,0,-1.0,0,0

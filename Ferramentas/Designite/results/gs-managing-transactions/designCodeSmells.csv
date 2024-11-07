@@ -1,0 +1,4 @@
+Project Name,Package Name,Type Name,Code Smell
+gs-managing-transactions,com.example.managingtransactions,AppRunner,Unutilized Abstraction
+gs-managing-transactions,com.example.managingtransactions,ManagingTransactionsApplication,Unutilized Abstraction
+gs-managing-transactions,com.example.managingtransactions,ManagingTransactionsApplicationTests,Unutilized Abstraction

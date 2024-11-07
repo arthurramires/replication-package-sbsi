@@ -1,0 +1,4 @@
+Project Name,Package Name,Type Name,Code Smell
+gs-gateway,gateway,UriConfiguration,Unutilized Abstraction
+gs-gateway,gateway,ApplicationTest,Unutilized Abstraction
+gs-gateway,gateway,Application,Unutilized Abstraction

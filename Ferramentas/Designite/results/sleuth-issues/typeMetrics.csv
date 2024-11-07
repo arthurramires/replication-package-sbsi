@@ -1,0 +1,66 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+sleuth-issues,com.example.deadlock.deferred,Customer,3,0,6,5,23,6,0,0,0.3333333333333333,0,0
+sleuth-issues,com.example.deadlock.deferred,CustomerRepository,0,0,1,0,3,1,0,0,-1.0,0,0
+sleuth-issues,com.example.deadlock.deferred,DeferredApplication,0,0,1,1,5,1,0,0,-1.0,1,1
+sleuth-issues,com.example.deadlock.deferred,DeferredApplicationTests,0,0,1,1,4,1,0,0,-1.0,0,0
+sleuth-issues,net.marcusolk.demo.jms,Application,2,0,2,2,13,2,0,0,1.0,1,1
+sleuth-issues,net.marcusolk.demo.jms,MessageListener,1,0,1,1,13,1,0,0,0.0,0,1
+sleuth-issues,net.marcusolk.demo.jms.configuration,ActiveMQConfiguration,3,0,1,0,11,1,0,0,0.0,0,0
+sleuth-issues,net.marcusolk.demo.jms.configuration,CommonConfiguration,0,0,1,1,7,1,0,0,-1.0,0,0
+sleuth-issues,net.marcusolk.demo.jms.configuration,LogstashLogbackJsonFactoryDecorator,0,0,1,1,9,1,0,0,-1.0,0,0
+sleuth-issues,net.marcusolk.demo.jms.configuration,SleuthSampler,0,0,1,1,5,1,0,0,-1.0,0,0
+sleuth-issues,net.marcusolk.demo.jms.configuration,TestConfiguration,0,0,1,0,5,1,0,0,-1.0,0,0
+sleuth-issues,net.marcusolk.demo.jms.hello,HelloProxy,3,1,2,2,22,2,0,0,0.0,1,0
+sleuth-issues,com.bracso.test.sleuth.webclient,Application,0,0,2,2,14,2,0,0,-1.0,1,1
+sleuth-issues,com.bracso.test.sleuth.webclient,Employee,3,0,16,16,72,19,0,0,0.25,3,1
+sleuth-issues,com.bracso.test.sleuth.webclient,EmployeeController,0,0,3,3,11,3,0,0,-1.0,0,1
+sleuth-issues,com.bracso.test.sleuth.webclient,SleuthTest,3,0,1,1,21,4,0,0,0.0,0,1
+sleuth-issues,(default package),MavenWrapperDownloader,5,0,3,1,84,8,0,0,1.0,0,0
+sleuth-issues,(default package),MavenWrapperDownloader,5,0,3,1,84,8,0,0,1.0,0,0
+sleuth-issues,(default package),MavenWrapperDownloader,4,0,2,1,73,6,0,0,1.0,0,0
+sleuth-issues,(default package),MavenWrapperDownloader,4,0,2,1,73,6,0,0,1.0,0,0
+sleuth-issues,(default package),MavenWrapperDownloader,4,0,2,1,73,6,0,0,1.0,0,0
+sleuth-issues,com.example.demo,DemoApplication,0,0,2,1,8,2,0,0,-1.0,1,1
+sleuth-issues,com.example.demo,TestSpanHandler,1,0,6,6,30,6,0,0,0.0,1,0
+sleuth-issues,com.example.demo,DemoController,5,0,5,5,34,5,0,0,0.8,1,0
+sleuth-issues,com.example.demo,DemoApplicationTests,0,0,11,0,61,13,0,0,-1.0,0,2
+sleuth-issues,com.example.demo,Issue1990Application,0,0,1,1,7,1,0,0,-1.0,2,1
+sleuth-issues,com.example.demo,AppConfig,0,0,0,0,2,0,0,0,-1.0,0,0
+sleuth-issues,com.example.demo,Issue1990ApplicationTests,0,0,2,0,16,2,0,0,-1.0,0,1
+sleuth-issues,com.example.demo,IssueIT,7,0,5,2,60,5,0,0,0.4,1,1
+sleuth-issues,com.example.demo,Config,0,0,1,0,5,1,0,0,-1.0,0,0
+sleuth-issues,com.thagul.testcbr4j.client,TestClient,0,0,1,0,3,1,0,0,-1.0,1,0
+sleuth-issues,com.thagul.testcbr4j.client,TestClientFallback,0,0,1,1,11,1,0,0,-1.0,0,0
+sleuth-issues,com.thagul.testcbr4j.controller,MainController,1,0,1,1,13,1,0,0,0.0,0,1
+sleuth-issues,com.thagul.testcbr4j,Testcbr4jApplication,0,0,1,1,5,1,0,0,-1.0,1,1
+sleuth-issues,com.thagul.testcbr4j,Testcbr4jApplicationTests,1,0,1,1,7,1,0,0,0.0,0,0
+sleuth-issues,com.example.w3c,Issue1900Application,2,0,9,4,33,9,0,0,0.5555555555555556,1,2
+sleuth-issues,com.example.w3c,Config,0,0,3,0,11,3,0,0,-1.0,0,1
+sleuth-issues,com.example.w3c,Service,0,0,2,0,4,2,1,0,-1.0,2,0
+sleuth-issues,com.example.w3c,DefaultService,2,0,3,3,13,3,0,1,0.0,0,0
+sleuth-issues,com.example.w3c,Issue1900ApplicationTests,1,0,2,0,31,7,0,0,1.0,0,0
+sleuth-issues,com.example.w3c,Issue2001Application,0,0,1,1,5,1,0,0,-1.0,1,1
+sleuth-issues,com.example.w3c,WebController,1,0,2,2,17,4,0,0,0.0,0,0
+sleuth-issues,com.example.w3c.test,Issue2001ApplicationIT,1,0,3,1,19,3,0,0,1.0,0,0
+sleuth-issues,com.example.w3c.test,Config,0,0,2,0,8,2,0,0,-1.0,0,0
+sleuth-issues,com.example.w3c.test,TestWebController,2,0,2,1,11,2,0,0,0.0,0,0
+sleuth-issues,com.github.jntakpe.sleuthkafka,SleuthKafkaApplication,7,0,4,3,43,4,0,0,0.5,1,2
+sleuth-issues,com.github.jntakpe.sleuthkafka,KafkaResource,6,0,3,2,37,3,0,0,0.0,0,1
+sleuth-issues,com.github.jntakpe.sleuthkafka,User,2,0,4,4,20,4,0,0,0.5,2,0
+sleuth-issues,com.github.jntakpe.sleuthkafka,IssueIT,4,0,3,1,28,3,0,0,0.6666666666666666,1,1
+sleuth-issues,com.github.jntakpe.sleuthkafka,Config,0,0,1,0,5,1,0,0,-1.0,0,0
+sleuth-issues,com.github.goober.sleuthbug,BriefUserResponse,2,0,12,10,53,16,0,0,0.25,4,1
+sleuth-issues,com.github.goober.sleuthbug,BriefUserResponseBuilder,1,0,4,3,15,4,0,0,0.5,0,1
+sleuth-issues,com.github.goober.sleuthbug,SleuthBugApplication,2,0,3,3,15,3,0,0,1.0,1,3
+sleuth-issues,com.github.goober.sleuthbug,WebClientConfig,1,0,1,1,6,1,0,0,0.0,0,0
+sleuth-issues,com.github.goober.sleuthbug,StubbedExternalClientController,1,0,2,2,11,2,0,0,1.0,0,2
+sleuth-issues,com.github.goober.sleuthbug,User,2,0,12,9,53,16,0,0,0.25,3,1
+sleuth-issues,com.github.goober.sleuthbug,UserBuilder,1,0,4,3,15,4,0,0,0.5,0,1
+sleuth-issues,com.github.goober.sleuthbug,UserClient,1,0,2,0,9,2,0,0,0.0,1,2
+sleuth-issues,com.github.goober.sleuthbug,UserDetails,4,0,12,11,61,16,0,0,0.25,6,1
+sleuth-issues,com.github.goober.sleuthbug,UserDetailsBuilder,2,0,5,4,20,5,0,0,0.4,0,1
+sleuth-issues,com.github.goober.sleuthbug,UserResponse,2,0,14,11,74,23,0,0,0.21428571428571427,3,2
+sleuth-issues,com.github.goober.sleuthbug,UserResponseBuilder,1,0,6,5,36,11,0,0,0.3333333333333333,0,2
+sleuth-issues,com.github.goober.sleuthbug,UserService,1,0,2,2,9,2,0,0,0.0,1,2
+sleuth-issues,com.github.goober.sleuthbug,IssueIT,3,0,2,1,27,2,0,0,0.0,1,1
+sleuth-issues,com.github.goober.sleuthbug,Config,0,0,1,0,5,1,0,0,-1.0,0,0

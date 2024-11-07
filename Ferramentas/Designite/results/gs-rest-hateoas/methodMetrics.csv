@@ -1,0 +1,15 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC
+gs-rest-hateoas,(default package),MavenWrapperDownloader,main,46,5,1
+gs-rest-hateoas,(default package),MavenWrapperDownloader,downloadFileFromURL,19,2,2
+gs-rest-hateoas,(default package),MavenWrapperDownloader,getPasswordAuthentication,3,1,0
+gs-rest-hateoas,(default package),MavenWrapperDownloader,main,46,5,1
+gs-rest-hateoas,(default package),MavenWrapperDownloader,downloadFileFromURL,19,2,2
+gs-rest-hateoas,(default package),MavenWrapperDownloader,getPasswordAuthentication,3,1,0
+gs-rest-hateoas,com.example.resthateoas,Greeting,Greeting,3,1,1
+gs-rest-hateoas,com.example.resthateoas,Greeting,getContent,3,1,0
+gs-rest-hateoas,com.example.resthateoas,GreetingController,greeting,5,1,1
+gs-rest-hateoas,com.example.resthateoas,RestHateoasApplication,main,3,1,1
+gs-rest-hateoas,com.example.resthateoas,GreetingMockMvcTests,envEndpointNotHidden,3,1,0
+gs-rest-hateoas,com.example.resthateoas,GreetingTraversonIntegrationTests,envEndpointNotHidden,5,1,0
+gs-rest-hateoas,com.example.resthateoas,RestHateoasApplication,main,3,1,1
+gs-rest-hateoas,com.example.resthateoas,RestHateoasApplicationTests,contextLoads,2,1,0

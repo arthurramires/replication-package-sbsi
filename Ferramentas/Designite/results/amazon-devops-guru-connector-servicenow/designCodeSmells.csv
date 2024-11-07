@@ -1,0 +1,6 @@
+Project Name,Package Name,Type Name,Code Smell
+amazon-devops-guru-connector-servicenow,aws.devopsguru.partner.servicenow,ServiceNowConnector,Deficient Encapsulation
+amazon-devops-guru-connector-servicenow,aws.devopsguru.partner.servicenow.model,Incident,Broken Modularization
+amazon-devops-guru-connector-servicenow,aws.devopsguru.partner.servicenow.model,ServiceNowResult,Unnecessary Abstraction
+amazon-devops-guru-connector-servicenow,aws.devopsguru.partner.servicenow.model,ServiceNowResults,Unnecessary Abstraction
+amazon-devops-guru-connector-servicenow,aws.devopsguru.servicenow,NewInsightHandlerTest,Unutilized Abstraction

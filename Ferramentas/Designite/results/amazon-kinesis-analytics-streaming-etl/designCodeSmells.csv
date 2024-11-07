@@ -1,0 +1,2 @@
+Project Name,Package Name,Type Name,Code Smell
+amazon-kinesis-analytics-streaming-etl,com.amazonaws.samples.kinesisanalytics.flink.streaming.etl.utils,TripEventBucketAssigner,Unutilized Abstraction

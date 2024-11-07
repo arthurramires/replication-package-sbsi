@@ -1,0 +1,5 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC
+gs-integration,com.example.integration,IntegrationApplication,main,6,1,1
+gs-integration,com.example.integration,FlowTests,test,16,1,0
+gs-integration,com.example.integration,IntegrationApplication,main,3,1,1
+gs-integration,com.example.integration,IntegrationApplicationTests,contextLoads,2,1,0

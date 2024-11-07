@@ -1,0 +1,61 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell,source_file,MethodName,LOC,CC,PC,NOF,NOPF,NOM,NOPM,WMC,NC,DIT,LCOM,FANIN,FANOUT
+gs-spring-cloud-loadbalancer,(default package),MavenWrapperDownloader,main,Empty catch clause,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-spring-cloud-loadbalancer,(default package),MavenWrapperDownloader,main,Long Identifier,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-spring-cloud-loadbalancer,(default package),MavenWrapperDownloader,main,Empty catch clause,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-spring-cloud-loadbalancer,(default package),MavenWrapperDownloader,main,Long Identifier,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-spring-cloud-loadbalancer,hello,SayHelloApplicationTests,shouldReturn200WhenSendingRequestToRoot,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-spring-cloud-loadbalancer,hello,SayHelloApplicationTests,shouldReturn200WhenSendingRequestToGreeting,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-spring-cloud-loadbalancer,hello,DemoServiceInstanceListSuppler,get,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-spring-cloud-loadbalancer,hello,DemoServiceInstanceListSuppler,get,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-spring-cloud-loadbalancer,hello,DemoServiceInstanceListSuppler,get,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-spring-cloud-loadbalancer,hello,DemoServiceInstanceListSuppler,get,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-spring-cloud-loadbalancer,hello,UserApplication,hi,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-spring-cloud-loadbalancer,hello,UserApplication,hello,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-spring-cloud-loadbalancer,hello,UserApplicationTests,startApps,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-spring-cloud-loadbalancer,hello,UserApplicationTests,startApps,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-spring-cloud-loadbalancer,hello,UserApplicationTests,startApps,Magic Number,implementationCodeSmells.csv,,,,,,,,,,,,,,
+gs-spring-cloud-loadbalancer,(default package),MavenWrapperDownloader,,,methodMetrics.csv,main,46.0,5.0,1.0,,,,,,,,,,
+gs-spring-cloud-loadbalancer,(default package),MavenWrapperDownloader,,,methodMetrics.csv,downloadFileFromURL,19.0,2.0,2.0,,,,,,,,,,
+gs-spring-cloud-loadbalancer,(default package),MavenWrapperDownloader,,,methodMetrics.csv,getPasswordAuthentication,3.0,1.0,0.0,,,,,,,,,,
+gs-spring-cloud-loadbalancer,(default package),MavenWrapperDownloader,,,methodMetrics.csv,main,46.0,5.0,1.0,,,,,,,,,,
+gs-spring-cloud-loadbalancer,(default package),MavenWrapperDownloader,,,methodMetrics.csv,downloadFileFromURL,19.0,2.0,2.0,,,,,,,,,,
+gs-spring-cloud-loadbalancer,(default package),MavenWrapperDownloader,,,methodMetrics.csv,getPasswordAuthentication,3.0,1.0,0.0,,,,,,,,,,
+gs-spring-cloud-loadbalancer,hello,SayHelloApplication,,,methodMetrics.csv,main,3.0,1.0,1.0,,,,,,,,,,
+gs-spring-cloud-loadbalancer,hello,SayHelloApplication,,,methodMetrics.csv,greet,7.0,1.0,0.0,,,,,,,,,,
+gs-spring-cloud-loadbalancer,hello,SayHelloApplication,,,methodMetrics.csv,home,4.0,1.0,0.0,,,,,,,,,,
+gs-spring-cloud-loadbalancer,hello,SayHelloApplicationTests,,,methodMetrics.csv,shouldReturn200WhenSendingRequestToRoot,5.0,1.0,0.0,,,,,,,,,,
+gs-spring-cloud-loadbalancer,hello,SayHelloApplicationTests,,,methodMetrics.csv,shouldReturn200WhenSendingRequestToGreeting,5.0,1.0,0.0,,,,,,,,,,
+gs-spring-cloud-loadbalancer,hello,SayHelloConfiguration,,,methodMetrics.csv,serviceInstanceListSupplier,3.0,1.0,0.0,,,,,,,,,,
+gs-spring-cloud-loadbalancer,hello,DemoServiceInstanceListSuppler,,,methodMetrics.csv,DemoServiceInstanceListSuppler,3.0,1.0,1.0,,,,,,,,,,
+gs-spring-cloud-loadbalancer,hello,DemoServiceInstanceListSuppler,,,methodMetrics.csv,getServiceId,3.0,1.0,0.0,,,,,,,,,,
+gs-spring-cloud-loadbalancer,hello,DemoServiceInstanceListSuppler,,,methodMetrics.csv,get,3.0,1.0,0.0,,,,,,,,,,
+gs-spring-cloud-loadbalancer,hello,UserApplication,,,methodMetrics.csv,UserApplication,4.0,1.0,2.0,,,,,,,,,,
+gs-spring-cloud-loadbalancer,hello,UserApplication,,,methodMetrics.csv,main,3.0,1.0,1.0,,,,,,,,,,
+gs-spring-cloud-loadbalancer,hello,UserApplication,,,methodMetrics.csv,hi,3.0,1.0,1.0,,,,,,,,,,
+gs-spring-cloud-loadbalancer,hello,UserApplication,,,methodMetrics.csv,hello,3.0,1.0,1.0,,,,,,,,,,
+gs-spring-cloud-loadbalancer,hello,WebClientConfig,,,methodMetrics.csv,webClientBuilder,3.0,1.0,0.0,,,,,,,,,,
+gs-spring-cloud-loadbalancer,hello,UserApplicationTests,,,methodMetrics.csv,startApps,5.0,1.0,0.0,,,,,,,,,,
+gs-spring-cloud-loadbalancer,hello,UserApplicationTests,,,methodMetrics.csv,closeApps,5.0,1.0,0.0,,,,,,,,,,
+gs-spring-cloud-loadbalancer,hello,UserApplicationTests,,,methodMetrics.csv,shouldRoundRobinOverInstancesWhenCallingServicesViaLoadBalancer,11.0,1.0,0.0,,,,,,,,,,
+gs-spring-cloud-loadbalancer,hello,UserApplicationTests,,,methodMetrics.csv,startApp,3.0,1.0,1.0,,,,,,,,,,
+gs-spring-cloud-loadbalancer,hello,UserApplicationTests,,,methodMetrics.csv,greet,3.0,1.0,0.0,,,,,,,,,,
+gs-spring-cloud-loadbalancer,hello,UserApplicationTests,,,methodMetrics.csv,health,3.0,1.0,0.0,,,,,,,,,,
+gs-spring-cloud-loadbalancer,hello,TestApplication,,,methodMetrics.csv,greet,3.0,1.0,0.0,,,,,,,,,,
+gs-spring-cloud-loadbalancer,hello,TestApplication,,,methodMetrics.csv,health,3.0,1.0,0.0,,,,,,,,,,
+gs-spring-cloud-loadbalancer,(default package),MavenWrapperDownloader,,,typeMetrics.csv,,84.0,,,5.0,0.0,3.0,1.0,8.0,0.0,0.0,1.0,0.0,0.0
+gs-spring-cloud-loadbalancer,(default package),MavenWrapperDownloader,,,typeMetrics.csv,,84.0,,,5.0,0.0,3.0,1.0,8.0,0.0,0.0,1.0,0.0,0.0
+gs-spring-cloud-loadbalancer,hello,SayHelloApplication,,,typeMetrics.csv,,17.0,,,1.0,0.0,3.0,3.0,3.0,0.0,0.0,0.6666666666666666,1.0,1.0
+gs-spring-cloud-loadbalancer,hello,SayHelloApplicationTests,,,typeMetrics.csv,,14.0,,,2.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+gs-spring-cloud-loadbalancer,hello,SayHelloConfiguration,,,typeMetrics.csv,,8.0,,,0.0,0.0,1.0,0.0,1.0,0.0,0.0,-1.0,0.0,0.0
+gs-spring-cloud-loadbalancer,hello,DemoServiceInstanceListSuppler,,,typeMetrics.csv,,12.0,,,1.0,0.0,3.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0
+gs-spring-cloud-loadbalancer,hello,UserApplication,,,typeMetrics.csv,,20.0,,,2.0,0.0,4.0,4.0,4.0,0.0,0.0,0.5,1.0,1.0
+gs-spring-cloud-loadbalancer,hello,WebClientConfig,,,typeMetrics.csv,,5.0,,,0.0,0.0,1.0,0.0,1.0,0.0,0.0,-1.0,0.0,0.0
+gs-spring-cloud-loadbalancer,hello,UserApplicationTests,,,typeMetrics.csv,,44.0,,,6.0,0.0,6.0,2.0,6.0,0.0,0.0,0.5,0.0,1.0
+gs-spring-cloud-loadbalancer,hello,TestApplication,,,typeMetrics.csv,,9.0,,,1.0,0.0,2.0,2.0,2.0,0.0,0.0,1.0,1.0,0.0
+gs-spring-cloud-loadbalancer,(default package),MavenWrapperDownloader,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-spring-cloud-loadbalancer,(default package),MavenWrapperDownloader,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-spring-cloud-loadbalancer,hello,SayHelloApplicationTests,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-spring-cloud-loadbalancer,hello,SayHelloConfiguration,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-spring-cloud-loadbalancer,hello,DemoServiceInstanceListSuppler,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-spring-cloud-loadbalancer,hello,WebClientConfig,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,
+gs-spring-cloud-loadbalancer,hello,UserApplicationTests,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,

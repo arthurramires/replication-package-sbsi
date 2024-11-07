@@ -1,0 +1,9 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+engineering-quickstarts-for-serverless-and-container-applications,com.scale_aws,ApiGatewayResponse,12,0,13,13,93,16,0,0,0.15384615384615385,3,1
+engineering-quickstarts-for-serverless-and-container-applications,com.scale_aws,Builder,8,0,7,7,66,10,0,0,0.0,0,1
+engineering-quickstarts-for-serverless-and-container-applications,com.scale_aws,Application,0,0,3,3,11,3,0,0,-1.0,2,1
+engineering-quickstarts-for-serverless-and-container-applications,com.scale_aws,StreamLambdaHandler,2,0,2,2,20,2,0,0,1.0,0,0
+engineering-quickstarts-for-serverless-and-container-applications,com.scale_aws.hello_world_controller,HelloWorldController,2,0,6,6,73,6,0,0,0.0,0,2
+engineering-quickstarts-for-serverless-and-container-applications,com.scale_aws.hello_world_model,Error,1,0,3,3,12,3,0,0,0.0,0,0
+engineering-quickstarts-for-serverless-and-container-applications,com.scale_aws.hello_world_model,Item,2,0,4,4,16,4,0,0,0.5,1,0
+engineering-quickstarts-for-serverless-and-container-applications,com.scale_aws.test,HelloWorldControllerTest,2,0,2,2,9,2,0,0,1.0,0,1

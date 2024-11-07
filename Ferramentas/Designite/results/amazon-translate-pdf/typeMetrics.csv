@@ -1,0 +1,6 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+amazon-translate-pdf,com.amazon.textract.pdf,FontInfo,3,0,0,0,5,0,0,0,-1.0,1,0
+amazon-translate-pdf,com.amazon.textract.pdf,PDFDocument,2,0,6,5,102,13,0,0,0.0,1,1
+amazon-translate-pdf,com.amazon.textract.pdf,TextLine,6,6,1,1,16,1,0,0,0.0,0,0
+amazon-translate-pdf,(default package),Demo,1,0,1,1,24,3,0,0,0.0,0,1
+amazon-translate-pdf,(default package),DemoPdfFromLocalPdf,1,0,2,1,69,7,0,0,0.0,1,1

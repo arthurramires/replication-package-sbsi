@@ -1,0 +1,5 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell,source_file,MethodName,LOC,CC,PC,NOF,NOPF,NOM,NOPM,WMC,NC,DIT,LCOM,FANIN,FANOUT
+aws-dataexchange-api-samples,com.amazonaws.dataexchange,App,main,Long Statement,implementationCodeSmells.csv,,,,,,,,,,,,,,
+aws-dataexchange-api-samples,com.amazonaws.dataexchange,App,,,methodMetrics.csv,main,9.0,2.0,1.0,,,,,,,,,,
+aws-dataexchange-api-samples,com.amazonaws.dataexchange,App,,,typeMetrics.csv,,11.0,,,0.0,0.0,1.0,1.0,2.0,0.0,0.0,-1.0,0.0,0.0
+aws-dataexchange-api-samples,com.amazonaws.dataexchange,App,,Unutilized Abstraction,designCodeSmells.csv,,,,,,,,,,,,,,

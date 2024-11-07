@@ -1,0 +1,10 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+gs-centralized-configuration,com.example.configurationclient,ConfigurationClientApplication,0,0,1,1,5,1,0,0,-1.0,1,1
+gs-centralized-configuration,com.example.configurationclient,MessageRestController,1,0,1,0,6,1,0,0,0.0,1,0
+gs-centralized-configuration,com.example.configurationclient,ConfigurationClientApplicationTest,3,0,1,1,12,1,0,0,0.0,0,1
+gs-centralized-configuration,com.example.configurationservice,ConfigurationServiceApplication,0,0,1,1,5,1,0,0,-1.0,1,1
+gs-centralized-configuration,com.example.configurationservice,ConfigurationServiceApplicationTest,1,0,1,1,6,1,0,0,0.0,0,0
+gs-centralized-configuration,com.example.centralizedconfigurationclient,CentralizedConfigurationClientApplication,0,0,1,1,5,1,0,0,-1.0,1,1
+gs-centralized-configuration,com.example.centralizedconfigurationclient,CentralizedConfigurationClientApplicationTests,0,0,1,0,4,1,0,0,-1.0,0,0
+gs-centralized-configuration,com.example.centralizedconfigurationservice,CentralizedConfigurationServiceApplication,0,0,1,1,5,1,0,0,-1.0,1,1
+gs-centralized-configuration,com.example.centralizedconfigurationservice,CentralizedConfigurationServiceApplicationTests,0,0,1,0,4,1,0,0,-1.0,0,0

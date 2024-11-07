@@ -1,0 +1,7 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC
+gs-rest-service,com.example.restservice,GreetingController,greeting,3,1,1
+gs-rest-service,com.example.restservice,RestServiceApplication,main,3,1,1
+gs-rest-service,com.example.restservice,GreetingControllerTests,noParamGreetingShouldReturnDefaultMessage,3,1,0
+gs-rest-service,com.example.restservice,GreetingControllerTests,paramGreetingShouldReturnTailoredMessage,3,1,0
+gs-rest-service,com.example.restservice,RestServiceApplication,main,3,1,1
+gs-rest-service,com.example.restservice,RestServiceApplicationTests,contextLoads,2,1,0

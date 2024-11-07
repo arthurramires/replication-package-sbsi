@@ -1,0 +1,12 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+clickstream-consumer-for-apache-kafka,com.amazonaws.kafka.samples,ConsumerConfigs,19,0,2,0,145,24,0,0,0.0,5,3
+clickstream-consumer-for-apache-kafka,com.amazonaws.kafka.samples,KafkaClickstreamConsumer,28,0,4,1,170,23,0,0,0.5,8,6
+clickstream-consumer-for-apache-kafka,com.amazonaws.kafka.samples,KafkaConsumerFactory,0,0,1,0,5,1,0,0,-1.0,0,1
+clickstream-consumer-for-apache-kafka,com.amazonaws.kafka.samples,MirrorClientSource,2,0,4,2,49,9,0,0,0.75,3,2
+clickstream-consumer-for-apache-kafka,com.amazonaws.kafka.samples,MM2Config,3,0,1,0,41,8,0,0,0.0,2,2
+clickstream-consumer-for-apache-kafka,com.amazonaws.kafka.samples,ParametersValidator,0,0,1,0,19,6,0,0,-1.0,1,1
+clickstream-consumer-for-apache-kafka,com.amazonaws.kafka.samples,Rebalance,6,0,3,2,53,8,0,0,0.0,0,1
+clickstream-consumer-for-apache-kafka,com.amazonaws.kafka.samples,RunConsumer,6,0,4,1,77,10,0,0,0.0,0,2
+clickstream-consumer-for-apache-kafka,com.amazonaws.kafka.samples,Util,1,0,7,0,82,11,0,0,0.42857142857142855,4,5
+clickstream-consumer-for-apache-kafka,samples.clickstream.avro,ClickEvent,17,9,61,58,549,93,0,0,0.2786885245901639,2,2
+clickstream-consumer-for-apache-kafka,samples.clickstream.avro,Builder,8,0,36,33,340,52,0,0,0.3888888888888889,2,2

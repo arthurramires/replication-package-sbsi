@@ -1,0 +1,7 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+gs-rest-service-cors,com.example.restservicecors,Greeting,2,0,4,4,18,4,0,0,0.0,1,0
+gs-rest-service-cors,com.example.restservicecors,GreetingController,2,0,2,2,12,2,0,0,0.0,0,0
+gs-rest-service-cors,com.example.restservicecors,RestServiceCorsApplication,0,0,3,3,13,3,0,0,-1.0,2,1
+gs-rest-service-cors,com.example.restservicecors,GreetingIntegrationTests,1,0,3,2,20,3,0,0,0.0,0,1
+gs-rest-service-cors,com.example.restservicecors,RestServiceCorsApplication,0,0,1,1,5,1,0,0,-1.0,0,1
+gs-rest-service-cors,com.example.restservicecors,RestServiceCorsApplicationTests,0,0,1,1,4,1,0,0,-1.0,0,0

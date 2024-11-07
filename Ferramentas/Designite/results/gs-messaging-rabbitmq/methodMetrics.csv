@@ -1,0 +1,13 @@
+Project Name,Package Name,Type Name,MethodName,LOC,CC,PC
+gs-messaging-rabbitmq,com.example.messagingrabbitmq,MessagingRabbitmqApplication,queue,3,1,0
+gs-messaging-rabbitmq,com.example.messagingrabbitmq,MessagingRabbitmqApplication,exchange,3,1,0
+gs-messaging-rabbitmq,com.example.messagingrabbitmq,MessagingRabbitmqApplication,binding,3,1,2
+gs-messaging-rabbitmq,com.example.messagingrabbitmq,MessagingRabbitmqApplication,container,7,1,2
+gs-messaging-rabbitmq,com.example.messagingrabbitmq,MessagingRabbitmqApplication,listenerAdapter,3,1,1
+gs-messaging-rabbitmq,com.example.messagingrabbitmq,MessagingRabbitmqApplication,main,3,1,1
+gs-messaging-rabbitmq,com.example.messagingrabbitmq,Receiver,receiveMessage,4,1,1
+gs-messaging-rabbitmq,com.example.messagingrabbitmq,Receiver,getLatch,3,1,0
+gs-messaging-rabbitmq,com.example.messagingrabbitmq,Runner,Runner,4,1,2
+gs-messaging-rabbitmq,com.example.messagingrabbitmq,Runner,run,5,1,1
+gs-messaging-rabbitmq,com.example.messagingrabbitmq,MessagingRabbitmqApplicationTest,test,8,1,0
+gs-messaging-rabbitmq,com.example.messagingrabbitmq,MessagingRabbitmqApplication,main,3,1,1
